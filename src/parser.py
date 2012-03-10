@@ -8,7 +8,8 @@ Module used to read files into BeautifulSoup parse tree
 from BeautifulSoup import BeautifulStoneSoup
 import re, os.path, sys
 
-SOURCE = "/home/maf/Media/2004"
+#SOURCE = "/home/maf/Media/2004"
+SOURCE = "data"
 
 SELF_CLOSING_TAGS = ['acceptance-datetime', 'type',
                      'sequence', 'filename', 'description']
@@ -46,3 +47,9 @@ def parseSource():
         if (d):
             docs.append(d)
     return docs
+
+def main(argv=None):
+    parseSource()
+    
+if __name__ == '__main__':
+    sys.exit(main())

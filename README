@@ -1,0 +1,58 @@
+<!-- HTML: -->
+
+<SEC-DOCUMENT>
+
+    <SEC-HEADER>
+        <ACCEPTANCE-DATETIME>
+    </SEC-HEADER>
+
+    <DOCUMENT>
+        <TYPE>20-F
+        <SEQUENCE>
+        <FILENAME>
+        <TEXT>
+            <HTML> <!-- ... --> </HTML>
+        </TEXT>
+    </DOCUMENT>
+
+    <DOCUMENT>
+        <TYPE>GRAPHIC
+        <SEQUENCE>
+        <FILENAME>
+        <TEXT>
+            <!-- IGNORE -->
+        </TEXT>
+    </DOCUMENT>
+
+</SEC-DOCUMENT>
+
+<!-- TEXT: -->
+
+<SEC-DOCUMENT>
+
+    <SEC-HEADER>
+        <ACCEPTANCE-DATETIME>
+    </SEC-HEADER>
+
+    <DOCUMENT>
+        <TYPE>20-F
+        <SEQUENCE>
+        <FILENAME>
+        <TEXT>
+            <!-- ... -->
+            <PAGE>
+            <!-- ... -->
+            <TABLE> <!-- IGNORE --> </TABLE>
+        </TEXT>
+    </DOCUMENT>
+
+    <DOCUMENT>
+        <TYPE>EX-1.2
+        <!-- same as above -->
+    </DOCUMENT>
+
+    <!-- ... -->
+
+</SEC-DOCUMENT>
+
+</SEC-DOCUMENT>
