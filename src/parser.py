@@ -2,138 +2,142 @@
 
 """parser.py
 
-Module used to parse source documents
+Module used to parse SEC forms
 """
 
 from BeautifulSoup import BeautifulStoneSoup, BeautifulSoup
 import re, os.path, sys, lxml.html, codecs
+import secdoc
 
-DIR_ORIGINAL = "/home/maf/Media/2004"
-DIR_HTML = "/home/maf/Media/2004/html"
-DIR_TEXT = "/home/maf/Media/2004/text"
+# Document directories
+DIR_FORM = "/home/maf/Media/doc/2004"
+DIR_HTML = "/home/maf/Media/html"
+DIR_TEXT = "/home/maf/Media/text"
+
 SELF_CLOSING_TAGS = ['acceptance-datetime', 'type',
                      'sequence', 'filename', 'description']
-# TODO: Add greedy whitespace to avoid empty docs
-HTML_PATTERN = re.compile(r'(?<=<TYPE>20-F)(?:.*?html>)(.*?)(?=</html>)', 
+
+# Matches the XML sections
+HEAD_PATTERN = re.compile(r'(?<=<SEC-HEADER>)(.*?)(?=</SEC-HEADER>)',
         flags=(re.DOTALL|re.IGNORECASE))
-TEXT_PATTERN = re.compile(r'(?<=<TYPE>20-F)(?:.*?TEXT>)(.*?)(?=</TEXT>)',
-        flags=(re.DOTALL|re.IGNORECASE))
-IMG_PATTERN = re.compile(r'(?<=<TYPE>GRAPHIC)(?:.*?TEXT>)(.*?)(?=</TEXT>)',
-        flags=(re.DOTALL|re.IGNORECASE))
-PDF_PATTERN = re.compile(r'(?<=<PDF>)(.*?)(?=</PDF>)',
+TEXT_PATTERN = re.compile(r'(?<=<TYPE>20)(?:.*?TEXT>)(.*?)(?=</TEXT>)',
         flags=(re.DOTALL|re.IGNORECASE))
 
-# Remove binary data and return parse tree or None if the document could not be parsed
-def parse(docname):
-    rf = open(DIR_ORIGINAL+'/'+docname+'.txt', 'r')
-    try:
-        xml = rf.read()
-        # Remove binary data and generate parse tree
-        xml = re.sub(IMG_PATTERN, '', xml)
-        xml = re.sub(PDF_PATTERN, '', xml)
-        doc = BeautifulStoneSoup(xml, selfClosingTags=SELF_CLOSING_TAGS,
-                convertEntities=BeautifulStoneSoup.HTML_ENTITIES)
-        return doc
-    except (KeyboardInterrupt, SystemExit):
-        raise
-    except Exception, e:
-        print "Parse error in", docname, ":", e.__str__()
+# Matches document attributes of the header
+COMP_NAME_PATTERN   = re.compile(r'(?<=COMPANY CONFORMED NAME:)(?:\s*)(.*?)(?=\r?\n)',
+        flags=(re.IGNORECASE))
+COMP_CIK_PATTERN    = re.compile(r'(?<=CENTRAL INDEX KEY:)(?:\s*)(.*?)(?=\r?\n)',
+        flags=(re.IGNORECASE))
+DOC_TYPE_PATTERN    = re.compile(r'(?<=FORM TYPE:)(?:\s*)(.*?)(?=\r?\n)',
+        flags=(re.IGNORECASE))
+REPORT_DATE_PATTERN = re.compile(r'(?<=CONFORMED PERIOD OF REPORT:)(?:\s*)(.*?)(?=\r?\n)',
+        flags=(re.IGNORECASE))
+FILING_DATE_PATTERN = re.compile(r'(?<=FILED AS OF DATE:)(?:\s*)(.*?)(?=\r?\n)',
+        flags=(re.IGNORECASE))
+
+# Matches types of content
+HTML_PATTERN = re.compile(r'(?<=<html>)(.*?)(?=</html>)',
+        flags=(re.DOTALL|re.IGNORECASE))
+IMG_PATTERN  = re.compile(r'(?<=<TYPE>GRAPHIC)(?:.*?TEXT>)(.*?)(?=</TEXT>)',
+        flags=(re.DOTALL|re.IGNORECASE))
+PDF_PATTERN  = re.compile(r'(?<=<PDF>)(.*?)(?=</PDF>)',
+        flags=(re.DOTALL|re.IGNORECASE))
+
+# Matches sections of the form text
+ITEM5_PATTERN = re.compile(r'(?:ITEM\s*?5)(?:\s*?.\s*?.\s*?)(?:Operating\s+)(?:\w{0,3})?(?:\s+Financial\s+Review\s+and\s+Prospects\s*?[\.|-]?\s*?\n)(.*?)(?=ITEM\s*?6\s*?.\s*?.\s*?Directors,?\s+)(?:\w{0,3})?(\s+Senior\s+Management,?\s+and\s+Employees)',
+        flags=(re.DOTALL|re.IGNORECASE))
+NA_PATTERN = re.compile(r'^\s*(Not Applicable\.?)\s*$', flags=(re.DOTALL|re.IGNORECASE))
+NONE_PATTERN = re.compile(r'^\s*$', flags=(re.DOTALL|re.IGNORECASE))
+
+# Methods to count words
+def ors(l): return r"|".join([re.escape(c) for c in l])
+def retext(text, chars, sub): return re.compile(ors(chars)).sub(sub, text)
+def countWords(text):
+    text = retext(text, [" ", "\n"], u" ")
+    text = retext(text.strip(), [], u"")
+    words = text and len(re.compile(r"[ ]+").split(text)) or 0
+    return words
+
+# Finds and returns the first instance of a pattern in a string
+def findOnce(pattern, string, verbose=False):
+    match = pattern.search(string)
+    if match:
+        return match.group()
+    else:
+        if verbose:
+            print "could not match", pattern.pattern
         return None
-    finally:
-        rf.close()
 
-# Output text content to file
-def parseText(docname):
-    rf = open(DIR_ORIGINAL+'/'+docname+'.txt', 'r')
-    wf = open(DIR_HTML+'/'+docname+'.html', 'w')
-    try:
-        xml = rf.read()
-        docs = re.findall(HTML_PATTERN, xml)
-        if not docs: # Alternate file format
-            docs = re.findall(TEXT_PATTERN, xml)
-            if not docs: return None
-            wf.close()
-            wf = open(DIR_TEXT+'/'+docname+'.txt', 'w')
-        wf.write(''.join(docs))
-        """
-        if not docs return
-        html = []
-        for doc in docs:
-            html.append(BeautifulSoup(doc, convertEntities=BeautifulSoup.HTML_ENTITIES))
-        wf = codecs.open(DIR_HTML+'/'+docname, 'w', html[0].originalEncoding)
-        for doc in html:
-            wf.write(''.join(doc.findAll(text=True)))
-        """
-    except (KeyboardInterrupt, SystemExit):
-        raise
-    except Exception, e:
-        print "Parse error in", docname, ":", e.__str__()
-        return None
-    finally:
-        rf.close()
-        wf.close()
+# Parse SEC-HEADER and return Company and Doc objects
+def parseHeader(docName, verbose=False):
+    # Extract Header content
+    with open(DIR_FORM+'/'+docName+'.txt', 'r') as rfile:
+        xml = rfile.read()
+    header     = findOnce(HEAD_PATTERN, xml, verbose=verbose)
+    filer = secdoc.Company(findOnce(COMP_NAME_PATTERN, header, verbose=verbose),
+                           findOnce(COMP_CIK_PATTERN, header, verbose=verbose))
+    form = secdoc.Doc(docName, findOnce(DOC_TYPE_PATTERN, header, verbose=verbose),
+                           findOnce(REPORT_DATE_PATTERN, header, verbose=verbose),
+                           findOnce(FILING_DATE_PATTERN, header, verbose=verbose))
+    return (filer, form)
 
+# Parse ITEM 5 of the form of return None if absent of 'Not Applicable'
+def parseItem5(form, docName="", verbose=True):
+    allMatch = ITEM5_PATTERN.findall(form)
+    for match in allMatch:
+        if not NONE_PATTERN.findall(match) and not NA_PATTERN.findall(match) and countWords(match) > 100:
+            return match
+    if verbose:
+        print docName, ": No Item 5"
+    return None
 
-# FAILED ATTEMPT: beautifulSoup does not properly detect encoding
-"""
-def parseText(docname):
-    rf = open(DIR_ORIGINAL+'/'+docname, 'r')
-    try:
-        xml = rf.read()
-        # Remove binary data and generate parse tree
-        xml = re.sub(IMG_PATTERN, '', xml)
-        xml = re.sub(PDF_PATTERN, '', xml)
-        doc = BeautifulStoneSoup(xml, selfClosingTags=SELF_CLOSING_TAGS,
-                convertEntities=BeautifulStoneSoup.HTML_ENTITIES)
-        wf = codecs.open(DIR_HTML+'/'+docname, 'w', doc.originalEncoding)
-        print doc.originalEncoding
-        wf.write(''.join(doc.findAll(text=True)))
-        #print ''.join(doc.findAll(text=True))
-    except (KeyboardInterrupt, SystemExit):
-        raise
-    except Exception, e:
-        print docname
-        raise
-        print "Parse error in", docname, ":", e.__str__()
-        return None
-    finally:
-        rf.close()
-        
-        try:
-            l = len(d.contents[1])
-            s = ""
-            for i in range(3, l, 2): # Location of <DOCUMENT>s
-                #if (d.contents[1].contents[i].contents[2] is u'20-F\r\n'): # NOT TESTED (verifies if 20-F form)
-                if (len(d.contents[1].contents[i] >= 10)): # Removes binary <DOCUMENT>s
-                    s += 
-            # write s to file DESTINATION/name
-"""        
-    
-# Get list of source documents
-def getSourceList():
-    docnames = []
-    for root, dirs, files in os.walk(DIR_ORIGINAL):
+# Parse a 20-F form and extract text content
+def parseText(docName, verbose=False):
+    # Extract Header content
+    with open(DIR_FORM+'/'+docName+'.txt', 'r') as rfile:
+        xml = rfile.read()
+    # Default parse strategy for plain text content
+    wfilename = DIR_TEXT+'/'+docName+'.txt'
+    content = findOnce(TEXT_PATTERN, xml, verbose=verbose)
+    html = findOnce(HTML_PATTERN, content, verbose=verbose)
+    if html: # Alternate parse strategy for HTML content
+        wfilename = DIR_HTML+'/'+docName+'.html'
+        content = html
+    else: # Plain text document only
+        content = parseItem5(content, docName=docName)
+    # Write content to file
+    if content and not NONE_PATTERN.findall(content):
+        with open(wfilename, 'w') as wfile:
+            wfile.write(content)
+
+# Get list of form document names
+def getFormList(verbose=False):
+    docNames = []
+    for root, dirs, files in os.walk(DIR_FORM):
         for name in files:
-            docnames.append(name[0:-4]) # Truncate '.txt' off filename
-    return sorted(docnames)
+            # Truncate '.txt' off filename
+            docNames.append(name[0:-4]) 
+    return sorted(docNames)
 
-# Parse documents in source directory and write 
-def parseSource():
-    docs = []
-    docnames = getSourceList()
-    for name in docnames:
-        d = parse(name)
-        if (d):
-            docs.append(d)
-    return docs
-
-def parseTextSource():
-    docnames = getSourceList()
-    for name in docnames:
-        parseText(name)
+# Parse all forms
+def parseForms(verbose=False):
+    docNames = getFormList(verbose=verbose)
+    filers = []
+    for docName in docNames:
+        filer, form = parseHeader(docName, verbose=verbose)
+        f = secdoc.findByCik(filer.cik, filers)
+        if f is None:
+            filers.append(filer)
+            f = secdoc.findByCik(filer.cik, filers)
+        f.docs.append(form)
+        parseText(docName, verbose=verbose)
+        if verbose:
+            print "parsed", docName
+    return filers
 
 def main(argv=None):
-    parseTextSource()
+    filers = parseForms(verbose=False)
+    print len(filers)
     
 if __name__ == '__main__':
     sys.exit(main())
