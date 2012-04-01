@@ -1,0 +1,50 @@
+Classified Negative:
+0000902561-04-000024 : No Item 5    NA
+0000902561-04-000025 : No Item 5    NA
+0000902561-04-000121 : No Item 5    NA
+0000902561-04-000122 : No Item 5    NA
+0000902561-04-000123 : No Item 5    NA
+0000902561-04-000124 : No Item 5    NA
+0000902561-04-000125 : No Item 5    NA
+0000902561-04-000126 : No Item 5    NA
+0000902561-04-000127 : No Item 5    NA
+0000902561-04-000128 : No Item 5    NA
+0000905148-04-003057 : No Item 5    NA
+0000905148-04-003059 : No Item 5    NA
+0000905148-04-003060 : No Item 5    NA
+0000909012-04-000434 : No Item 5    *Different title Item 5*
+0000909567-04-000790 : No Item 5    NONE
+0000910680-04-000611 : No Item 5    fixed?
+0000910680-04-000733 : No Item 5    fixed?
+0000911420-04-000248 : No Item 5    *'See...' before title*
+0000919574-04-001365 : No Item 5    *Typo in title ITEM 6*
+0000950103-04-001376 : No Item 5    *No 'Item x' in titles*
+0000950123-04-003824 : No Item 5    *Type in title ITEM 5*
+0000950123-04-008080 : No Item 5    *Different title Item 6*
+0000950123-04-008436 : No Item 5    *Joint sections 4-5*
+0000950136-04-002525 : No Item 5    *Different title Item 5*
+0000950157-04-000439 : No Item 5    *No 'Item x' in titles*
+0000950162-04-000573 : No Item 5    *Different title Item 6*
+0000950172-04-002275 : No Item 5    *Cross reference sheet*
+0001015402-04-004160 : No Item 5    *No main title Item 5*
+0001054487-04-000010 : No Item 5    *Different title Item 6*
+0001116581-04-000004 : No Item 5    **Misclassified HTML (no closing tag)**
+0001125282-04-001503 : No Item 5    *Different title Item 6* 
+0001135174-04-000004 : No Item 5    NONE
+0001139020-04-000109 : No Item 5    *Different title Item 5&6*
+0001141218-04-000019 : No Item 5    *Different title Item 5&6*
+0001188112-04-000968 : No Item 5    fixed?
+
+False Negatives: 20
+True Negatives:  15
+
+Classified True:
+0000908737-04-000434.txt            *Captured too much*
+0000950123-04-008028.txt            *Captured too much*
+
+False Positives:  2
+True Positives: 210
+
+Total:          247
+
+978 distinct CIK
