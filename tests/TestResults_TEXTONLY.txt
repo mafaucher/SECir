@@ -1,4 +1,5 @@
 Classified Negative:
+
 0000902561-04-000024 : No Item 5    NA
 0000902561-04-000025 : No Item 5    NA
 0000902561-04-000121 : No Item 5    NA
@@ -39,8 +40,10 @@ False Negatives: 20
 True Negatives:  15
 
 Classified True:
+
 0000908737-04-000434.txt            *Captured too much*
 0000950123-04-008028.txt            *Captured too much*
+...
 
 False Positives:  2
 True Positives: 210
