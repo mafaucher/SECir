@@ -1,5 +1,73 @@
-EXAMPLE DOCUMENT STRUCTURE 
-(index from BeautifulSoup parse tree)
+=========================================
+HTML formated document structure:
+=========================================
+
+<SEC-DOCUMENT>
+
+    <SEC-HEADER>
+        <ACCEPTANCE-DATETIME>
+    </SEC-HEADER>
+
+    <DOCUMENT>
+        <TYPE>20-F
+        <SEQUENCE>
+        <FILENAME>
+        <TEXT>
+            <HTML> <!-- ... --> </HTML>
+        </TEXT>
+    </DOCUMENT>
+
+    <DOCUMENT>
+        <TYPE>GRAPHIC <!--or--> PDF
+        <SEQUENCE>
+        <FILENAME>
+        <TEXT>
+            <!-- IGNORED -->
+        </TEXT>
+    </DOCUMENT>
+
+</SEC-DOCUMENT>
+
+=========================================
+TEXT formated document structure:
+=========================================
+
+<SEC-DOCUMENT>
+
+    <SEC-HEADER>
+        <ACCEPTANCE-DATETIME>
+    </SEC-HEADER>
+
+    <DOCUMENT>
+        <TYPE>20-F
+        <SEQUENCE>
+        <FILENAME>
+        <TEXT>
+            <!-- ... -->
+            <PAGE>
+            <!-- ... -->
+            <TABLE> <!-- IGNORE --> </TABLE>
+        </TEXT>
+    </DOCUMENT>
+
+    <DOCUMENT>
+        <TYPE>EX-1.2
+        <!-- same as above -->
+    </DOCUMENT>
+
+    <!-- ... -->
+
+</SEC-DOCUMENT>
+
+</SEC-DOCUMENT>
+
+==========================================
+EXAMPLE DOCUMENT STRUCTURE
+(index from BeautifulSoup parse tree using
+self-closing: ['acceptance-datetime',
+               'type', 'sequence',
+               'filename', 'description'])
+==========================================
 
 Content of 0000078150-04-000034.txt:
 0: Privacy info
@@ -34,61 +102,3 @@ Content of 0000078150-04-000034.txt:
     1.6: \n
 <=========== potentially additional document tags ===========>
 2: Privacy info
-HTML formated document structure:
-
-<SEC-DOCUMENT>
-
-    <SEC-HEADER>
-        <ACCEPTANCE-DATETIME>
-    </SEC-HEADER>
-
-    <DOCUMENT>
-        <TYPE>20-F
-        <SEQUENCE>
-        <FILENAME>
-        <TEXT>
-            <HTML> <!-- ... --> </HTML>
-        </TEXT>
-    </DOCUMENT>
-
-    <DOCUMENT>
-        <TYPE>GRAPHIC
-        <SEQUENCE>
-        <FILENAME>
-        <TEXT>
-            <!-- IGNORE -->
-        </TEXT>
-    </DOCUMENT>
-
-</SEC-DOCUMENT>
-
-TEXT formated document structure:
-
-<SEC-DOCUMENT>
-
-    <SEC-HEADER>
-        <ACCEPTANCE-DATETIME>
-    </SEC-HEADER>
-
-    <DOCUMENT>
-        <TYPE>20-F
-        <SEQUENCE>
-        <FILENAME>
-        <TEXT>
-            <!-- ... -->
-            <PAGE>
-            <!-- ... -->
-            <TABLE> <!-- IGNORE --> </TABLE>
-        </TEXT>
-    </DOCUMENT>
-
-    <DOCUMENT>
-        <TYPE>EX-1.2
-        <!-- same as above -->
-    </DOCUMENT>
-
-    <!-- ... -->
-
-</SEC-DOCUMENT>
-
-</SEC-DOCUMENT>
