@@ -16,6 +16,7 @@ DIR_FORM = "/home/maf/Media/doc"    # Directory for original forms
 DIR_TEXT = "/home/maf/Media/text"   # Directory for parsed text
 FILING_LIST = "/home/maf/Projects/SECir/filingslist.csv"
 LOG_FILE = "/home/maf/Projects/SECir/tests/Test_LATEST.txt"
+FORM_FILE = "/home/maf/Projects/SECir/tests/unparsed.txt"
 
 
 
@@ -49,18 +50,19 @@ PDF_PATTERN  = re.compile(r'(?<=<PDF>)(.*?)(?=</PDF>)',
 
 # Item 9 (...-2000)
 # First pass version
-ITEM9_PATTERN = re.compile(r'\n\s*(?:ITEM\s*9.{0,15}?management.{0,2}\s*discussion\s*)(?:.{0,3}?\s*analysis\s*of\s*financial\s*condition\s*.{0,3}\s*results\s*of\s*operations)?(?!\n\s*ITEM\s*9.{0,10}?management.{0,2}\s*discussion\s*)(.*?)(?=\s*\n\s*ITEM\s*10)',
+ITEM9_PATTERN   = re.compile(r'\n\s*(?:ITEM\D{0,5}9.{0,15}?management.{0,2}\s*discussion\s*)(?:.{0,3}?\s*analysis\s*of\s*financial\s*condition\s*.{0,3}\s*results\s*of\s*operations\s*)?(?!\n\s*ITEM\D{0,5}9.{0,10}?management.{0,2}\s*discussion\s*)(.*?)(?=\s*\n\s*ITEM\D{0,5}10)',
         flags=(re.DOTALL|re.IGNORECASE))
 # Second pass version
-ITEM9P2_PATTERN = re.compile(r'\n\s*(?:ITEM\s*9.{0,15}?management.{0,2}\s*discussion\s*)(?:.{0,3}?\s*analysis\s*of\s*financial\s*condition\s*.{0,3}\s*results\s*of\s*operations)?(.*)',
+ITEM9P2_PATTERN = re.compile(r'\n\s*(?:ITEM\D{0,5}9.{0,15}?management.{0,2}\s*discussion\s*)(?:.{0,3}?\s*analysis\s*of\s*financial\s*condition\s*.{0,3}\s*results\s*of\s*operations\s*)?(.*)',
         flags=(re.DOTALL|re.IGNORECASE))
 
 # Item 5 (2001-...)
 # First pass version
-ITEM5_PATTERN = re.compile(r'\n\s*(?:ITEM\s*5.{0,15}?operating\s*)(?:.{0,3}?\s*financial\s*review\s*.{0,3}?\s*prospects\s*.{0,3}?\s*\n\s*)?(?!\n\s*ITEM\s*5.{0,10}?operating\s*)(.*?)(?=\s*\n\s*ITEM\s*6)',
+# TRY: ITEM\s*\xc2?\xa0?5
+ITEM5_PATTERN   = re.compile(r'\n\s*(?:ITEM\D{0,5}5.{0,15}?operating\s*)(?:.{0,3}?\s*financial\s*review\s*.{0,3}?\s*prospects\s*)?(?!\n\s*ITEM\D{0,5}5.{0,10}?operating\s*)(.*?)(?=\s*\n\s*ITEM\D{0,5}6)',
         flags=(re.DOTALL|re.IGNORECASE))
 # Second pass version
-ITEM5P2_PATTERN = re.compile(r'\n\s*(?:ITEM\s*5.{0,15}?operating\s*)(?:.{0,3}?\s*financial\s*review\s*.{0,3}?\s*prospects\s*.{0,3}?\s*\n\s*)?(.*)',
+ITEM5P2_PATTERN = re.compile(r'\n\s*(?:ITEM\D{0,5}5.{0,15}?operating\s*)(?:.{0,3}?\s*financial\s*review\s*.{0,3}?\s*prospects\s*)?(.*)',
         flags=(re.DOTALL|re.IGNORECASE))
 
 # SEC-XML tags
@@ -242,7 +244,8 @@ def getFormList(verbose=False):
 # @return writes CSV file for form list
 # @return writes parsed text content (currently only Item 5)
 def parseForms(verbose=True):
-    docNames = getFormList()
+    # docNames = getFormList()
+    docNames = open(FORM_FILE, 'r').read().split()
     listLen = len(docNames)
     current = 0.0
     lastint = 0
