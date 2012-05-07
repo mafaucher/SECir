@@ -133,7 +133,7 @@ def strip_markup(text):
 
 
 
-# PARSER METHODS
+# 1st PARSER METHODS
 
 ##
 # Finds and returns the first instance of a pattern in a string.
@@ -210,7 +210,7 @@ def parseText(docName, verbose=True):
         return None
     html = findOnce(HTML_PATTERN, content)
     if html: # Strip HTML content
-        content = strip_html(content).encode('UTF-8')
+        content = strip_html(content).encode('UTF-8').replace("\xc2\xa0", " ")
     # Get item depending on year of filing
     #if int(os.path.dirname(docName)) <= 2000:
     item = parseItem(ITEM9_PATTERN, ITEM9P2_PATTERN, content, docName)
@@ -278,6 +278,21 @@ def parseForms(verbose=True):
             lastint = done
             print "COMPLETED:", str(done), '%'
     print "FINISHED PARSING:", str(parsed)+'/'+str(parsed+ignore), str(100*(float(parsed)/float(parsed+ignore)))+'%'
+
+
+
+def paragraphs(file, separator=None):
+    if not callable(separator):
+        def separator(line): return line == '\r\n' or line == '\n'
+    paragraph = []
+    for line in file:
+        if separator(line):
+            if paragraph:
+                yield ''.join(paragraph)
+                paragraph = []
+        else:
+            paragraph.append(line)
+    if paragraph: yield ''.join(paragraph)
 
 
 

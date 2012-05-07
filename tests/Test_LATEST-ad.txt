@@ -1,3 +1,6 @@
+1ST RUN:
+========
+
 1996 - time: 0m9.172s
 FINISHED PARSING: 16/17 94.1176470588%
 
@@ -36,6 +39,7 @@ FINISHED PARSING: 588/981 59.9388379205%
 FINISHED PARSING: 570/950 60%
 
 2008 - time: unknown
+
 FINISHED PARSING: 453/835 54.251497%
 NOT FINISHED PARSING: 0001279569-08-000263.txt, 0001415408-08-000423.txt
 
@@ -49,6 +53,28 @@ TOTAL - EXTRACTED - UNIQUE - ERROR* - INVALID**
 
 extraction rate:            62.93%
 adjusted extraction rate:   69.12%
+
+*  Parser did not terminate
+** Invalid document, starts with "9999999997"
+===============================================
+
+
+
+2ND RUN (UNPARSED ONLY:
+=======================
+
+FINISHED PARSING: 1283/3334 38.4823035393%
+
+real    128m24.604s
+user    57m1.206s
+sys     1m40.566s
+
+===============================================
+TOTAL - EXTRACTED - UNIQUE - ERROR* - INVALID**
+ 9007        6948     6908       5        812
+
+extraction rate:            77.14%
+adjusted extraction rate:   84.29%
 
 *  Parser did not terminate
 ** Invalid document, starts with "9999999997"

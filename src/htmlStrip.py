@@ -5,10 +5,9 @@
 Script to remove HTML tags
 """
 
-import parser
+import sys, parser
 
-FILE = "2008/0001193125-08-060572"
-
+FILE = "2009/0001362310-09-007787"
 
 ##
 # Parse the Text content (currently only Item 5/9)
@@ -25,13 +24,13 @@ def htmlStrip():
     content = parser.findOnce(parser.TEXT_PATTERN, xml)
     html = parser.findOnce(parser.HTML_PATTERN, content)
     if html: # Strip HTML content
-        parser.makeDIr(FILE)
+        parser.makeDir(FILE)
         with open(FILE+'_plaintext.txt', 'w') as wfile:
-            wfile.write(strip_html(content).encode('UTF-8'))
+            wfile.write(parser.strip_html(content).encode('UTF-8'))
     return None
 
 def main(argv=None):
-    parseText()
+    htmlStrip()
     
 if __name__ == '__main__':
     sys.exit(main())
