@@ -13,12 +13,19 @@ import secdoc
 # DIRECTORIES AND FILES
 
 DIR_FORM = "/home/maf/Media/doc"    # Directory for original forms
+DIR_TEMP = "/home/maf/Media/temp"   # Temporary directory for partial parsing
 DIR_TEXT = "/home/maf/Media/text"   # Directory for parsed text
+
 FILING_LIST = "/home/maf/Projects/SECir/filingslist.csv"
 LOG_FILE = "/home/maf/Projects/SECir/tests/Test_LATEST.txt"
 FORM_FILE = "/home/maf/Projects/SECir/tests/unparsed.txt"
 
+# STATISTICAL VARIABLES
 
+DIGITS = '1234567890'
+PUNCTUATION = '.:;!?'
+STATS_MAX_NUMERIC = 0.2  # Maximum proportion of characters in a paragraph which are digits
+STATS_MIN_SIZE    = 3    # Minimum number of words in a paragraph
 
 # PATTERNS
 
@@ -58,7 +65,6 @@ ITEM9P2_PATTERN = re.compile(r'\n\s*(?:ITEM\D{0,5}9.{0,15}?management.{0,2}\s*di
 
 # Item 5 (2001-...)
 # First pass version
-# TRY: ITEM\s*\xc2?\xa0?5
 ITEM5_PATTERN   = re.compile(r'\n\s*(?:ITEM\D{0,5}5.{0,15}?operating\s*)(?:.{0,3}?\s*financial\s*review\s*.{0,3}?\s*prospects\s*)?(?!\n\s*ITEM\D{0,5}5.{0,10}?operating\s*)(.*?)(?=\s*\n\s*ITEM\D{0,5}6)',
         flags=(re.DOTALL|re.IGNORECASE))
 # Second pass version
@@ -72,7 +78,8 @@ TABLE_PATTERN = re.compile(r'<TABLE>.*?</TABLE>',
         flags=(re.DOTALL|re.IGNORECASE))
 TAG_PATTERN = re.compile(r'<.*?>')
 
-
+# 
+PARAG_PATTERN = re.compile(r'\s*$')
 
 # HELPER METHODS
 
@@ -142,14 +149,10 @@ def strip_markup(text):
 # @param string The string to find first instance.
 #
 # @return matched text.
-def findOnce(pattern, string, verbose=False):
+def findOnce(pattern, string):
     match = pattern.search(string)
-    if match:
-        return match.group()
-    else:
-        if verbose:
-            print "could not match", pattern.pattern
-        return None
+    if match: return match.group()
+    return None
 
 ##
 # Parse SEC-HEADER.
@@ -157,7 +160,7 @@ def findOnce(pattern, string, verbose=False):
 # @param docName The name of document to parse.
 #
 # @return Doc object.
-def parseHeader(docName, verbose=False):
+def parseHeader(docName):
     # Extract Header content
     with open(DIR_FORM+'/'+docName+'.txt', 'r') as rfile:
         xml = rfile.read()
@@ -180,7 +183,7 @@ def parseHeader(docName, verbose=False):
 # @param docName The name of the document if available (for testing).
 #
 # @return matched text or None if no item 5 is found.
-def parseItem(itemPattern, pass2Pattern, form, docName="", verbose=True):
+def parseItem(itemPattern, pass2Pattern, form, docName=""):
     allMatch = itemPattern.findall(form)
     for match in allMatch:
         # Match as long as second pass still matches
@@ -193,6 +196,10 @@ def parseItem(itemPattern, pass2Pattern, form, docName="", verbose=True):
         if match and len(match.split()) > 100:
             return match
     return None
+#def parseItem5(form, docName=""):
+#    return item
+#def parseItem9(form, docName=""):
+#    return item
 
 ##
 # Parse the Text content (currently only Item 5/9)
@@ -200,7 +207,7 @@ def parseItem(itemPattern, pass2Pattern, form, docName="", verbose=True):
 # @param docName The name of the form to parse.
 #
 # @return content for this form or None
-def parseText(docName, verbose=True):
+def parseText(docName):
     # Extract Header content
     with open(DIR_FORM+'/'+docName+'.txt', 'r') as rfile:
         xml = rfile.read()
@@ -211,17 +218,16 @@ def parseText(docName, verbose=True):
     html = findOnce(HTML_PATTERN, content)
     if html: # Strip HTML content
         content = strip_html(content).encode('UTF-8').replace("\xc2\xa0", " ")
-    # Get item depending on year of filing
-    #if int(os.path.dirname(docName)) <= 2000:
-    item = parseItem(ITEM9_PATTERN, ITEM9P2_PATTERN, content, docName)
+    # Get desired item
+    item = parseItem(ITEM5_PATTERN, ITEM5P2_PATTERN, content, docName)
     if not item:
-        item = parseItem(ITEM5_PATTERN, ITEM5P2_PATTERN, content, docName)
+        item = parseItem(ITEM9_PATTERN, ITEM9P2_PATTERN, content, docName)
     if item:
         item = strip_markup(item)
         return item
-    if verbose:
-        with open(LOG_FILE, 'a') as log:
-            log.write(docName+"\n")
+    # Log unparsed documents
+    with open(LOG_FILE, 'a') as log:
+        log.write(docName+"\n")
     return None
 
 ##
@@ -229,7 +235,7 @@ def parseText(docName, verbose=True):
 # 
 # @return docNames List of document names in the form:
 #       "1997/0000950151-97-000162"
-def getFormList(verbose=False):
+def getFormList():
     docNames = []
     for r, dirs, f in os.walk(DIR_FORM):
         for dir in dirs:
@@ -242,35 +248,30 @@ def getFormList(verbose=False):
 # Parse all forms
 # 
 # @return writes CSV file for form list
-# @return writes parsed text content (currently only Item 5)
-def parseForms(verbose=True):
+# @return writes parsed text content (currently only Item 5 or 9)
+def parseForms(docNames):
     # docNames = getFormList()
-    docNames = open(FORM_FILE, 'r').read().split()
     listLen = len(docNames)
     current = 0.0
     lastint = 0
     parsed = 0
     ignore = 0
-    # Create new log and filing list file
-    makeDir(LOG_FILE)
-    #open(LOG_FILE, 'w').close()
-    makeDir(FILING_LIST)
-    #open(FILING_LIST, 'w').close()
     for docName in docNames:
         current = current+1.0
         form = parseHeader(docName)
-        content = parseText(docName, True)
+        content = parseText(docName)
         if content is not None:
+            # Write header information in filing list
             with open(FILING_LIST, 'ab') as formlist:
                 form.write(formlist)
             filename = DIR_TEXT+'/'+form.docname
+            # Write text content
             makeDir(filename)
             with codecs.open(filename, 'w', "utf-8") as wfile:
                 wfile.write(unicode(content, 'utf-8'))
-            if verbose:
-                print "PARSED", docName
-                parsed += 1
-        elif verbose:
+            print "PARSED", docName
+            parsed += 1
+        else:
             print "IGNORE", docName
             ignore += 1
         done = int(100*(current/listLen))
@@ -281,9 +282,11 @@ def parseForms(verbose=True):
 
 
 
+# 2nd PARSING METHODS
+
 def paragraphs(file, separator=None):
     if not callable(separator):
-        def separator(line): return line == '\r\n' or line == '\n'
+        def separator(line): return PARAG_PATTERN.match(line)
     paragraph = []
     for line in file:
         if separator(line):
@@ -294,12 +297,80 @@ def paragraphs(file, separator=None):
             paragraph.append(line)
     if paragraph: yield ''.join(paragraph)
 
+def filterNumeric(content):
+    numDigits = float(len(filter(lambda x: x in DIGITS, content)))
+    if (numDigits/len(content)) < STATS_MAX_NUMERIC:
+        return True
+    return False
+
+def filterSize(content):
+    numWords = len(content.split())
+    if numWords > STATS_MIN_SIZE:
+        return True
+    return False
+
+def filterNumericAndSize(content):
+    return filterNumeric(content) and filterSize(content)
+
+def filterSentence(content):
+    lastChar = content.rstrip()[-1]
+    if lastChar in PUNCTUATION:
+        return True
+    return False
+
+def parseParagraphs(docNames):
+    listlen = len(docNames)
+    done = 0
+    lastint = 0
+    current = 0.0
+    for docName in docNames:
+        form = parseHeader(docName)
+        content = parseText(docName)
+        tempFile = DIR_TEMP+'/'+form.docname
+        textFile = DIR_TEXT+'/'+form.docname
+        trialDir = "/home/maf/Media/trial"
+        trial1File = trialDir+"1/"+form.docname
+        trial2File = trialDir+"2/"+form.docname
+        trial3File = trialDir+"3/"+form.docname
+        trial4File = trialDir+"4/"+form.docname
+        if content is not None:
+            with open(FILING_LIST, 'ab') as formlist:
+                form.write(formlist)
+            makeDir(tempFile)
+            # Write 1st parsing phase 
+            with codecs.open(tempFile, 'w', "utf-8") as wfile:
+                wfile.write(unicode(content, "utf-8"))
+            # Write paragraphs
+            with open(textFile, 'w') as wfile:
+                wfile.write("\n".join([p for p in paragraphs(open(tempFile))]))
+            # Write 1st trial
+            with open(trial1File, 'w') as wfile:
+                wfile.write("\n".join(filter(filterNumeric, paragraphs(open(tempFile)))))
+            # Write 1st trial
+            with open(trial2File, 'w') as wfile:
+                wfile.write("\n".join(filter(filterSize, paragraphs(open(tempFile)))))
+            # Write 1st trial
+            with open(trial3File, 'w') as wfile:
+                wfile.write("\n".join(filter(filterNumericAndSize, paragraphs(open(tempFile)))))
+            # Write 1st trial
+            with open(trial4File, 'w') as wfile:
+                wfile.write("\n".join(filter(filterSentence, paragraphs(open(tempFile)))))
+        current += 1.0
+        done = int(100*(current/listlen))
+        if done != lastint:
+            lastint = done
+            print "COMPLETED:", str(done), '%'
+
 
 
 # MAIN METHOD
 
 def main(argv=None):
-    parseForms()
+    makeDir(LOG_FILE)
+    makeDir(FILING_LIST)
+    docNames = open(FORM_FILE, 'r').read().split()
+    # parseForms(docNames)
+    parseParagraphs(docNames)
     
 if __name__ == '__main__':
     sys.exit(main())
