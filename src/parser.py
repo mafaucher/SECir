@@ -15,17 +15,11 @@ import secdoc
 DIR_FORM = "/home/maf/Media/doc"    # Directory for original forms
 DIR_TEMP = "/home/maf/Media/temp"   # Temporary directory for partial parsing
 DIR_TEXT = "/home/maf/Media/text"   # Directory for parsed text
-
 FILING_LIST = "/home/maf/Projects/SECir/filingslist.csv"
 LOG_FILE = "/home/maf/Projects/SECir/tests/Test_LATEST.txt"
 FORM_FILE = "/home/maf/Projects/SECir/tests/unparsed.txt"
 
-# STATISTICAL VARIABLES
-
-DIGITS = '1234567890'
-PUNCTUATION = '.:;!?'
-STATS_MAX_NUMERIC = 0.2  # Maximum proportion of characters in a paragraph which are digits
-STATS_MIN_SIZE    = 3    # Minimum number of words in a paragraph
+PUNCTUATION = ".,:;!?"
 
 # PATTERNS
 
@@ -72,11 +66,14 @@ ITEM5P2_PATTERN = re.compile(r'\n\s*(?:ITEM\D{0,5}5.{0,15}?operating\s*)(?:.{0,3
         flags=(re.DOTALL|re.IGNORECASE))
 
 # SEC-XML tags
-PAGE_PATTERN = re.compile(r'.*?\r\n.*?\r\n.*?<PAGE>.*',
-        flags=(re.IGNORECASE))
+PAGE_PATTERN = re.compile(r'\s*\S*\s*<PAGE>\s*',
+        flags=(re.DOTALL|re.IGNORECASE))
 TABLE_PATTERN = re.compile(r'<TABLE>.*?</TABLE>',
         flags=(re.DOTALL|re.IGNORECASE))
 TAG_PATTERN = re.compile(r'<.*?>')
+
+# HTML tags
+P_PATTERN = re.compile(r'<P', flags=(re.IGNORECASE))
 
 # 
 PARAG_PATTERN = re.compile(r'\s*$')
@@ -133,7 +130,7 @@ def strip_html(text):
 #
 # @return The document without markup.
 def strip_markup(text):
-    text = PAGE_PATTERN.sub('', text)
+    text = PAGE_PATTERN.sub('\r\n', text)
     text = TABLE_PATTERN.sub('', text)
     text = TAG_PATTERN.sub('', text)
     return text
@@ -217,6 +214,7 @@ def parseText(docName):
         return None
     html = findOnce(HTML_PATTERN, content)
     if html: # Strip HTML content
+        content = P_PATTERN.sub("\r\n<P", content)
         content = strip_html(content).encode('UTF-8').replace("\xc2\xa0", " ")
     # Get desired item
     item = parseItem(ITEM5_PATTERN, ITEM5P2_PATTERN, content, docName)
@@ -297,26 +295,8 @@ def paragraphs(file, separator=None):
             paragraph.append(line)
     if paragraph: yield ''.join(paragraph)
 
-def filterNumeric(content):
-    numDigits = float(len(filter(lambda x: x in DIGITS, content)))
-    if (numDigits/len(content)) < STATS_MAX_NUMERIC:
-        return True
-    return False
-
-def filterSize(content):
-    numWords = len(content.split())
-    if numWords > STATS_MIN_SIZE:
-        return True
-    return False
-
-def filterNumericAndSize(content):
-    return filterNumeric(content) and filterSize(content)
-
-def filterSentence(content):
-    lastChar = content.rstrip()[-1]
-    if lastChar in PUNCTUATION:
-        return True
-    return False
+def paragFilter(content):
+    return content.rstrip()[-1] in PUNCTUATION
 
 def parseParagraphs(docNames):
     listlen = len(docNames)
@@ -325,36 +305,21 @@ def parseParagraphs(docNames):
     current = 0.0
     for docName in docNames:
         form = parseHeader(docName)
+        print form.srcname, "->", form.docname
         content = parseText(docName)
         tempFile = DIR_TEMP+'/'+form.docname
         textFile = DIR_TEXT+'/'+form.docname
-        trialDir = "/home/maf/Media/trial"
-        trial1File = trialDir+"1/"+form.docname
-        trial2File = trialDir+"2/"+form.docname
-        trial3File = trialDir+"3/"+form.docname
-        trial4File = trialDir+"4/"+form.docname
         if content is not None:
+            # Add form to formlist
             with open(FILING_LIST, 'ab') as formlist:
                 form.write(formlist)
+            # Write phase 1 parsing in tempFile
             makeDir(tempFile)
-            # Write 1st parsing phase 
             with codecs.open(tempFile, 'w', "utf-8") as wfile:
                 wfile.write(unicode(content, "utf-8"))
-            # Write paragraphs
+            # Write phase 2 parsing in textFile
             with open(textFile, 'w') as wfile:
-                wfile.write("\n".join([p for p in paragraphs(open(tempFile))]))
-            # Write 1st trial
-            with open(trial1File, 'w') as wfile:
-                wfile.write("\n".join(filter(filterNumeric, paragraphs(open(tempFile)))))
-            # Write 1st trial
-            with open(trial2File, 'w') as wfile:
-                wfile.write("\n".join(filter(filterSize, paragraphs(open(tempFile)))))
-            # Write 1st trial
-            with open(trial3File, 'w') as wfile:
-                wfile.write("\n".join(filter(filterNumericAndSize, paragraphs(open(tempFile)))))
-            # Write 1st trial
-            with open(trial4File, 'w') as wfile:
-                wfile.write("\n".join(filter(filterSentence, paragraphs(open(tempFile)))))
+                wfile.write("\r\n".join(filter(paragFilter, paragraphs(open(tempFile)))))
         current += 1.0
         done = int(100*(current/listlen))
         if done != lastint:
@@ -368,7 +333,8 @@ def parseParagraphs(docNames):
 def main(argv=None):
     makeDir(LOG_FILE)
     makeDir(FILING_LIST)
-    docNames = open(FORM_FILE, 'r').read().split()
+    #docNames = open(FORM_FILE, 'r').read().split()
+    docNames = getFormList()
     # parseForms(docNames)
     parseParagraphs(docNames)
     
