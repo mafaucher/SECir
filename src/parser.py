@@ -12,12 +12,15 @@ import secdoc
 
 # DIRECTORIES AND FILES
 
-DIR_FORM = "/home/maf/Media/doc"    # Directory for original forms
-DIR_TEMP = "/home/maf/Media/temp"   # Temporary directory for partial parsing
-DIR_TEXT = "/home/maf/Media/text"   # Directory for parsed text
-FILING_LIST = "/home/maf/Projects/SECir/filingslist.csv"
-LOG_FILE = "/home/maf/Projects/SECir/tests/Test_LATEST.txt"
-FORM_FILE = "/home/maf/Projects/SECir/tests/unparsed.txt"
+DIR_MEDIA = "/home/ma_fauch/Media/"
+
+DIR_FORM  = DIR_MEDIA+"doc"    # Directory for original forms
+DIR_TEMP  = DIR_MEDIA+"temp"   # Temporary directory for partial parsing
+DIR_TEXT  = DIR_MEDIA+"text"   # Directory for parsed text
+
+FILING_LIST = "filingslist.csv"
+LOG_FILE    = "Test_LATEST.txt"
+FORM_FILE   = "unparsed.txt"
 
 PUNCTUATION = ".,:;!?"
 
