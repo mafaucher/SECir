@@ -1,0 +1,135 @@
+%
+% Template Author: Marc-André Faucher
+% Last update: 10-10-10
+%
+% 
+%%%%%%%%%%%%%%
+% REMINDERS: %
+%%%%%%%%%%%%%%
+%
+% Illegal Characters: # $ % & ~ _ ^ \ { }
+%
+% Enumerate: \begin{enumerate}[(a)] [1.] [CHAPTER 1 - ]
+%		\item 1st entry
+%		\item 2nd entry ...
+%	     \end{enumerate}
+%
+% Include Graphics: \begin{center} \includegraphics[scale=0.5]{fig01.png} \end{center}
+%
+% Force line break: \\
+% 	Additional: \item \hspace*{\fill} \\ 
+%
+% Force page break: \pagebreak
+% 
+% 
+
+\documentclass[10pt]{article}
+\usepackage[margin=1in]{geometry}
+\usepackage[pdftex]{graphicx}
+\usepackage{amssymb,amsmath,enumerate,fancyhdr,listings}
+
+\pagestyle{fancy}
+\fancyhf{}
+\lhead{Document Extraction Algorithm}
+\rhead{May~19,~2012}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%
+% MAIN DOCUMENT CONTENT %
+%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{document}
+
+\begin{enumerate}[A - ]
+    \item   {\bf Parsing Header Information:}
+        
+        \begin{enumerate}[1.]
+            
+            \item   For each document, get the header information within the SEC-XML tags
+                    \texttt{<SEC-HEADER>} and \texttt{</SEC-HEADER>}.
+        
+            \item   From the header, retrieve the following information:
+                \begin{enumerate}[i)]
+                    \item   \texttt{COMPANY CONFORMED NAME};
+                    \item   \texttt{CENTRAL INDEX KEY};
+                    \item   \texttt{FORM TYPE};
+                    \item   \texttt{CONFORMED PERIOD OF REPORT} (\emph{optional});
+                    \item   \texttt{FILED AS OF DATE};
+                \end{enumerate}
+            
+            \item   The document naming scheme is: \texttt{<CENTRAL INDEX KEY>-<FILED AS OF DATE>.txt}.
+            
+            \item   If an item is successfully extracted from this document, write an
+                    entry into the comma-separated-value (CSV) file.
+
+            \item   If not, the unparsed document is added to the log file.
+        
+        \end{enumerate}
+
+    \item   {\bf Parsing Text Information:}
+
+        \begin{enumerate}[1.]
+
+            \item   Get the document text within the first SEC-XML tags
+                    \texttt{<TEXT>} and \texttt{</TEXT>}.
+
+            \item   If the document contains HTML data, we need to remove any HTML tags.
+                    Before doing so, add line breaks before any \texttt{<P>} HTML tag to simplify
+                    paragraph detection in the next phase. Next ignore any HTML tags, and
+                    convert HTML entities in the form \texttt{\&\#...;} to their unicode value.
+                    Additionally, convert non-breaking spaces (U+00A0) to regular spaces,
+                    since non-breaking spaces are not considered whitespaces by the regular
+                    expressions.
+
+            \item   Attempt to find an ``Item 5" or, if none is found, an ``Item 9":
+                \begin{enumerate}[i)]
+                    \item   Match the text between the desired item title and the next item
+                            using tolerant regular expressions. More specifically, we identify
+                            a line starting with \texttt{ITEM 5 Operating} and a line
+                            starting with \texttt{ITEM 6}. For ``Item 9", we identify a line
+                            starting with \texttt{ITEM 9 Management's Discussion} and a line
+                            starting with \texttt{ITEM 10}. In either case, we tolerate different
+                            capitalization, additional whitespaces, and formatting characters
+                            after the item number.
+                            \footnote{The full regular expressions can be seen at:
+                            \texttt{https://github.com/mafaucher/SECir/blob/master/src/parser.py}.}
+                    \item   If the matched text still contains the desired item title we ignore
+                            everything before the last item title which contains at least 100 words.
+                            This is mainly to avoid matching the table of content entry for the
+                            desired item.
+                \end{enumerate}
+
+            \item   If we were unable to match anything, or the matched text contains fewer than
+                    100 words, then no text is extracted from this document.
+
+            \item   If the item is successfully extracted, we remove additional markup:
+                \begin{enumerate}[i)]
+                    \item   A page number followed by a \texttt{<PAGE>} tag and any whitespace
+                            before the page number, and after the tag. This is important for
+                            paragraph detection in the next phase.
+                    \item   Any table within \texttt{<TABLE>} and \texttt{</TABLE>} tags.
+                    \item   Any other remaining tags contained in angle brackets \texttt{<...>}.
+                \end{enumerate}
+
+        \end{enumerate}
+
+    \item   {\bf Extracting Paragraphs}
+
+        The data extracted from the last phase may still contain subtitles, page
+        numbers, tables, and other content we wish to ignore. This phase cleans up
+        the text by removing as much of this content as possible.
+
+        \begin{enumerate}[1.]
+
+            \item   First, we split the text into paragraphs using empty lines which
+                    contain only whitespace to determine the seperation between one
+                    paragraph and the next.
+
+            \item   Next we filter out the paragraphs which do not end with a punctuation:
+                    `.', `,', `:', `;', `!', `?'.
+
+        \end{enumerate}
+
+\end{enumerate}
+
+\end{document}

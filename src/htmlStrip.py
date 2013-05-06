@@ -2,12 +2,15 @@
 
 """htmlStrip.py
 
-Script to remove HTML tags
+Script to remove HTML tags. This is used to make the HTML text readeable, it is
+NOT used in the extraction algorithm.
 """
 
-import sys, parser
+import parser
+import os, sys
 
 FILE = "2009/0001362310-09-007787"
+DIR_FILE = os.path.join(parser.DIR_FORM, FILE))
 
 ##
 # Parse the Text content (currently only Item 5/9)
@@ -17,15 +20,15 @@ FILE = "2009/0001362310-09-007787"
 # @return content for this form or None
 def htmlStrip():
     # Extract Header content
-    parser.makeDir(parser.DIR_FORM+'/'+FILE)
-    with open(parser.DIR_FORM+'/'+FILE+'.txt', 'r') as rfile:
+    parser.makeDir(DIR_FILE)
+	with open(os.path.join(parser.DIR_FORM, FILE+'.txt'), 'r') as rfile:
         xml = rfile.read()
     # Get the TEXT content
     content = parser.findOnce(parser.TEXT_PATTERN, xml)
     html = parser.findOnce(parser.HTML_PATTERN, content)
     if html: # Strip HTML content
-        parser.makeDir(FILE)
-        with open(FILE+'_plaintext.txt', 'w') as wfile:
+        parser.makeDir(os.path.join(os.path.curdir), FILE)
+        with open(os.path.join(os.path.curdir), FILE+'_plaintext.txt'), 'w') as wfile:
             wfile.write(parser.strip_html(content).encode('UTF-8'))
     return None
 
