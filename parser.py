@@ -254,7 +254,6 @@ def paragFilter(content):
 	return content.rstrip()[-1] in string.punctuation
 
 def parseParagraphs(docNames):
-	makeDir(DIR_OUTPUT)
 	listlen = len(docNames)
 	done = 0
 	lastint = 0
@@ -269,13 +268,9 @@ def parseParagraphs(docNames):
 			# Add form to formlist
 			with open(FILING_LIST, 'ab') as formlist:
 				form.write(formlist)
-			# Write phase 1 parsing in tempFile
-			makeDir(tempFile)
-			with codecs.open(tempFile, 'w', "utf-8") as wfile:
-				wfile.write(unicode(content, "utf-8"))
-			# Write phase 2 parsing in textFile
+			makeDir(textFile)
 			with open(textFile, 'w') as wfile:
-				wfile.write("\r\n".join(filter(paragFilter, paragraphs(open(tempFile)))))
+				wfile.write("\r\n".join(filter(paragFilter, paragraphs(unicode(content, "utf-8")))))
 		current += 1.0
 		done = int(100*(current/listlen))
 		if done != lastint:
