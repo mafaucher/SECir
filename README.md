@@ -1,10 +1,10 @@
-## SECir
+# SECir
 
-# Requirements
+## Requirements
 
 - Python 2.7
 
-# Parser for Public SEC Filings
+## Parser for Public SEC Filings
 
 parser.py will process the files contained in **"./files/input/"**, and output the
 desired section to **"./files/output/"**. Additionally, the following information
@@ -32,7 +32,7 @@ To run the parser, simply call the script from the current directory:
 not be erased, so these files should be removed manually if the user wishes to
 start from a "clean" state.*
 
-# Copy Files Without Processing
+## Copy Files Without Processing
 
 copy.py allows to copy files from "./files/input/" to "./files/output/", using
 the include and exclude lists described above, without parsing the content of
