@@ -1,0 +1,2405 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ Rtv786yG0KCaUp4gIBsI3AqJlw+5a802lYBpIwf8+Zc5zvTyCvrUzNvF9xzZkI94
+ vnrgfHUpsjTg3aRq+H2GNg==
+
+<SEC-DOCUMENT>0000882377-01-500030.txt : 20010501
+<SEC-HEADER>0000882377-01-500030.hdr.sgml : 20010501
+ACCESSION NUMBER:		0000882377-01-500030
+CONFORMED SUBMISSION TYPE:	20-F
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20001231
+FILED AS OF DATE:		20010430
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			MILLENIUM SEACARRIERS INC
+		CENTRAL INDEX KEY:			0001068953
+		STANDARD INDUSTRIAL CLASSIFICATION:	DEEP SEA FOREIGN TRANSPORTATION OF FREIGHT [4412]
+		IRS NUMBER:				000000000
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		20-F
+		SEC ACT:		
+		SEC FILE NUMBER:	333-63055
+		FILM NUMBER:		1616849
+
+	BUSINESS ADDRESS:	
+		STREET 1:		C/O PO BOX 309, UGLAND HOUSE,
+		STREET 2:		SOUTH CHURCH ST., GRAND CAYMAN, CAYMAND
+		CITY:			BRITISH WEST INDIES
+		BUSINESS PHONE:		0113345949
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O PO BOX 309, UGLAND HOUSE, S. CHURCH
+		STREET 2:		ST., GRAND CAYMAN, CAYMAN ISLE.
+		CITY:			BRITISH WEST INDIES
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>20-F
+<SEQUENCE>1
+<FILENAME>d20-f.txt
+<DESCRIPTION>MILLENIUM SEACARRIERS, INC.
+<TEXT>
+
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+                                    Form 20-F
+
+
+/ /  REGISTRATION STATEMENT PURSUANT TO SECTION 12(b) OR (g) OF THE SECURITIES
+     EXCHANGE ACT OF 1934
+
+/X/  ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE
+     ACT OF 1934
+
+For the fiscal year ended:      December 31, 2000
+
+/ /  TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+     EXCHANGE ACT OF 1934
+
+Commission file number:  333-63055
+
+
+                           MILLENIUM SEACARRIERS, INC.
+             (Exact name of Registrant as specified in its charter)
+
+                                 Not Applicable
+                 (Translation of Registrant's Name into English)
+
+                                 Cayman Islands
+                 (Jurisdiction of incorporation or organization)
+
+                                c/o Ugland House
+                               South Church Street
+                          Grand Cayman, Cayman Islands
+                    (Address of principal executive offices)
+
+Securities registered or to be registered pursuant to Section 12(b) of the Act.
+
+         Title of each Class           Name of each exchange on which registered
+         -------------------           -----------------------------------------
+
+         Not Applicable
+                                                        Not Applicable
+
+Securities registered or to be registered pursuant to Section 12(g) of the Act.
+
+         None
+
+
+
+<PAGE>
+
+
+Securities for which there is a reporting obligation pursuant to Section 15(d)
+of the Act.
+
+         Millenium Seacarriers, Inc.
+         12% First Priority Ship Mortgage Exchange Notes Due 2005
+
+Indicate the number of outstanding shares of each of the issuer's classes of
+capital or common stock as of the close of the period covered by the annual
+report.
+
+         9,500,000 shares of common stock, US$.01 par value per share
+
+Indicate by check mark whether the registrant (1) has filed all reports required
+to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during
+the preceding 12 months (or for such shorter period that the registrant was
+required to file such reports), and (2) has been subject to such filing
+requirements for the past 90 days.
+
+         Yes                                /X/               No       / /
+
+Indicate by check mark which financial statement item the registrant has elected
+to follow.
+
+         Item 17  / /                       Item 18  /X/
+
+
+<PAGE>
+<TABLE>
+<CAPTION>
+
+
+                                         MILLENIUM SEACARRIERS, INC.
+                                        INDEX TO REPORT ON FORM 20-F
+
+TABLE CAPTION
+
+PART I                                                                                          PAGE
+                                                                                                ----
+
+<S>               <C>                                                                        <C>
+Item 1.  Description of Business................................................................. 1
+Item 2.  Description of Property................................................................. 8
+Item 3.  Legal Proceedings.......................................................................10
+Item 4.  Control of Registrant...................................................................11
+Item 5.  Nature of Trading Market................................................................11
+Item 6.  Exchange Controls and Other Limitations Affecting Security
+            Holders..............................................................................11
+Item 7.  Taxation............................................................................... 11
+Item 8.  Selected Financial Data................................................................ 13
+Item 9.  Management's Discussion and Analysis of Financial
+           Condition and Results of Operations...................................................14
+Item 9A. Quantitative and Qualitative Disclosures About Market Risk..............................18
+Item 10. Directors and Officers of Registrant....................................................18
+Item 11. Executive Compensation..................................................................20
+Item 12. Options to Purchase Securities From Registrant
+         or Subsidiaries.........................................................................20
+Item 13. Interest of management in Certain Transactions..........................................20
+
+PART II
+
+Item 14. Description of Securities to be Registered...........................................Not applicable
+
+PART III
+
+Item 15. Defaults Upon Senior Securities......................................................Not applicable
+Item 16. Changes in Securities, Changes in Security for
+         Registered Securities and Use of Proceeds............................................Not applicable
+
+PART IV
+
+Item 17. Financial Statements.................................................................Not applicable
+Item 18. Financial Statements....................................................................20
+Item 19. Financial Statements and Exhibits.......................................................20
+Signature........................................................................................21
+</TABLE>
+
+
+<PAGE>
+
+
+
+                                       -4-
+
+
+                                     PART I
+
+Item 1.  DESCRIPTION OF BUSINESS
+- -------  -----------------------
+
+THE COMPANY
+
+         Millenium Seacarriers, Inc. ("Millenium Seacarriers"), a Cayman Islands
+company formed in 1998, is an international shipping company that owns and
+operates a fleet of drybulk carriers, primarily in the 20,000 to 49,999
+deadweight ton ("dwt") range ("Handysize drybulk carriers"). Millenium
+Seacarriers, through its wholly-owned subsidiaries (collectively, the
+"Subsidiary Guarantors" and, together with Millenium Seacarriers, the "Company")
+had a fleet as of December 31, 2000 consisting of 21 vessels with an aggregate
+tonnage of approximately 593,401 dwt. During 2000, the Company's fleet
+transported approximately 3.5 million tons of drybulk cargo worldwide.
+
+         Millenium Seacarriers began operations on July 24, 1998, with the
+acquisition of the ship-owning companies which operated the Clipper Atlantic,
+Clipper Pacific, Clipper Golden Hind, Clipper Harmony, and Monica Marissa. By
+the end of 1998, the Company had acquired the Millenium Amethyst, Millenium
+Yama, Millenium Majestic, Millenium Condor, Millenium Osprey, Millenium Leader,
+Millenium Hawk, Millenium Falcon, Millenium Eagle, Millenium Aleksander, and
+Millenium Elmar. The Company continued its acquisitions in the year ended
+December 31, 1999 and acquired the Millenium Raptor, Millenium Trader, Millenium
+Dawn, Millenium Express and Millenium Amanda. In the year ended December 31,
+2000, the Company acquired the Adamas and the Millenium Mexico. During 1999, the
+Company sold the Monica Marissa, and in 2000, the Millenium Yama was disposed
+off due to engine damage for which the Company received insurance proceeds.
+
+         The Company's strategy is to provide superior transportation services
+to its charterers by operating a fleet of high quality second hand drybulk
+carriers. The Company intends to generate stable cash flows by mostly using
+period time charters and to focus on the Handysize drybulk sector of the
+shipping industry.
+
+         The Company's business strategy is intensely customer and
+operations-oriented. By focusing on the Handysize drybulk sector, the Company is
+able to identify and respond to its market and customer needs. As a
+customer-oriented service provider, the Company can use this market and customer
+information to develop creative solutions for its clients, including acquiring
+additional vessels or reconfiguring existing vessels within its fleet and
+developing customized trade routes.
+
+         The Company also has the ability to serve its charter customers in
+niche trades which require specialized vessels. The Company is generally able to
+achieve significant cost efficiencies as a result of operating a fleet focused
+in one sector. These include more efficient drydock service, better rates for
+insurance and spares and purchasing efficiencies from suppliers. In addition,
+many of the vessels in the Company's fleet include sister vessels that have
+similar design characteristics, allowing the Company to benefit from operating,
+maintenance and crew efficiencies.
+
+                                      -1-
+
+<PAGE>
+
+
+         The vessels in the Company's fleet are all of Cayman Islands, Cypriot,
+Bahamian, Panamanian, Liberian or Maltese registry. All of the vessels are
+currently "in class" with Lloyds Register, the American Bureau of Shipping,
+Germanischer Lloyd or Det Norske Veritas, each a leading classification society.
+Each of the vessels in the Company's fleet has received certification under the
+International Maritime Organization's ("IMO") International Management Code for
+the Safe Operation of Ships and Pollution Prevention (the "ISM Code") by
+successfully completing audits conducted by Det Norske Veritas. However, there
+can be no assurance that such certification will be maintained indefinitely.
+
+MANAGEMENT
+
+         The Company has engaged Millenium Management, Inc. ("MMI"), the sole
+shareholder of Millenium Seacarriers, to provide certain commercial and
+technical management services to the Company at current market rates. MMI has
+subcontracted with Millenium Maritime Services Ltd. ("Millenium Maritime
+Greece") and Millenium Maritime Services, Inc. ("Millenium Maritime USA" and,
+collectively with Millenium Maritime Greece, "Millenium Maritime") to provide
+management services. Millenium Maritime Greece and Millenium Maritime USA
+collectively employ approximately 38 individuals. Millenium Maritime Greece has
+offices in Piraeus and Millenium Maritime USA has offices in New York, providing
+full service and support to the Company's fleet from two locations, each located
+in strategic shipping epicenters. Millenium Maritime Greece and Millenium
+Maritime USA coordinate their activities to eliminate duplicative effort and
+conflicting priorities so as to provide the most complete, efficient, cost
+effective management services to their respective clients. Millenium Maritime's
+multi-disciplined and coordinated structure allows it to provide the most
+effective management services for the differing sizes and types of vessels
+operated by the Company.
+
+         MMI and Millenium Maritime provide commercial management services by
+coordinating with various third party brokers. MMI solicits, researches,
+evaluates and proposes charters for the Company's fleet and, pursuant to the
+Company's direction, also negotiates the terms and conditions for the sale and
+purchase of the Company's fleet, through recognized shipbrokers worldwide.
+Finally, at the Company's instruction, MMI obtains insurance for the Company's
+fleet, working through recognized third party brokers worldwide.
+
+         MMI and Millenium Maritime also provide comprehensive technical
+management services to each vessel of the Company's fleet. MMI's services
+include: obtaining qualified officers and crews; managing day-to-day vessel
+operations and relationships with charterers; purchasing stores, supplies and
+new equipment; performing general vessel maintenance, reconditioning and repair,
+including commissioning and supervising shipyards, subcontractors, or drydock
+facilities required for such work; ensuring regulatory and classification
+society compliance; performing operational budgeting, evaluating and arranging
+financing for the vessels and performing accounting, treasury and finance
+functions (including cash disbursements and collections). MMI provides these
+services on a collective basis to the Company's fleet, thereby allowing the
+Company to benefit from certain economies of scale.
+
+
+                                      -2-
+<PAGE>
+
+
+         Each member of Millenium Maritime's staff that interacts with vessels
+is provided with home and portable linkages to the vessels' communication and
+data system, so that ship management services can be provided around the clock,
+seven days a week. All vessels in the Company's fleet are also linked by
+electronic communication to Millenium Maritime to allow immediate response to
+vessel management operations.
+
+CREWING
+
+         The Company employs mainly Russian officers and crews on its vessels,
+all of whom must be fully licensed and certified in accordance with
+international regulatory requirements and shipping conventions. As part of its
+ongoing commitment to maintain a high quality fleet and efficient operations,
+the Company places great emphasis on attracting qualified crew members and on
+regular training. Prior to and during employment, the Company requires all
+shipboard personnel to undergo training courses both in-house and at recognized
+national training centers. All these courses are selected with a view toward
+enabling shipboard personnel to maintain a high level of skill within their
+respective areas, with an emphasis on safety and keeping up to date with the
+latest technical and professional developments. The Company's seaboard personnel
+are responsible for carrying out routine maintenance aboard the vessels while at
+sea.
+
+COMPETITION
+
+         Seaborne transportation services are provided by independently owned
+fleets, proprietary fleets and state-owned fleets. Competition for charters can
+be intense and depends on freight rates offered, location, size, age, condition
+and acceptability of a vessel and its operator to the charterer. Competition in
+the drybulk sector is also affected by the availability of other size vessels
+that compete in the Company's markets. Although the Company believes that the
+markets in which the Company competes are highly fragmented and that no single
+competitor has a dominant position, the Company is aware that certain
+competitors may be able to devote greater financial and other resources to their
+activities, which may result in a competitive threat to the Company.
+
+CLASSIFICATION SOCIETY AND OTHER SAFETY REQUIREMENTS
+
+         Every commercial vessel's hull and machinery must be "classed" by a
+classification society authorized by its country of registry. The classification
+society verifies that a vessel is constructed, maintained and equipped in
+accordance with the rules of such classification society and that the vessel
+complies with flag state regulations and with international conventions,
+including the Safety of Life at Sea Convention ("SOLAS") and the regulations
+promulgated by the IMO. Insurance underwriters make it a condition of insurance
+coverage for the vessel to be "classed" and the failure of a vessel to be
+"classed" may render such a vessel uninsurable. Insurance underwriters may also
+require that vessels comply with standards more restrictive than those of the
+classification society. All the Company's fleet is currently "in class," with
+the Lloyds Register, the American Bureau of Shipping, Germanischer Lloyd or Det
+Norske Veritas, each of which is a member of the International Association of
+Classification Societies.
+
+                                      -3-
+
+<PAGE>
+
+
+         A vessel must be inspected by a surveyor of the classification society
+at least every year, every two and one-half years ("Intermediate Survey") and
+every four or five years ("Special Survey"). If any defects are found, the
+classification society will issue a "recommendation" which requires the ship
+owner to remedy the defect within a prescribed time limit. The Intermediate
+Survey includes an underwater examination of the vessel's submerged hull and
+machinery. The Special Survey includes a mandatory drydocking. In connection
+with a Special Survey, the vessel is examined extensively, including an
+inspection to determine the thickness of the steel plates in various parts of
+the vessel. If the vessel experiences excessive wear and tear, substantial
+expenditures may become necessary for steel renewals and other repairs to pass a
+Special Survey. Although the useful life of a vessel may be extended by capital
+improvements and upgradings, the costs necessary to meet classification society
+and other safety and regulatory requirements generally increase significantly as
+a vessel becomes older. All the vessels in the Company's fleet are on a
+five-year Special Survey cycle. In addition to the drydocking conducted as part
+of the Special Survey, each vessel must be drydocked at some time between
+special surveys.
+
+INSURANCE
+
+         The business of the Company is affected by a number of risks, including
+mechanical failure, personal injury, vessel and cargo loss or damage, business
+interruption due to political conditions in foreign countries, hostilities,
+labor strikes, adverse weather conditions and catastrophic marine disaster,
+including environmental accidents and collisions. The Company's fleet is insured
+against these risks with the following forms of insurance for each vessel.
+
+         Hull and Machinery Insurance. The Company maintains marine hull and
+machinery insurance, which insures against the risk of damage and the total or
+constructive total loss of an insured vessel and against damage to third parties
+directly caused by an insured vessel. Constructive total loss occurs when the
+vessel is damaged to the extent that the repair costs exceed the insured value
+of the vessel. The Company also maintains war risk insurance, which insures
+against the risk of damage and the total or constructive total loss of an
+insured vessel directly caused by certain warlike situations such as military
+use of weapons or terrorist activities. Coverage for areas designated from time
+to time as war zones may be excluded or additional premiums may be required in
+respect of vessels operating in such zones. The Company maintains coverage for
+at least the full value of each insured vessel and updates this insurance at
+least annually. The Company maintains civil and war risk hull and machinery
+insurance on all of its vessels. This insurance has been placed in the French,
+Italian, Norwegian and American markets, and is subject to deductibles
+consistent with industry practice.
+
+         P&I Insurance. The Company maintains protection and indemnity ("P&I")
+insurance coverage for its shipping activities, which includes the legal
+liability and other related expenses of injury to or death of crew members and
+third parties, loss or damage to cargo, claims arising from collisions with
+other vessels, damage to other third party property, pollution liability and
+salvage, towing and other related costs. The Company's P&I insurance coverage is
+arranged through P&I mutual insurance clubs. As a member of a club, the Company
+may be required to pay additional premiums at the end of a year in which claims
+made on the club were particularly large. The Company's total premium is based
+on the Company's own claims record, the total claims record of the members of
+the club and the aggregate claims record of all clubs which are members of the
+international association of P&I clubs.
+
+                                      -4-
+
+<PAGE>
+
+
+         In line with industry practice, coverage for damages arising out of
+hazardous materials discharges is limited to $500 million per vessel per
+incident. For trading in United States Waters, the Company arranges additional
+insurance coverage, satisfactory to United States Coast Guard ("USCG")
+regulatory approval, for liability arising from oil pollution.
+
+         The Company's insurance policies are subject to commercially reasonable
+deductibles.
+
+REGULATION
+
+         The Company's operations are materially affected by regulation in the
+form of international conventions and national, state and local laws and
+regulations in force in the jurisdictions in which the Company's fleet operates,
+as well as in the country or countries of their registration. Because such
+conventions, laws and regulations are subject to revision, the Company cannot
+predict the ultimate cost of compliance or the impact thereof on the resale
+price or useful life of its vessels. The Company is required to carry certain
+permits, licenses and certificates with respect to its operations. The Company
+believes that the heightened environmental and quality concerns of insurance
+underwriters, regulators and charterers will impose greater inspection and
+safety requirements on all vessels. The Company's fleet is subject to both
+scheduled and unscheduled inspections by a variety of governmental and private
+interests, each of which may have a different perspective or impose different
+standards. These interests include the local port state authority (USCG or
+equivalent), classification society, flag state administration (country of
+registry) and charterers.
+
+  ENVIRONMENTAL REGULATION--INTERNATIONAL
+
+         The IMO is an agency of the United Nations whose purpose is to develop
+international regulations and practices affecting shipping and international
+trade, and to encourage the adoption of standards of safety and navigation. All
+IMO agreements must be ratified by the IMO's individual government constituents.
+The International Convention on Civil Liability for Oil Pollution Damage, 1969,
+as amended (the "CCL"), and the Convention for the Establishment of an
+International Fund for Oil Pollution of 1979, as amended, are the principal
+international laws adopted by most jurisdictions for imposing strict liability
+on a vessel's registered owner for pollution damage caused on the territorial
+waters of a contracting state by the discharge of persistent oil. The liability
+of the vessel owner is subject to certain complete defenses. The United States
+is not a party to the CCL. Approximately one-quarter of the countries that have
+ratified the CCL have increased the liability limits through a 1992 Protocol to
+the CCL that has recently entered into force. As of April 12, 2001 for vessels
+of between 5,000 and 140,000 gross tons, the liability limits in the countries
+that have ratified this Protocol to the CCL are approximately $3.9 million plus
+approximately $546 per gross ton above 5,000 gross tons, with an approximate
+maximum of $78.0 million. The exact amount of liability is tied to a unit of
+account which varies according to a basket of currencies. The exchange rate in
+effect on April 12, 2001 for the dollar equivalent of this unit of account was
+approximately 1.3. The right to limit liability is forfeited under the CCL where
+the spill is caused by the owner's intentional or reckless conduct. Vessels
+carrying cargo in bulk trading to contracting states must establish evidence of
+insurance covering the limited liability of the owner. In jurisdictions where
+the CCL has not been adopted, various legislative schemes or common law govern,
+and liability is imposed either on the basis of fault or in a manner similar to
+the CCL.
+
+
+                                      -5-
+
+<PAGE>
+
+
+         The ISM Code and implementing regulations require shipowners and
+bareboat charterers to have developed, no later than July 1, 1998, an extensive
+"Safety Management System" that includes policy statements and instruction
+manuals that set forth standard operating, maintenance and communication
+protocol. Noncompliance with the ISM Code may subject shipowners and bareboat
+charterers to increased liability, may lead to decreases in available insurance
+coverage for affected vessels, and may result in the denial of access to, or
+detention in, certain ports. The Company, through Millenium Maritime, has
+obtained ISM certification for all of the vessels in the Company's fleet.
+
+         The IMO recently adopted new survivability and structural requirements
+for drybulk carriers aimed at preventing the sinking of any such vessel if one
+cargo hold floods. The new requirements will apply to existing ships carrying
+heavy cargoes, including iron ore, steel, bauxite and cement and future vessels
+carrying lighter cargo. On certain of the vessels in the Company's fleet, the
+transverse watertight bulkhead below the foremost cargo hold, and the bottom of
+that hold, would have to withstand flooding of the fore hold. All drybulk
+vessels of 150 meters or more built after July 1, 1999 would have to withstand
+flooding of any one hold, even if they only haul lighter cargo, such as grain.
+The IMO has called on member states to enact these new requirements and begin
+enforcing them on July 1, 1999. The Company believes that it will be able to
+comply with these requirements without incurring material costs.
+
+         The IMO continues to review and introduce new regulations on a regular
+basis. It is impossible to predict what additional regulations, if any, may be
+passed by the IMO, whether those regulations will be adopted by member
+countries, and what effect, if any, such regulations might have on the Company's
+operations.
+
+ENVIRONMENTAL REGULATION--OPA 90
+
+         OPA 90 applies to all owners, operators and bareboat charterers of
+vessels ("Responsible Parties") that trade within the United States or its
+territories or possessions or that operate in the navigable waters of the United
+States or adjoining shorelines, including the 200-nautical mile exclusive
+economic zone of the United States ("U.S. Waters").
+
+         Under OPA 90, Responsible Parties are strictly liable, on a joint and
+several basis, for all oil spill containment, removal costs and damages arising
+from actual or threatened discharges of oil from their vessels (unless the
+discharge results solely from the act or omission of a third party, an act of
+God or an act of war). Damages include (i) natural resources damages and the
+costs of assessment thereof, (ii) real and personal property damages, (iii) net
+loss of taxes, royalties, rent fees and other lost government revenues, (iv)
+lost profits or impairment of earning capacity due to property or natural
+resources damage, (v) net cost of public services necessitated by a spill
+response, such as protection from fire, safety or health hazards and (vi) loss
+of subsistence use of natural resources. OPA 90 limits the strict liability of
+Responsible Parties to the greater of $1,200 per gross ton or $10 million per
+tanker, but such limitation may not be available to the Responsible Parties in
+certain circumstances. The Comprehensive Environmental Response, Compensation,
+and Liability Act of 1980, as amended ("CERCLA") contains a similar strict
+liability regime for the release of hazardous substances, which the Company's
+vessels may carry. Liability under CERCLA is limited to the greater of $300 per
+gross ton or $5 million. These limits of liability under CERCLA and OPA 90 do
+not apply if the incident is proximately caused by violation of applicable
+United States federal safety, construction or operating regulations, or by the
+Responsible Party's gross negligence or willful misconduct, or if the
+Responsible Party failed or refused to report the incident or to cooperate and
+assist in connection with oil removal activities. OPA 90 specifically permits
+
+
+                                      -6-
+
+<PAGE>
+
+individual states to impose their own liability regimes with regard to oil
+pollution incidents occurring within their waters, and most states that border
+on a navigable waterway have enacted legislation providing for unlimited
+liability for the discharge of pollutants. Moreover, OPA 90 and CERCLA preserve
+the right to recover damages under existing law, including maritime tort law.
+
+         OPA 90 increased the financial requirements of the Federal Water
+Pollution Control Act for vessels operating in United States waters and requires
+owners and operators of vessels to establish and maintain with the USCG evidence
+of financial responsibility sufficient to meet the limit of their potential
+strict liability under OPA 90 and CERCLA. Bulk carriers must demonstrate
+financial responsibility in the amount of the greater of $500,000 or $600 per
+gross ton. Such financial responsibility, evidenced by the USCG's issuance of a
+Certificate of Financial Responsibility ("COFR"), may be demonstrated by a
+guarantee in the form of acceptable insurance, surety bond, self-insurance or
+other means approved by the USCG. Claimants may bring suit directly against an
+insurer, surety or other party that furnishes that guarantee. An insurer, surety
+or other party that is sued directly is limited to asserting the following
+defenses: (i) the defense that the incident was caused by the willful misconduct
+of the Responsible Party; (ii) the defenses available to the Responsible Party
+under OPA 90 or CERCLA; (iii) the defense that the claim exceeds the amount of
+the guarantee; (iv) the defense that the claim exceeds the property amount of
+the guarantee based on the gross tonnage of the vessel; and (v) the defense that
+the claim has not been made under either OPA 90 or CERCLA. The Company has
+demonstrated its financial responsibility by purchasing insurance from special
+purpose insurers approved by the USCG. The Company believes that its vessels
+that call within U.S. Waters comply with these USCG requirements.
+
+         OPA 90 requires owners or operators of vessels operating in U.S. Waters
+to file vessel response plans with the USCG and with certain states detailing
+the steps to be taken to address an oil spill and to operate their vessels in
+compliance with their USCG-approved plans. Such response plans must, among other
+things, (i) address a "worst case" scenario and identify and ensure, through
+contract or other approved means, the availability of necessary private response
+resources to respond to a "worst case discharge," (ii) describe crew training
+and drills and (iii) identify a qualified individual with full authority to
+implement removal actions. The Company has vessel response plans approved by the
+USCG for vessels in its fleet operating in United States Waters and the
+Company's vessels are operated in substantial compliance with such plans.
+
+INDUSTRY
+
+         The Company operates in the Handysize drybulk carrier sector. Handysize
+drybulk carriers are versatile, single deck ships that transport unpacked cargo,
+which is poured, tipped or placed through hatchways into the hold of the vessel.
+Their size, dimension and self-sustaining cargo gear enable Handysize drybulk
+carriers to access geographic markets which larger and gearless vessels cannot
+service and respond to the widest range of trade movements. Handysize drybulk
+carriers carry a wide variety of cargoes, including agricultural products,
+sugar, salt, minerals, phosphates, bauxite and alumina, forest products,
+petcoke, cement, steel products, scrap metal and pig iron, as well as cargoes
+generally carried by larger, gearless drybulk carriers, such as coal, iron ore
+and grain.
+
+         The Handysize drybulk carrier market is highly fragmented and cyclical.
+Demand for Handysize drybulk carriers is geographically diverse and is affected
+by a number of factors including world and regional economic and political
+conditions, developments in international trade, changes in seaborne and other
+transportation patterns, weather patterns, crop yields, armed conflicts, port
+congestion, canal
+
+
+                                      -7-
+
+<PAGE>
+
+closures and other diversions in trade. These factors cause the demand for
+drybulk cargoes, and consequently the demand for Handysize drybulk carriers, to
+fluctuate. In addition, demand for Handysize drybulk carriers is affected by
+geo-political trends. As political and economic barriers to international trade
+are removed, international trade increases, thereby increasing demand for the
+seaborne transportation of cargoes, such as the cargoes Handysize drybulk
+carriers transport.
+
+         Freight rates are strongly influenced by the supply of and demand for
+shipping capacity. The demand for shipping capacity is primarily determined by
+demand for the commodities carried and by the distance that those commodities
+are to be moved by sea. Demand for commodities is affected by, among other
+things, world and regional economic and political conditions (including
+developments in international trade, fluctuations in industrial and agricultural
+production and armed conflicts), environmental concerns, weather patterns, and
+changes in seaborne and other transportation costs.
+
+TAXATION
+
+         Millenium Seacarriers has been incorporated as an exempted company
+under the laws of the Cayman Islands and has received an undertaking from the
+Governor in Council of the Cayman Islands under Section 6 of The Tax Concessions
+Law (1995 Revision) that for a period of 20 years from the date of the
+undertaking (a) that no Law which is hereafter enacted in the Cayman Islands
+imposing any tax to be levied on profits, income, gains or appreciation shall
+apply to Millenium Seacarriers or its operations; and (b) that no tax to be
+levied on profits, income, gains, or appreciations or which is the nature of
+estate duty or inheritance tax shall be payable by Millenium Seacarriers (i) on
+or in respect of its shares, debentures or other obligations; or (ii) by way of
+the withholding in whole or in part of any relevant payment as defined in
+Section 6(3) of the Tax Concessions Law (1995 Revision). The Cayman Islands does
+not have an income tax treaty arrangement with the United States or any other
+country.
+
+EXECUTIVE OFFICES
+
+         The principal executive offices of the Company are located at c/o
+Ugland House, South Church Street, Grand Cayman, Cayman Islands and its
+telephone number is 345-949-8066.
+
+ITEM 2.  DESCRIPTION OF PROPERTIES
+- -------  -------------------------
+
+THE COMPANY'S FLEET
+
+         The following list provides information with respect to the Company's
+vessels as of December 31, 2000.
+
+<TABLE>
+<CAPTION>
+NAME OF VESSEL                  YEAR BUILT                   CAPACITY (DWT)               FLAG
+- --------------                  ----------                   --------------               ----
+<S>                             <C>                          <C>                          <C>
+Millenium Aleksander            1988                         52,670 (a)                   Cayman Islands
+Millenium Elmar                 1987                         52,640 (a)                   Cayman Islands
+Millenium Express               1984                         39,055                       Liberia
+Millenium Mexico                1974                         37,715                       Malta
+Millenium Leader                1984                         37,489                       Cayman Islands
+Millenium Amanda                1983                         36,249                       Liberia
+Millenium Raptor                1982                         30,670                       Cayman Islands
+
+
+                                      -8-
+
+<PAGE>
+
+Millenium Hawk                  1984                         28,791                       Cayman Islands
+Millenium Eagle                 1983                         28,786                       Cayman Islands
+Millenium Osprey                1984                         28,786                       Cayman Islands
+Millenium Falcon                1981                         27,048                       Cayman Islands
+Millenium Condor                1981                         27,036                       Cayman Islands
+Millenium Dawn                  1985                         26,563                       Liberia
+Millenium Trader                1985                         26,536                       Liberia
+Adamas                          1978                         23,560                       Cayman Islands
+Millenium Amethyst              1978                         23,538                       Bahamas
+Millenium Majestic              1979                         17,152                       Bahamas
+Millenium Harmony               1978                         16,711                       Panama
+Millenium Golden Hind           1978                         16,560                       Liberia
+Clipper Pacific                 1976                         7,923                        Cyprus
+Clipper Atlantic                1975                         7,923                        Cyprus
+</TABLE>
+
+(a) Although the vessel capacity is slightly greater than 49,999 dwt, it is
+considered a Handy size drybulk carrier. During 2000, the Millenium Yama built
+in 1979 of 23,540dwt and of Bahamas flag was a total loss due to engine damage.
+
+
+                                      -9-
+
+<PAGE>
+
+
+ITEM 3.  LEGAL PROCEEDINGS
+- -------  -----------------
+
+         From time to time the Company has been, and expects to continue to be,
+subject to legal proceedings and claims in the ordinary course of its business,
+principally personal injury and property claims. Such claims, even if lacking
+merit, could result in the expenditure of significant financial and managerial
+resources. As of December 31, 2000, the Company was not aware of any legal
+proceedings or claims that it believed would have, individually or in the
+aggregate, a material adverse effect on the Company or on its financial
+condition or results of operation.
+
+         On March 28, 2000, an action was brought against the Company by Wayland
+Investment Fund, LLC ("WIF") in the United States District Court, Southern
+District of New York. In the First Amended Complaint filed on March 30, 2000,
+WIF claimed that it is a beneficial holder of in excess of 25% of the 12% First
+Priority Ship Mortgage Notes. The factual basis alleged to underlie the
+proceeding concerns the calculation of interest due and owing on the 12% First
+Priority Ship Mortgage Notes. WIF makes three claims in the First Amended
+Complaint: the first is for mutual mistake; the second is for breach of
+contract; and the third is for violations of Section 10(b) of the Exchange Act
+and Rule 10b-5. WIF's first claim for relief is that the 12% First Priority Ship
+Mortgage Notes be reformed to provide for interest on the principal amount at
+maturity of the 12% First Priority Ship Mortgage Notes and that damages be paid
+in the amount of $517,263. WIF's second claim for relief is damages in the
+amount of $74,417,263. WIF's third claim for relief is that damages be paid in
+the amount of $517,263. On April 19, 2000, the Company filed a Motion to Dismiss
+WIF's second claim and answered WIF's first and third claims.
+
+         On or about July 13, 2000, WIF filed a Second Amended Complaint
+repeating the claims in its First Amended Complaint and adding a fourth claim
+for common law fraud and a fifth claim for negligent misrepresentation. The
+Second Amended Complaint changes the allegation concerning WIF's beneficial
+ownership; the lawsuit now alleges that WIF is a beneficial holder of in excess
+of 25% of the 12% First Priority Ship Mortgage Exchange Notes. WIF's first claim
+for relief is that the 12% First Priority Ship Mortgage Exchange Notes be
+reformed to provide for interest on the principal amount at maturity of the 12%
+First Priority Ship Mortgage Exchange Notes and that damages be paid in the
+amount of $605,801. WIF's second claim for relief is damages in the amount of
+$74,505,801. WIF's third claim for relief is that damages be paid in the amount
+of $605,801. WIF's fourth claim for relief is that damages be paid in the amount
+of $605,801. WIF's fifth claim for relief is that damages be paid in the amount
+of $605,801. On or about July 27, 2000, the Company made a Motion to Dismiss
+WIF's third, fourth, and fifth claims for relief and answered WIF's first claim.
+By agreement of the parties, the Company's Motion to Dismiss the second claim
+for relief in the First Amended Complaint was treated as a motion to dismiss the
+second claim for relief in the Second Amended Complaint.
+
+         On or about August 22, 2000, WIF consented to the withdrawal of its
+fifth claim for relief for negligent misrepresentation and agreed not to seek to
+replead such claim. On or about August 31, 2000, the Company agreed to withdraw
+without prejudice that portion of its Motion to Dismiss the third and fourth
+claims for relief in the Second Amended Complaint. By decision dated September
+7, 2000, the Court granted the Company's Motion to Dismiss the second claim for
+relief in the Second Amended Complaint for breach of contract.
+
+         On November 13, 2000, the Company and WIF entered into a settlement
+agreement and a stipulation dismissing all of the claims in the action in their
+entirety, without prejudice.
+
+
+                                      -10-
+<PAGE>
+
+
+ITEM 4.  CONTROL OF REGISTRANT
+- -------  ---------------------
+
+         As of April 12, 2001, all of the Company's issued and outstanding
+shares are owned by MMI.
+
+
+ITEM 5.  NATURE OF TRADING MARKET
+- -------  ------------------------
+
+         The Millenium Seacarriers, Inc.12% First Priority Ship Mortgage
+Exchange Notes Due 2005 (the "Exchange Notes") do not trade on an organized
+exchange but rather trade in private transactions among the parties.
+
+ITEM 6.  EXCHANGE CONTROLS AND OTHER LIMITATIONS AFFECTING SECURITY HOLDERS
+- -------  ------------------------------------------------------------------
+
+         Not applicable.
+
+
+ITEM 7.  TAXATION
+- -------  --------
+
+UNITED STATES - CAYMAN ISLAND INCOME TAX TREATY
+
+There is currently no income tax treaty between the United States and the Cayman
+Islands.
+
+CAYMAN ISLANDS TAX CONSIDERATIONS
+
+         There is no income tax, corporation tax, capital gains tax, withholding
+tax or any other kind of tax on profits or gains or tax in the nature of estate
+duty or inheritance tax currently in effect in the Cayman Islands. Holders who
+bring individual Exchange Notes in original form to the Cayman Islands may be
+liable to pay stamp duty in an amount of up to C.I.$250 on each Exchange Note.
+
+LIBERIAN TAX CONSIDERATIONS
+
+         No taxes or withholding will be imposed by the Republic of Liberia on
+or with respect to any payments to be made in respect of the Exchange Notes,
+provided that (i) each of the Subsidiary Guarantors that is incorporated under
+the laws of the Republic of Liberia (each a "Liberian Guarantor") is and
+maintains its status as a "nonresident Liberian entity" under the Liberian
+Internal Revenue Code, (ii) each of the Liberian Guarantors is not now carrying
+on, and in the future does not expect to carry on, any operations within the
+Republic of Liberia, (iii) the Exchange Notes and all related documentation will
+be executed outside of the Republic of Liberia and (iv) the holders of the
+Exchange Notes will neither reside in, maintain offices in, nor engage in
+business in, the Republic of Liberia.
+
+CYPRIOT TAX CONSIDERATIONS
+
+         No taxes or withholding will be imposed by the Republic of Cyprus on or
+with respect to any payments to be made in respect of the Exchange Notes,
+provided that (i) each of the Subsidiary Guarantors is and maintains its status
+as a shipping company of limited liability under the Cyprus Merchant Shipping
+(Fees and Taxing Provisions) Law No. 38(1)(92), (ii) the Company and each of the
+Subsidiary Guarantors is not now carrying on, and in the future is not expected
+to carry on, any
+
+
+                                      -11-
+<PAGE>
+
+
+operations exclusively within the Republic of Cyprus, (iii) the
+Exchange Notes and all related documentation will be executed outside the
+Republic of Cyprus and (iv) the Holders of the Exchange Notes will neither
+reside in, maintain offices in, nor engage in business in, the Republic of
+Cyprus.
+
+
+
+
+                                      -12-
+<PAGE>
+
+
+ITEM 8.  SELECTED FINANCIAL DATA
+- -------  -----------------------
+
+         The selected consolidated financial and other data set forth below for
+the Company have been derived from the Company's consolidated financial
+statements. The data set forth below should be read in conjunction with the
+consolidated financial statements and related notes thereto and the reports of
+the independent accountants.
+
+
+                (in thousands, except ratios and operating data)
+
+
+
+<TABLE>
+<CAPTION>
+INCOME STATEMENT DATA:                                          Year ended             Year ended         161-day  period
+                                                              December 31,           December 31,          ended December
+                                                                  31, 2000               31, 1999                31, 1998
+                                                                  --------               --------                --------
+<S>                                                             <C>                    <C>                    <C>
+Net revenue (a)....................................             $   34,603             $   32,253             $   12,136
+Operating expenses (b).............................                 26,299                 22,882                  8,563
+Depreciation and amortization......................                  6,506                  7,048                  2,318
+Provision for vessel impairment ...................                  4,560                  7,000                      0
+Loss on sale of vessel.............................                    152                  2,089                      0
+                                                                ---------------------------------------------------------
+       Vessel Operating Income/(loss)..............                 (2,914)                (6,766)                 1,255
+Interest expense...................................                 12,869                 12,643                  5,812
+Other income.......................................                   (164)                  (611)                (1,030)
+       Net Loss....................................             $  (15,619)            $  (18,798)            $  ( 3,527)
+
+OTHER FINANCIAL DATA:
+       Capital Expenditures........................             $    4,069             $   24,219             $   55,119
+
+BALANCE SHEET DATA:                                     as of December 31,     as of December 31,     as of December 31,
+                                                                      2000                   1999                   1998
+                                                                      ----                   ----                   ----
+
+Net book value of vessels (c)......................             $   84,538             $   93,485             $   82,719
+Total assets.......................................                 98,074                112,687                129,625
+Total long-term debt...............................                 96,597                 96,070                 95,604
+Shareholder's equity...............................                (13,844)                 1,775                 20,573
+</TABLE>
+
+
+(a)      Net revenue is gross revenues from charters net of charter commissions
+         and voyage related expenses.
+(b)      Operating expenses include, among other things, vessel running costs,
+         management fees and general and administrative expenses.
+(c)      During 1999, Millenium Seacarriers, through its subsidiaries, purchased
+         the Millenium Raptor, Millenium Trader, Millenium Dawn, Millenium
+         Express, and Millenium Amanda. During 2000, Millenium Seacarriers,
+         through its subsidiaries, purchased the Adamas and the Millenium
+         Mexico.
+
+
+
+
+                                      -13-
+<PAGE>
+
+
+
+
+ITEM 9. MANAGEMENT'S  DISCUSSION AND ANALYSIS OF FINANCIAL  CONDITION AND
+RESULTS OF OPERATIONS FOR THE YEAR ENDED DECEMBER 31, 2000
+- -------------------------------------------------------------------------
+
+
+GENERAL
+
+
+The Company is an international shipping company that owns and operates a fleet
+of drybulk carriers, primarily Handysize (generally classified as being in the
+20,000-49,000 deadweight-ton range) drybulk carriers. As of December 31, 2000,
+the Company's fleet consisted of 21 vessels totalling 593,401 deadweight-tons.
+
+The Company was incorporated on March 10, 1998 in the Cayman Islands. The
+Company began operations on July 24, 1998, with five vessels and subsequently
+expanded its fleet to 21 vessels as of June 30, 1999, all of which were acquired
+from the net proceeds of an offering of Units ("Units") consisting of $100
+million principal amount at maturity of Notes and $1.2 million of Warrants. The
+Company also received an equity contribution of $24 million from Millenium
+Management, Inc., MMI, the holder of 100% of the outstanding common stock of the
+Company. In the year ended December 31, 1999, the Company sold a vessel, the
+Monica Marissa. In the year ended December 31, 2000, the Company disposed the
+Millenium Yama due to total constructive loss and acquired the vessels Adamas
+and Millenium Mexico.
+
+The following benchmarks are used by the Company to measure revenues: (i)
+utilization as an index that indicates vessel earning days (on the basis that
+350 calendar days per year equals 100% utilization), and (ii) the average daily
+time charter equivalent (TCE) rate to analyze net revenues after commissions on
+the basis of 350-days utilization.
+
+The following table sets forth certain statement of operations and other
+operating data for the Company.
+
+<TABLE>
+<CAPTION>
+                                                                      Year ended           Year ended
+                                                                    December 31,         December 31,
+                                                                            2000                 1999
+                                                                            ----                 ----
+<S>                                                                 <C>                  <C>
+           Net Revenue                                              $ 34,603,547         $ 32,253,199
+           Vessel Operating Expenses                                 (19,007,675)         (18,237,342)
+           Mangement Fees                                             (5,262,612)          (3,822,801)
+           General and Administrative                                 (2,029,166)            (821,507)
+                                                                ----------------     ----------------
+           Earnings before Interest, Tax, Depreciation and
+           Amortization (Adjusted EBITDA)                            $ 8,304,094          $ 9,371,549
+                                                                ================     ================
+           Average utilization                                             97.0%                97.5%
+                                                                ================     ================
+</TABLE>
+
+Adjusted EBITDA consists of net income prior to deductions for interest expense,
+income taxes, other income or expense net, depreciation and amortization,
+impairment write-downs and loss on sale-disposal of vessels. Adjusted EBITDA is
+not required by United States generally accepted accounting principles, and
+should not be considered as an alternative to net income as an indicator of the
+Company's operating performance or to cash flows from operations as a measure of
+liquidity.
+
+
+RESULTS OF OPERATIONS FOR YEAR ENDED DECEMBER 31, 2000
+
+NET REVENUE
+
+Net revenue for the year ended December 31, 2000 was $34.6 million compared to
+$32.2 million the year ended December 31, 1999. During 2000, 81% of the
+Company's gross revenues were earned from period time charters contracted with
+first class charterers many of which continued from the previous years. The year
+ended December 31, 2000 consisted of 7,240 ship-operating days compared to 6,877
+ship-operating days in the year ended December 31, 1999 . The fleet averaged a
+utilization rate of 97% during the year ended December 31, 2000.
+
+
+                                      -14-
+<PAGE>
+
+
+The year 2000 saw the Company's fleet expand from 20 vessels to 21 vessels. The
+revenue earnings profile of the fleet also changed as many vessels ended their
+period charters contracted in 1998 and 1999 and were entered into service with
+new charterers at market rates of hire. This change is also reflected in the
+fact that 19% of gross revenues in 2000 were obtained from voyage charters
+compared with 8% in 1999. Although market conditions for handy-size bulk
+shipping improved during 2000, the Company's growth in net revenue during the
+year was impacted by a decline in charter rates for the older tonnage in the
+Company's fleet and adverse bunker fuel market conditions which existed through
+most of the year which resulted in sharply higher voyage expenses. Voyage
+expenses and direct vessel expenses relating to voyage or spot market charters
+primarily include only those specific costs which are borne by the Company in
+connection with voyage charters which would otherwise have been borne by the
+charterer under time charter agreements. These expenses principally consist of
+fuel and port charges.
+
+During the year, 81% of revenues were earned from period time charters. A few of
+the Company's vessels performed short voyages in the spot market during the
+course of the year. The Clipper Atlantic and the Clipper Pacific were on the
+spot market for most of year 2000. The Millenium Golden Hind, Millenium Harmony
+and Millenim Amethyst were on short term period charters interspersed with
+positioning spot market voyages. The Millenium Leader, the Millenium Aleksander,
+the Millenium Elmar, the Millenium Majestic, the Millenium Trader, the Millenium
+Dawn, the Millenium Express, and the Millenium Amanda, the Adamas and the
+Millenium Mexico were on period charters throughout the year. Fednav
+International ("Fednav") continued to charter the Millenium Osprey, the
+Millenium Condor, the Millenium Falcon, the Millenium Eagle, the Millenium Hawk
+and the Millenium Raptor. As per the terms of the Fednav charter, the Millenium
+Osprey, the Millenium Condor, the Millenium Falcon, the Millenium Eagle, and the
+Millenium Hawk were redelivered back to the Company during the winter months
+when the Great Lakes freeze. These vessels were immediately placed into short
+term charters with other reputable charterers. In April, these vessels then
+revert back to Fednav for the balance of the year.
+
+VESSEL OPERATING EXPENSES
+
+Vessel operating expenses, excluding management fees and depreciation and
+amortization, and impairment provisions, were $19.0 million for the year ended
+December 31, 2000 compared to $18.2 million for the year ended December 31,
+1999. The year ended December 31, 2000 consisted of 7,240 ship-operating days
+compared to 6,877 ship-operating days in the year ended December 31, 1999. The
+average vessel running costs for crewing, insurance, lubricants, repairs and
+maintenances, registry and survey costs, and vessel communications, came to
+$2,625 per day in the year ended December 31, 2000 compared to $2,652 per day
+during year ended December 31, 1999.
+
+MANAGEMENT FEES
+
+Management fees incurred to MMI for contracted technical and commercial
+management services for the year ended December 31, 2000 were $5.3 million
+compared to $3.8 million during year ended December 31, 1999. This increase was
+primarily due to an increase in the technical management fee.
+
+Each of the Company's vessels receives management services from its equity
+shareholder MMI pursuant to a Management Agreement among the Company's vessel
+owning subsidiaries (the "Vessel Owning Subsidiaries") and MMI. Under the
+Management Agreement, MMI acts as the fleet's technical and commercial manager.
+As a technical manager, MMI, on behalf of the Vessel Owning Subsidiaries, (i)
+provides qualified officers and crews on board vessels, (ii) manages day-to-day
+vessel operations and maintains relationships with charterers, (iii) purchases
+on behalf of the Company stores, spares, supplies and equipment for vessels,
+(iv) performs general vessel maintenance, subcontracts for drydock facilities
+for any major repairs and overhauls, (v) ensures regulatory and classification
+society compliance, (vi) performs vessel operational budgeting and evaluations,
+and (vii) provides accounting, treasury and finance functions (including cash
+collections and disbursements on behalf of the Company). As remuneration for its
+services, MMI receives a fixed management fee (payable monthly in advance)
+ranging from $350 to $600 per day per vessel. The Company treats the management
+fee paid to MMI as an operating expense.
+
+Under commercial management services, MMI, on behalf of the Vessel Owning
+Subsidiaries, primarily maintains and negotiates vessel charters, vessel
+sale-and-purchase brokering, and places insurance covers for vessels. As
+remuneration for its services, MMI receives a commission of 1.25% on all gross
+time charter revenue and 1.75% on all gross spot charter revenue earned by each
+vessel managed, 1% on the gross sale or purchase price of a vessel for brokerage
+services, and 2% of all insurance covers placed per vessel managed.
+
+
+
+                                      -15-
+<PAGE>
+
+
+MMI sub-contracts certain of its technical and commercial management services to
+Millenium Maritime Services Ltd. and Millenium Maritime Services, Inc.
+
+GENERAL AND ADMINISTRATIVE
+
+These expenses totalled $2.0 million for the year ended December 31, 2000
+compared to $0.8 million for the year ended December 31,1999. A portion of this
+increase is attributable to costs associated with the settlement of the legal
+proceedings described in Item 3. Other significant components of general and
+administrative expenses for the year ended December 31, 2000 included $1.1
+million in legal and professional expenses and advisory fees of $300,000 paid to
+Millenium Advisors, L.L.C.
+
+DEPRECIATION AND AMORTIZATION
+
+Total depreciation for the year ended December 31, 2000 was $5.4 million
+compared to $5.8 million for the year ended December 31, 1999. Vessel
+depreciation is calculated based on the remaining useful life of the vessel,
+assuming a maximum life of 30 years, net of salvage value.
+
+Deferred vessel costs, including deferred dry-docking expenses, are capitalized
+and amortized over a period of two and a half years (30 months). During the year
+ended December 31, 2000, new deferred charges for dry-docking and special
+surveys related expenses amounted to $1,472,538 which included $213,193 for the
+Clipper Pacific, $318,085 for the Millenium Golden Hind, $458,308 for the
+Millenium Leader, $345,168 for Millenium Dawn, $137,784 for Millenium Amanda.
+For the year ended December 31, 2000, total amortization of deferred vessel
+charges, including deferred dry-docking expenses, were $1,114,573. For the year
+ended December 31, 1999, total amortization of deferred vessel charges,
+including deferred dry-docking expenses, were $ 804,654. Also included in
+amortization in the the statement of operations for the year ended December 31,
+1999, is $465,682 of amortization of goodwill associated with the acquisition
+costs relating to the issuance of the Units. These costs were amortized over the
+life of the Notes, being 7 years from their issuance in July 1998. In December
+1999, these costs were reduced to $0 and the total charge was included in
+Provision for vessel impairment.
+
+PROVISION FOR VESSEL IMPAIRMENT
+
+The Company continues to test the impact of current market conditions on the
+market value of the fleet. In the year ended December 31, 1999 the Company had
+recorded an impairment of $4.4 million. In the year ended December 31, 2000 the
+Company has recorded an impairment of $4.56 million.
+Additionally, in December 1999, during the Company's periodic review of the
+carrying value of its goodwill based on undiscounted estimated future cash flows
+of the vessels acquired, determined that none of the goodwill remaining at
+December 31, 1999 would be recoverable. Accordingly, in December 1999, the
+Company also recorded a $2,600,088 charge which reduced the remaining balance of
+goodwill to $0. The total charge as included in Provision for vessel impairment
+on the statement of operations for the year ended December 31, 1999 amounts to
+$7,000,088.
+
+INTEREST EXPENSE
+
+For the year ended December 31, 2000, the interest expense on the Company's
+long-term debt was $11,661,320, compared to $11,498,404 in the year ended
+December 31, 1999. Interest expense in the statement of operations for the year
+ended December 31, 2000 also includes amortization of $527,708 recorded in
+connection with the bond discount relating to the debt issue, and the
+amortization of $680,140 recorded in connection with the deferred financing
+costs incurred relating to the debt issue. Comparable amortization charges
+recorded for the year ended December 31, 1999 were $465,160 and $680,140
+respectively. During the year ended December 31, 2000, interest earned on cash
+balances was $199,105 compared to $682,050 in the year ended December 31, 1999.
+
+LOSS ON SALE OF VESSEL
+
+During the year ended December 31, 2000, a total constructive loss was declared
+on the Millenium Yama which had suffered engine damage. The full insured value
+was recovered from the vessel's Hull & Machinery underwriters, and the net event
+of loss proceeds were placed in collateral. The disposal of this vessel resulted
+in a net loss of $152,358.
+
+
+                                      -16-
+<PAGE>
+
+
+
+During the year ended December 31, 1999, the vessel Monica Marissa was sold for
+scrap. Net proceeds from the sale amounted to $1,610,196. The loss on the sale
+was $2,088,655 which is recorded in the statement of operations for the year
+ended December 31, 1999.
+
+
+NET LOSS
+
+Net loss for the year ended December 31, 2000 was $15.6 million. Earnings were
+adversely affected by the steep increase in fuel prices. Earnings were also
+impacted by a decline in charter rates for the older tonnage and a $4.56 million
+impairment loss. Earnings before interest, taxes, depreciation and amortization,
+and provision for impairment (Adjusted EBITDA) for the year ended December 31,
+2000 was $8.3 million.
+
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+The Company is a holding company. As of December 31, 2000, it owns all of the
+issued and outstanding shares of 21 Vessel Owning Subsidiaries.
+
+As of December 31, 2000, the Company's cash position consisted of $1.61 million
+in unrestricted cash and cash equivalents. Restricted cash includes deposits
+made toward contingencies and vessel upgrades.
+
+
+OPERATING ACTIVITIES
+
+Net cash flows used in operations for the period ended December 31, 2000 were
+$6.1 million compared to cash used in operations in 1999 of $2.8 million. As is
+common in the shipping industry, the Company collects its hire for all time
+charters 15 days in advance. The Company also has established long-term
+relationships with many suppliers resulting in the Company receiving favorable
+credit terms.
+
+
+INVESTING ACTIVITIES
+
+Principal investing activities were the acquisition of the companies which own
+the Existing Vessels and the purchase of Committed Vessels. Transactions for the
+purchase of vessels from the international shipping market is usually conducted
+in two stages: (i) a deposit of approximately 10% of the purchase price is paid
+upon the execution of the related purchase agreement, and (ii) the balance of
+the purchase price is paid upon the vessel's physical delivery, usually within
+90 days from the date of the execution of the agreement.
+
+Net cash used in investing activities in 2000 were $0.6 million compared to net
+cash used of $22.7 million in 1999. This decrease is attribuable to use of cash
+in 2000 was partially offset by the proceeds from the loss of a vessel. The
+Company acquired two vessels during the year ended December 31, 2000 from
+proceeds from the loss of a vessel and remaining restricted cash.
+
+
+FINANCING ACTIVITIES
+
+Net cash provided by financing activities were $1.4 million in 2000 compared to
+$26.7 million in 1999. In 2000, cash provided consisted of $1.42 released from
+restricted cash in connection with the purchase of 2 additional vessels. In
+1999, cash provided consisted of $26.7 million released from escrow in
+connection with the purchase of 5 additional vessels.
+
+The Company believes that based upon the current level of operation, cash flow
+from operations, together with other readily available sources of funds, it has
+adequate liquidity to fund its working capital requirements, meet capital
+expenditures for repairs and maintenance and make required payments of interest
+on the Company's debt. The Company intends to change the fleet profile through
+sale and purchase of vessels and this will be partly assisted by its ability to
+raise capital through either borrowing activities or from cash generated from
+operations, or both.
+
+
+
+                                      -17-
+<PAGE>
+
+
+WORKING CAPITAL
+
+Pursuant to a Working Capital Facility Agreement between the Company and The
+Bank of New York, the Company had a standby line of credit in a principal amount
+up to $7.0 million available for its working capital requirements, which expired
+on July 20, 1999. The Bank, however, extended the maturity of a $500,000 tranche
+until August 5, 1999 which also expired unused. The facility was only used once
+during its tenure for an amount of $250,000 which was repaid. The facility,
+collateralized by the Company's vessels and subject to various covenants, bore
+interest at LIBOR+1.5% and was subject to a 0.375% commitment fee on the unused
+portion.
+
+On December 23, 1999, the Company accepted a commitment for a standby line of
+credit in a principal amount up to $2.5 million available for its working
+capital requirements from the Allfirst Bank. The facility, collateralized by the
+Company's vessels and subject to various covenants, provided that interest would
+accrue at the US Prime rate and was subject to a 1% commitment fee on the unused
+portion. This commitment, which was valid until March 23, 2000, was subject to
+consent from Note Holders due to the fact that the Allfirst Bank will be both
+the Working Capital Facility provider as well as the Indenture Trustee and a
+potential of conflict of interest could arise under certain conditions. The
+Allfirst Bank had extended the commitment until June 1, 2000, when it expired
+absent such consents.
+
+
+FOREIGN EXCHANGE RATE FLUCTUATIONS
+
+All of the Company's revenue, and most of its expenses, are denominated in
+United States dollars. For the year ended December 31, 2000, approximately 5% of
+the Company's expenses were denominated in foreign currencies, primarily Greek
+drachmae. The Company does not hedge its exposure to foreign currency
+fluctuations.
+
+
+INFLATION
+
+The Company does not believe that inflation has had a material impact on its
+operations during the periods presented, although certain of the Company's
+operating expenses (e.g. crewing, insurance and drydocking costs) are subject to
+fluctuations as a result of market forces. Inflationary pressures on bunker
+costs are not expected to have a material effect on the Company's results from
+operations and cash flows since such costs are paid by the charterers and the
+majority of the Company's vessels are on period time charters.
+
+
+ITEM 9A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+- -------------------------------------------------------------------
+
+The Company's outstanding debt bears a fixed interest rate and therefore the
+Company is not susceptible to interest rate fluctuations. In addition, all of
+the Company's revenues and expenses are denominated in United States dollars,
+except for 5% of its expenses which are denominated primarily in Greek drachmae.
+Therefore the Company believes it is not susceptible to foreign exchange
+fluctuations.
+
+
+ITEM 10.  DIRECTORS AND OFFICERS OF REGISTRANT
+- --------  ------------------------------------
+
+The following table sets forth the name, age and principal position with the
+Company of each of its directors and executive officers.
+
+The following individuals are the senior officers and directors of Millenium
+(ages as of April 12, 2000):
+
+Vassilios M. Livanos       53       Chairman and Director
+Theotokis S. Milas         57       Chief Operating Officer
+Nicholas A. Cotzias, Jr.   40       Chief Financial Officer and Director
+Emanuel Kyprios            57       Vice President, Projects
+Connor O'Brien             39       Director
+Robert Tangney             53       Director
+
+
+
+                                      -18-
+<PAGE>
+
+
+Certain biographical information about each of these individuals is set forth
+below:
+
+Vassilios M. Livanos has been involved in the shipping industry for over 25
+years. In 1993 he was one of the founding partners of Millenium Maritime Greece.
+From 1985 to 1993, Mr. Livanos was president of Kedma Ltd., a New York-based
+shipowning company which was founded in 1985. As President of Kedma, Mr. Livanos
+directed the growth of Kedma's fleet from four vessels to over 20 vessels. From
+1972 to 1985, Mr. Livanos worked for Seres Shipping Inc., in New York and Tokyo,
+as Director of Engineering responsible for the technical management of a fleet
+of over 100 vessels. Mr. Livanos spent four years in Japan, where he supervised
+the construction of over 20 vessels of various types. During his tenure at Seres
+Shipping Inc., Mr. Livanos was a principal shipowner of two vessels from 1981
+and a principal in a drybulk chartering operation from 1983. Mr. Livanos
+graduated from the Massachusetts Institute of Technology in 1971, with a B.A.
+and M.S. in Naval Architecture and Marine Engineering, and an M.S. in Shipping
+and Shipbuilding Management.
+
+Theotokis S. Milas has been involved in the shipping industry for over 30 years.
+In 1993 Mr. Milas was one of the founding members of Millenium Maritime Greece.
+In 1984 he was a founding partner of IMI, a New York based shipowning company
+with 15 vessels having an aggregate tonnage of 1.25 million dwt. Prior to 1984,
+Mr. Milas held various management positions with other shipping companies based
+in the United States. Also during that time, Mr. Milas was appointed and acted
+as a qualified surveyor for the American Bureau of Shipping and the NKK, the
+Japanese Classification society. He graduated from City University of New York
+with a B.S. degree in Mechanical Engineering in 1966, and from Massachusetts
+Institute of Technology in 1971 with M.S. degrees in Naval Architecture and
+Marine Engineering, as well as in Shipping and Shipbuilding Management. Mr.
+Milas was elected a member of the Society of Maritime Arbitrators in 1981.
+
+Nicholas A. Cotzias, Jr. has been involved in the shipping industry for over 15
+years. In 1993, he was one of the founding partners of Millenium Maritime
+Greece. From 1988 to 1993, Mr. Cotzias served as the General Manager and
+Director of Trade and Transport (UK) Ltd. in London, part of Brokerage &
+Management Group, a United States connected shipping venture which controlled,
+at the time, in excess of 40 vessels including drybulk carriers, tankers and
+offshore supply and support vessels, trading primarily in the North Seas. Mr.
+Cotzias handled a number of transactions in the sale and purchase sector, and
+period charter employments, for and on behalf of the owners of vessels, and was
+responsible for successfully preparing, analyzing and negotiating investment
+proposals in assisting the group implement various programs and maximizing
+returns by meeting targets. From 1984 to 1988, Mr. Cotzias worked at Cotzias
+Shipping of Greece, an international family owned concern established in 1892,
+as sale and purchase manager. Mr. Cotzias graduated from Boston University in
+1982 with a B.A. and an M.A. degree in International Economics.
+
+Emanuel Kyprios has been involved in the shipping industry for over 25 years. In
+1993 Mr. Kyprios was one of the founding members of Millenium Maritime Greece.
+In 1985, Mr. Kyprios founded the OSI Group which specializes in merchant banking
+for the shipping industry, and has provided financial services to some of the
+leading shipping groups and financial shipping institutions in the world. From
+1970 to 1984, Mr. Kyprios was an executive at Bankers Trust Company and
+Manufacturers Hanover Trust Company and Vice President and Group Head of
+Shipping and Transportation at Marine Midland Bank. Mr. Kyprios graduated from
+The Wharton School of Finance and Commerce in 1968 with an MBA degree.
+
+Connor O'Brien is a co-founder and Managing Director of Stanton Capital
+Corporation, a private equity investment firm based in New York. Prior to
+forming Stanton Capital in 1995, he worked in the Investment Banking Group at
+Merrill Lynch & Co., following four years in the Mergers & Acquisitions and
+Natural Resources Groups at Lehman Brothers Inc. and two years at a major New
+York bank. Mr. O'Brien received an M.B.A. from the Tuck School at Dartmouth
+College.
+
+Robert Tangney has been involved in the shipping industry for over 25 years. He
+was a principal at Gannet Freighting, Inc. for the past 20 years and prior to
+that was Chartering Manager at Seres Shipping Inc., from 1972 to 1980. He has an
+MBA from Suffolk University in 1971.
+
+
+                                      -19-
+<PAGE>
+
+
+
+ITEM 11.  COMPENSATION OF DIRECTORS AND OFFICERS
+- --------  --------------------------------------
+
+The directors of the Company are each entitled to receive approximately $10,000
+plus expenses from the Company annually. Neither the Company nor any of its
+subsidiaries have set aside or reserved funds for pension, retirement or similar
+benefits for directors and officers. Certain officers and directors of the
+Company will also be officers and directors of and might be compensated by MMI,
+Millenium Maritime Greece and/or Millenium Maritime USA.
+
+ITEM 12.  OPTIONS TO PURCHASE SECURITIES FROM THE REGISTRANT OR SUBSIDIARIES
+- --------  ------------------------------------------------------------------
+
+Not applicable.
+
+ITEM 13.  INTEREST OF MANAGEMENT IN CERTAIN TRANSACTIONS
+- --------  ----------------------------------------------
+
+The Company has engaged MMI, the sole shareholder of Millenium Seacarriers, to
+provide certain commercial and technical management services to the Company at
+current market rates. MMI has subcontracted with Millenium Maritime Greece and
+Millenium Maritime USA to provide management services.
+
+
+         PART II
+         -------
+
+ITEM 14.  DESCRIPTION OF SECURITIES TO BE REGISTERED
+- --------  ------------------------------------------
+
+Securities have already been registered.
+
+
+         PART III
+         --------
+
+ITEM 15.  DEFAULTS UPON SENIOR SECURITIES
+- --------  -------------------------------
+
+Not applicable.
+
+ITEM 16.  CHANGES IN SECURITIES AND CHANGES IN SECURITY FOR REGISTERED
+SECURITIES
+- ----------------------------------------------------------------------
+
+Inapplicable.
+
+
+         PART IV
+         -------
+
+ITEM 17.  FINANCIAL STATEMENTS
+- --------  --------------------
+
+See Item 19 for a list of financial statements required under Item 18. The
+financial information and the report of the Independent Certified Public
+Accountants set forth on pages F-2 to F-14 of the annexed Financial Statements
+of the Company are incorporated into this Annual Report on Form 20-F.
+
+ITEM 18.  FINANCIAL STATEMENTS
+- --------  --------------------
+
+See Item 19(a) below.
+
+ITEM 19.  FINANCIAL STATEMENTS
+- --------  --------------------
+
+(a)      Financial Statements
+
+The following financial statements, together with the reports of independent
+auditors thereon, are filed as part of this Annual Report.
+
+(b)      Exhibits
+
+
+                                      -20-
+<PAGE>
+
+
+1. Copies of all amendments or modifications, not previously filed, to all
+exhibits previously file. Not Applicable.
+
+2. Copies of all contracts and other documents of a character required to be
+filed as an exhibit to an original registration statement which were executed or
+in effect during the fiscal year end and not previously filed. Not Applicable.
+
+SIGNATURES
+- ----------
+
+Pursuant to the requirements of Section 12 of the Securities Act of 1934, the
+registrant certifies that it meets all of the requirements for filing on Form
+20-F and has duly caused this annual report to be signed on its behalf by the
+undersigned, thereunto duly authorized.
+
+MILLENIUM SEACARRIERS, INC.
+
+By: /s/ Vassilios M. Livanos
+Name: Vassilios M. Livanos
+Title:   Chairman
+
+Dated:    April 27, 2001
+
+
+
+                                      -21-
+<PAGE>
+
+                   MILLENIUM SEACARRIERS INC. AND SUBSIDIARIES
+
+
+                   Index to Consolidated Financial Statements
+
+
+
+
+
+<TABLE>
+<CAPTION>
+                                                                                        PAGES
+                                                                                        -----
+
+<S>                                                                                     <C>
+Independent Auditors' Report                                                            F-2
+
+
+Consolidated Balance Sheets                                                             F-4
+
+
+Consolidated Statements of Operations                                                   F-5
+
+
+Consolidated Statements of Cash Flows                                                   F-6
+
+
+Consolidated Statements of Shareholders' Equity/Deficit                                 F-7
+
+
+Notes to the Consolidated Financial Statements                                          F-8
+</TABLE>
+
+
+
+
+
+                                       F-1
+<PAGE>
+
+                          INDEPENDENT AUDITORS' REPORT
+
+
+
+
+
+
+
+To the Board of Directors and Stockholders of
+Millenium Seacarriers, Inc.
+Grand Cayman, Cayman Islands
+
+We have audited the accompanying consolidated balance sheet of Millenium
+Seacarriers, Inc. and subsidiaries as of December 31, 2000 and 1999, and the
+related consolidated statements of operations, stockholder's equity (deficit),
+and cash flows for the years then ended. These financial statements are the
+responsibility of the Corporation's management. Our responsibility is to express
+an opinion on these financial statements based on our audits.
+
+We conducted our audits in accordance with auditing standards generally accepted
+in the United States of America. Those standards require that we plan and
+perform the audit to obtain reasonable assurance about whether the financial
+statements are free of material misstatement. An audit includes examining, on a
+test basis, evidence supporting the amounts and disclosures in the financial
+statements. An audit also includes assessing the accounting principles used and
+significant estimates made by management, as well as evaluating the overall
+financial statement presentation. We believe that our audits provide a
+reasonable basis for our opinion.
+
+In our opinion, such consolidated financial statements present fairly, in all
+material respects, the financial position of Millenium Seacarriers, Inc. and
+subsidiaries as of December 31, 2000 and 1999, and the results of their
+operations and their cash flows for the years then ended in conformity with
+accounting principles generally accepted in the United States of America.
+
+
+DELOITTE & TOUCHE LLP
+New York, New York
+April 12, 2001
+
+
+
+
+                                      F-2
+<PAGE>
+
+PRICEWATERHOUSECOOPERS
+
+
+- --------------------------------------------------------------------------------
+
+
+                        REPORT OF INDEPENDENT ACCOUNTANTS
+
+
+
+To the Board of Directors and Shareholders of
+Millenium Seacarriers Inc. and Subsidiaries
+
+
+In our opinion, the accompanying consolidated balance sheet and the related
+consolidated statements of operations, cash flows and shareholders' equity
+present fairly, in all material respects, the financial position of Millenium
+Seacarriers Inc. and its subsidiaries at December 31, 1998 and the results of
+their operations and cash flows for the period from inception (March 10, 1998)
+to December 31, 1998, in conformity with generally accepted accounting
+principles in the United States. These financial statements are the
+responsibility of the company's management; our responsibility is to express an
+opinion on these financial statements based on our audit. We conducted our audit
+of these financial statements in accordance with generally accepted auditing
+standards in the United States, which require that we plan and perform the audit
+to obtain reasonable assurance about whether the financial statements are free
+of material misstatement. An audit includes examining, on a test basis, evidence
+supporting the amounts and disclosures in the financial statements, assessing
+the accounting principles used and the significant estimates made by management,
+and evaluating the overall financial statement presentation. We believe that our
+audit provides a reasonable basis for the opinion expressed above.
+
+
+/s/ PricewaterhouseCoopers
+PricewaterhouseCoopers
+
+Piraeus, Greece
+April 21, 1999
+
+
+
+
+                                      F-3
+<PAGE>
+
+                  MILLENIUM SEACARRIERS, INC. AND SUBSIDIARIES
+
+                        CONSOLIDATED BALANCE SHEETS AS OF
+                     DECEMBER 31, 2000 AND DECEMBER 31, 1999
+
+
+
+<TABLE>
+<CAPTION>
+                                                                                  DECEMBER 31,         DECEMBER 31,
+ASSETS                                                                                2000                 1999
+- ------
+<S>                                                                        <C>                          <C>
+CURRENT ASSETS
+Cash and cash equivalents                                                  $         1,616,528          6,903,645
+Restricted cash                                                                      3,400,167          4,827,135
+                                                                              -------------------------------------
+                                                                                     5,016,695         11,730,780
+Receivables :
+   Voyages                                                                             880,637            516,763
+   Claims and other                                                                    715,447            324,564
+Inventories and prepaid expenses                                                     2,093,513          1,479,206
+                                                                              ------------------ ------------------
+          TOTAL CURRENT ASSETS                                                       8,706,292         14,051,313
+                                                                              -------------------------------------
+
+FIXED ASSETS
+Vessels, net of accumulated depreciation of $11,992,543                             84,537,841         93,484,950
+and $7,164,750 at December 31, 2000 and 1999, respectively
+Other, net of accumulated depreciation                                                 139,455            138,337
+                                                                              -------------------------------------
+          TOTAL FIXED ASSETS                                                        84,677,296         93,623,287
+
+Other assets                                                                         4,690,076          5,012,248
+                                                                              -------------------------------------
+TOTAL ASSETS                                                               $        98,073,664        112,686,848
+                                                                              =====================================
+
+LIABILITIES AND SHAREHOLDER'S EQUITY / (DEFICIT)
+- ------------------------------------------------
+
+CURRENT LIABILITIES
+
+Trade accounts payable                                                     $         6,747,400          5,705,471
+Accrued liabilities                                                                  7,774,189          8,632,155
+Charter revenue received in advance                                                    799,003            504,290
+                                                                              -------------------------------------
+          TOTAL CURRENT LIABILITIES                                                 15,320,592         14,841,916
+Notes                                                                               96,597,348         96,069,637
+                                                                              ------------------ ------------------
+          TOTAL LIABILITIES                                                        111,917,940        110,911,553
+                                                                              -------------------------------------
+
+Commitments and contingencies
+
+SHAREHOLDER'S EQUITY/(DEFICIT)
+Common stock and paid in capital                                                    22,900,000         22,900,000
+Warrants                                                                             1,200,000          1,200,000
+Accumulated deficit                                                                (37,944,276)       (22,324,705)
+                                                                              -------------------------------------
+          Total shareholder's equity/(deficit)                                     (13,844,276)         1,775,295
+                                                                              -------------------------------------
+Total Liabilities and shareholder's equity/(deficit)                       $        98,073,664        112,686,848
+                                                                              =====================================
+</TABLE>
+
+
+
+              The accompanying notes are an integral part of these
+                       consolidated financial statements
+
+
+                                      F-4
+<PAGE>
+
+                  MILLENIUM SEACARRIERS, INC. AND SUBSIDIARIES
+
+                      CONSOLIDATED STATEMENTS OF OPERATIONS
+          FOR THE YEARS ENDED DECEMBER 31, 2000 AND DECEMBER 31, 1999,
+           AND FOR THE PERIOD FROM MARCH 10, 1998 TO DECEMBER 31, 1998
+
+
+
+<TABLE>
+<CAPTION>
+                                                             YEAR ENDED           YEAR ENDED     PERIOD FROM MARCH
+                                                           DECEMBER 31,         DECEMBER 31,             MARCH 10,
+                                                                   2000                 1999       TO DECEMBER 31,
+                                                                                                              1998
+<S>                                               <C>                   <C>                  <C>
+ REVENUE
+ Freight and hire from voyages                    $        41,916,575   $        36,488,454  $         12,721,853
+ Voyage expenses                                           (5,784,131)           (2,642,675)              (43,757)
+ Commissions                                               (1,528,897)           (1,592,580)             (541,887)
+                                                    -------------------   -------------------   -------------------
+           Net revenue                                     34,603,547            32,253,199            12,136,209
+                                                    -------------------   -------------------   -------------------
+
+ EXPENSES
+ Vessel operating expenses                                 19,007,675            18,237,342             7,001,095
+ Management fees                                            5,262,612             3,822,801               965,666
+ General and administrative                                 2,029,166               821,507               596,497
+ Depreciation and amortization                              6,505,709             7,047,988             2,318,452
+ Provision for vessel impairment                            4,560,000             7,000,088                     -
+ Loss on sale of vessel                                       152,358             2,088,655                     -
+                                                    -------------------   -------------------   -------------------
+                                                           37,517,520            39,018,381            10,881,710
+
+                                                    -------------------   -------------------   -------------------
+       Operating (loss) / income                           (2,913,973)           (6,765,182)            1,254,499
+                                                    -------------------   -------------------   -------------------
+
+ OTHER INCOME / (EXPENSE)
+ Interest expense                                         (12,869,168)          (12,643,704)           (5,811,573)
+ Other income                                                 163,570               611,050             1,030,205
+                                                    -------------------   -------------------   -------------------
+                                                          (12,705,598)          (12,032,654)           (4,781,368)
+                                                    -------------------   -------------------   -------------------
+
+ Loss before income taxes                                 (15,619,571)          (18,797,836)           (3,526,869)
+ Income tax provision                                               -                     -                     -
+                                                    -------------------   -------------------   -------------------
+ Net loss                                         $       (15,619,571)  $       (18,797,836) $         (3,526,869)
+                                                    ===================   ===================   ===================
+
+
+ Loss per Share, Basic and Diluted
+                                                             $ (1.64)              $ (1.98)              $ (0.67)
+                                                    ===================   ===================   ===================
+
+ Weighted average shares outstanding                        9,500,000             9,500,000             5,238,095
+                                                    ===================   ===================   ===================
+</TABLE>
+
+
+                 The accompanying notes are an integral part of
+                    these consolidated financial statements
+
+
+
+                                      F-5
+<PAGE>
+
+                  MILLENIUM SEACARRIERS, INC. AND SUBSIDIARIES
+
+                      CONSOLIDATED STATEMENTS OF CASH FLOWS
+          FOR THE YEARS ENDED DECEMBER 31, 2000 AND DECEMBER 31, 1999,
+           AND FOR THE PERIOD FROM MARCH 10, 1998 TO DECEMBER 31, 1998
+
+<TABLE>
+<CAPTION>
+                                                                                YEAR ENDED       YEAR ENDED         PERIOD FROM
+                                                                                  DECEMBER     DECEMBER 31,      MARCH 10, 1998
+                                                                                  31, 2000             1999         TO DECEMBER
+                                                                                                                       31, 1998
+<S>                                                                  <C>                        <C>                  <C>
+Cash flows from operating activities
+Net loss                                                             $         (15,619,571)     (18,797,836)         (3,526,869)
+
+Adjustments to reconcile loss to net cash provided by (used in) operating
+activities:
+   Loss on sale of vessel                                                          152,358        2,088,655                   -
+   Provision for vessel impairment                                               4,560,000        7,000,088                   -
+   Depreciation and amortization                                                 6,505,709        7,047,988           2,318,452
+   Amortization of bond discount and deferred financing costs                    1,207,848        1,145,300             534,420
+Changes in operating assets and liabilities:
+   Increase in Receivables                                                        (754,757)        (287,201)           (443,643)
+   Increase in Inventories and prepaid expenses                                   (614,307)      (1,035,954)           (291,063)
+   Increase in Trade accounts payable                                              514,863           58,888           2,571,585
+   Increase/(Decrease) in Accrued liabilities                                     (857,966)       1,263,790           6,100,896
+   Deferred dry-docking and special survey                                      (1,472,538)      (1,148,574)           (622,782)
+   (Decrease) Increase in Charter revenue received in advance                      294,713         (108,741)            376,045
+                                                                        ------------------ ------------------ -------------------
+Net cash (used in)/provided by operating activities                             (6,083,648)      (2,773,597)          7,017,041
+                                                                        ------------------ ------------------ -------------------
+
+Cash flows from investing activities
+Purchase of vessels                                                             (4,000,000)     (23,615,000)        (53,412,500)
+Additions to vessels                                                               (68,872)        (603,797)         (1,706,170)
+Proceeds from sale of vessel                                                     3,500,000        1,610,196                   -
+Acquisitions, net of cash acquired                                                       -                -            (106,944)
+
+Purchase of other fixed assets                                                     (61,565)        (148,557)            (26,678)
+                                                                        ------------------ ------------------ -------------------
+Net cash used in investing activities                                             (630,437)     (22,757,158)        (55,252,292)
+                                                                        ------------------ ------------------ -------------------
+
+Cash flows from financing activities
+Proceeds from working capital facility                                                   -          250,000                   -
+Repayment of Proceeds from working capital facility                                      -         (250,000)                  -
+Proceeds from Escrow account and restricted cash                                 1,426,968       26,697,755         (31,524,890)
+Proceeds from long-term debt                                                             -                -          95,393,000
+Principal payments on Existing Vessel Debt                                               -                -         (12,325,856)
+Issuance of warrants                                                                     -                -           1,200,000
+Deferred financing costs                                                                 -                -         (5,870,360)
+Shareholder contribution                                                                 -                -           7,100,000
+                                                                        ------------------ ------------------ -------------------
+Net cash provided by financing activities                                        1,426,968       26,697,755          53,971,894
+                                                                        ------------------ ------------------ -------------------
+
+Increase/(Decrease) in cash and cash equivalents                                (5,287,117)       1,167,000           5,736,643
+Cash and cash equivalents at beginning of period                                 6,903,645        5,736,645                   2
+                                                                        ------------------ ------------------ -------------------
+Cash and cash equivalents at end of period                           $           1,616,528        6,903,645           5,736,645
+                                                                        ================== ================== ===================
+
+Supplementary cash flow information
+Interest paid                                                        $          11,641,080       11,445,018             480,872
+                                                                        ================== ================== ===================
+</TABLE>
+
+
+
+    The accompanying notes are an integral part of these financial statements
+
+
+
+                                      F-6
+<PAGE>
+
+
+                  MILLENIUM SEACARRIERS, INC. AND SUBSIDIARIES
+
+            CONSOLIDATED STATEMENT OF SHAREHOLDER'S EQUITY/(DEFICIT)
+            FOR THE YEARS ENDED DECEMBER 31, 2000, DECEMBER 31, 1999,
+           AND FOR THE PERIOD FROM MARCH 10, 1998 TO DECEMBER 31, 1998
+
+
+
+
+
+<TABLE>
+<CAPTION>
+                                          COMMON STOCK
+                                           AND PAID-IN                     ACCUMULATED
+                                             CAPITAL        WARRANTS         DEFICIT            TOTAL
+<S>                                        <C>              <C>             <C>            <C>
+ISSUANCE OF STOCK :
+
+Incorporation, March 10, 1998              $          2     $         -     $          -   $            2
+
+Acquisition of Existing Vessel
+Owning Companies, July 24, 1998               3,999,998               -                -       3,998,998
+                                           ------------     -----------     ------------   -------------
+Balance, July 24, 1998                        4,000,000               -                -       4,000,000
+
+Contributions                                18,900,000               -                -      18,900,000
+
+Warrants                                              -       1,200,000                -       1,200,000
+
+Net Loss, December 31, 1998                           -               -       (3,526,869)     (3,526,869)
+
+
+BALANCE DECEMBER 31, 1998                    22,900,000       1,200,000       (3,526,869)     20,573,131
+
+Net Loss for the year ended
+December 31, 1999                                     -               -      (18,797,836)    (18,797,836)
+                                           ------------     -----------     ------------   -------------
+
+BALANCE DECEMBER 31, 1999                    22,900,000       1,200,000      (22,324,705)      1,775,295
+
+Net Loss for the year ended December 31,
+2000                                                  -               -      (15,619,571)    (15,619,571)
+                                           ------------     -----------     ------------   -------------
+BALANCE DECEMBER 31, 2000                  $ 22,900,000     $ 1,200,000     $(37,944,276)  $ (13,844,276)
+                                           ============     ===========     ============   =============
+</TABLE>
+
+
+
+
+
+
+
+
+    The accompanying notes are an integral part of these financial statements
+
+
+
+
+
+                                      F-7
+<PAGE>
+
+                  MILLENIUM SEACARRIERS, INC. AND SUBSIDIARIES
+
+                   Notes to Consolidated Financial Statements
+
+
+
+1.  BUSINESS INFORMATION
+
+On March 10, 1998, Millenium Seacarriers, Inc. ("Millenium") was formed (the
+"Formation") to directly hold the capital stock of a group of subsidiaries
+(collectively the "Company") each of which owns one of Millenium's vessels.
+These consolidated financial statements give effect to the Formation pursuant to
+which all of Millenium subsidiaries became wholly owned subsidiaries of
+Millenium. Millenium owns and operates a fleet of dry-bulk carriers, primarily
+of Handy-size type. As of December 31, 2000, the Company's fleet consisted of 21
+vessels.
+
+The Company is registered and incorporated in the Cayman Islands. Its principal
+business is the acquiring, upgrading and operating of vessels. Millenium
+conducts its operations through its subsidiaries whose principal activity is the
+operation and ownership of dry-bulk vessels that will be under the exclusive
+management of Millenium Management, Inc. ("MMI") and the sub-management of
+Millenium Maritime Services Ltd. and Millenium Maritime Services, Inc.
+
+The Company incurred losses of approximately $15.6 million and $18.8 million in
+2000 and 1999, respectively. In addition, the Company has an accumulated deficit
+of approximately $37.9 million and a shareholder's deficit of approximately
+$13.8 million as of December 31, 2000. The Company has developed and is in the
+process of implementing a plan that includes the strategic sale of certain of
+its younger vessels, the proceeds from which will be used to purchase older
+vessels. Management believes it can operate the vessels acquired profitably over
+their remaining useful lives, enabling the Company to generate cash flows from
+its operations. In addition, the Company is in the process of securing a line of
+credit. Based on these facts and circumstances, management believes that the
+Company will have the financial resources to meet its obligations as they come
+due.
+
+
+2.  BASIS OF FINANCIAL STATEMENT PRESENTATION AND ACCOUNTING POLICIES
+
+BASIS OF PRESENTATION
+
+The accompanying consolidated financial statements are prepared in accordance
+with accounting principles generally accepted in the United States of America.
+All inter-company balances and transactions have been eliminated upon
+consolidation.
+
+USE OF ESTIMATES
+
+The preparation of the consolidated financial statements in conformity with
+accounting principles generally accepted in the United States requires
+management to make estimates and assumptions that affect the reported amounts of
+assets and liabilities, the disclosure of contingent liabilities at the date of
+the consolidated financial statements, and the stated amount of revenues and
+expenses during the reporting period. Actual results could differ from those
+estimates. Certain reclassifications have been made to the 1998 and 1999
+financial statements to conform to the classifications in the 2000 financial
+statements.
+
+REVENUE AND EXPENSE RECOGNITION
+
+Revenue and expense recognition policies for voyage and time charter agreements
+are as follows:
+Voyage Charters : Voyage revenues, voyage expenses and direct vessel expenses
+relating to voyage or spot market charters are recognized on a pro rata basis
+based on the relative transit time in each period. Voyage expenses primarily
+include only those specific costs which are borne by the Company in connection
+with voyage charters which would otherwise have been borne by the charterer
+under time charter agreements. These expenses principally consist of fuel and
+port charges. Demurrage income represents payments by the charterer to the
+vessel owner when loading and discharging time exceed the stipulated time in the
+voyage charter. Demurrage income is recognized in
+
+
+                                      F-8
+<PAGE>
+
+
+accordance with the provisions of the respective charter agreements and the
+circumstances under which demurrage claims arise. Demurrage income was not
+material in any of the periods presented. Time Charters : Revenue from time
+charters are recognized on a straight line basis over the term of the respective
+time charter agreement. Direct vessel expenses are recognized when incurred.
+
+INCOME TAXES
+
+The countries of the vessel-owning companies' incorporation do not impose taxes
+on international shipping income. Minor registration and tonnage taxes must be
+paid annually and have been included in the vessels' operating expenses in the
+accompanying consolidated statements of operations. Pursuant to the Internal
+Revenue Code of the United States (the Code), U.S. source income from the
+international operations of ships is generally exempt from U.S. tax if the
+company operating the ships meets certain requirements. Among other things, in
+order to qualify for this exemption, the company operating the ships must be
+incorporated in a country which grants an equivalent exemption from income taxes
+to U.S. citizens and U.S. corporations and must be more than 50% owned by
+individuals who are resident, as defined, in such country or another foreign
+country that grants an equivalent exemption to U.S. citizens and U.S.
+corporations. At December 31, 2000 the Company had met the requirement for
+exemption from U.S. income tax.
+
+FOREIGN CURRENCIES
+
+The Company's functional currency is the U.S. dollar. Certain of the expenses
+which are denominated in foreign currencies are remeasured into U.S. dollars at
+exchange rates prevailing at the date of the transaction. Resulting exchange
+gains and/or losses on settlement are included in operating expenses in the
+accompanying consolidated statements of operations.
+
+BASIC AND DILUTED LOSS PER ORDINARY SHARE
+
+Basic and diluted loss per ordinary share have been computed by dividing net
+loss by the average number of outstanding ordinary shares (9,500,000) following
+the formation of the Company. There are also 500,000 warrants outstanding to
+acquire 500,000 shares of common stock for $0.01 per share. Assumed exercise of
+these warrants has been excluded from the calculation of loss per common share
+as the effect of such exercise would be antidilutive.
+
+CASH AND CASH EQUIVALENTS AND ESCROW ACCOUNTS
+
+The Company considers time deposits or other certificates purchased with an
+original maturity of three months or less to be cash equivalents. Restricted
+cash includes deposits made towards contingencies and vessel upgrades, and also
+includes proceeds from the sale of a vessel in 1999 and proceeds from insurance
+for the total loss of a vessel in 2000 (see Note 6), all of which have been
+placed in a restricted Escrow account under the governing rules of the Note
+Indenture.
+
+INVENTORIES AND PREPAID EXPENSES
+
+Inventories consist of bunkers, lubricants, spares and stores on board the
+Company's vessels at the balance sheet date. Inventories are stated at the lower
+of cost or market value. Cost is determined on a first-in, first-out method.
+Inventories and prepaid expenses as of December 31, 2000 and 1999 were
+$2,093,513 and $1,479,206 respectively.
+
+FIXED ASSETS
+
+Vessels, net is stated at cost less accumulated depreciation. Vessels are
+depreciated on a straight-line basis over their estimated remaining useful
+lives, based on cost less scrap value. The useful lives have been estimated to
+be 30 years from completion of construction. Depreciation is calculated on a
+straight-line basis by reference to the vessels' cost, age and scrap value as
+estimated at the date of acquisition which is $150 per ton.
+
+The Company has adopted the provision of Statement of Financial Accounting
+Standards ("SFAS") No. 121, Accounting for Impairment of Long-lived Assets to Be
+Disposed Of. The statement requires that long-lived assets used or disposed of
+by an entity be reviewed for impairment whenever events or changes in
+circumstances indicate that the
+
+
+
+                                      F-9
+<PAGE>
+
+
+
+carrying amount of an asset may not be recovered. An impairment loss for an
+asset held for use should be recognized when the estimate of non-discounted
+future net cash flows, excluding interest charges, expected to be generated by
+the use of the asset is less than its carrying amount. Measurement of impairment
+loss is based on the fair market value of the asset. (See Note 3.)
+
+OTHER ASSETS
+
+Other assets include dry-docking, special survey and debt issue costs.
+Dry-docking and special survey costs are deferred and amortized over the
+estimated period to the next scheduled dry-docking or survey, which are
+generally, two and a half years and five years, respectively. The amortization
+of dry-docking and special survey costs are included in amortization in the
+accompanying consolidated statement of operations and amounted to $1,114,573 in
+2000 and $804,654 in 1999.
+
+Debt issue costs also include costs associated with the issuance of Notes and
+the acquisition of the Millenium subsidiaries. These deferred financing costs
+are amortized over the life of the Notes and is included in interest expense in
+the accompanying consolidated statement of operations (see Note 4).
+
+INTANGIBLE ASSETS
+
+Intangible assets consist of goodwill relating the excess of cost over fair
+value of five vessels built between 1975 and 1978 which were acquired on July
+24, 1998. This goodwill, which aggregated $3,259,812 at the time the vessels
+were acquired, was being amortized over a seven year period. Amortization was
+$465,682 and $194,037 in 1999 and 1998, respectively, and is included in
+amortization in the accompanying consolidated statement of operations.
+ In December 1999, the Company reviewed the carrying value of its goodwill and
+determined that an impairment existed that based on a fair value analysis none
+of the goodwill remaining would be recoverable. Accordingly, in December 1999,
+the Company recorded a $2,600,088 charge which reduced the remaining balance of
+goodwill to $0. This charge is included in Provision for vessel impairment on
+the statement of operations for 1999.
+
+ACCRUED LIABILITIES
+
+Accrued liabilities primarily consists of accrued payroll, accrued interest and
+other accrued expenses. These liabilities at December 31, 2000 were $1,459,498,
+$5,350,840 and $963,851 respectively, and at December 31, 1999 were $1,393,366,
+$5,330,600 and $1,908,189, respectively.
+
+RECENT ACCOUNTING PRONOUNCEMENTS
+
+Statement of Financial Accounting Standards (SFAS) No. 133, Accounting for
+Derivative Instruments and Hedging Activities, is effective for all fiscal years
+beginning after June 15, 2000. SFAS 133, as amended, establishes accounting and
+reporting standards for derivative instruments, including certain derivative
+instruments embedded in other contracts and for hedging activities. Under SFAS
+133, certain contracts that were not formerly considered derivatives may now
+meet the definition of a derivative. The Company will adopt SFAS 133 effective
+January 1, 2001. Management does not expect the adoption of SFAS 133 to have a
+significant impact on the financial position, results of operations, or cash
+flows of the Company.
+
+In November 1999, the United States Securities and Exchange Commission ("SEC")
+issued Staff Accounting Bulletin ("SAB") 101, REVENUE RECOGNITION. This Bulletin
+sets forth the SEC Staff's position regarding the point at which it is
+appropriate for a registrant to recognize revenue. The Company has reviewed
+these criteria and believes its policy for revenue recognition to be in
+accordance with SAB 101.
+
+
+3.  FIXED ASSETS
+
+Fixed assets consists of the Company's fleet of dry bulk carriers and other
+assets. Vessels owned by the Company are stated at cost, which comprises the
+vessels' contract price, capital improvements, direct delivery and acquisition
+expenses, and finance charges relating to the acquisition of vessels, reduced by
+impairment writedowns described in the following paragraph.
+
+
+
+                                      F-10
+<PAGE>
+
+
+Management believes that depressed freight market conditions have impacted the
+fair market value of certain older vessels in the fleet. In December 2000, the
+Company reviewed the carrying value of its vessels and determined that an
+impairment existed. Accordingly, the Company estimated an impairment on three
+vessels aggregating $4,560,000, which represents the amount by which carrying
+value exceeded fair value of the vessels. This amount is included in Provision
+for vessel impairment in the accompanying consolidated statement of operations
+for 2000. In December 1999, the Company reviewed the carrying value of its
+vessels and determined that an impairment existed. Accordingly, the Company
+estimated an impairment of $4,400,000, which represents the aggregate amount by
+which carrying value exceeded fair value of the vessels. This amount is included
+in Provision for vessel impairment in the accompanying consolidated statement of
+operations for 1999.
+
+<TABLE>
+<CAPTION>
+                                                                        Balance at                  Balance at
+                                                                 December 31, 2000           December 31, 1999
+                                                                 -----------------           -----------------
+<S>                                                      <C>                         <C>
+Vesssels, at cost                                        $              96,530,384   $             100,649,700
+Less : accumulated depreciation                                        (11,992,543)                 (7,164,750)
+                                                            -----------------------      ----------------------
+Vessels, net                                             $              84,537,841                  93,484,950
+                                                            =======================      ======================
+
+Other assets, at cost                                    $                 236,799   $                 175,234
+Less : accumulated depreciation                                            (97,344)                    (36,897)
+                                                            -----------------------      ----------------------
+Other assets, net                                        $                 139,455   $                 138,337
+                                                            =======================      ======================
+</TABLE>
+
+
+During the year ended December 31, 2000, a total loss was declared on the
+Millenium Yama which had suffered engine damage. The full insured value was
+recovered from the vessel's Hull & Machinery underwriters and the net event of
+loss proceeds was placed in collateral. In October 2000, the Company acquired
+the motor vessel Adamas (ex Adamas) at a purchase price of $2,200,000,which was
+paid out of restricted cash. Also,in December 2000, the Company acquired the
+motor vessel Millenium Mexico (ex Alam Mexico) at a purchase price of
+$1,800,000, which was paid out of restricted cash.
+
+
+4.  LONG-TERM DEBT
+
+<TABLE>
+<CAPTION>
+                                                                              December 31,        December 31,
+Long term debt is as follows:                                                         2000                1999
+                                                                                      ----                ----
+<S>                                                                           <C>                 <C>
+12% First Priority Ship Mortgage Exchange Notes due 2005 ($100 million
+principal amount at maturity), (the "Notes"). Interest on the Notes is
+payable semi-annually on January 15 and July 15 of each year,
+commencing January 15, 1999, at a rate of 12% per annum on the
+accreted value. The Notes will mature on July 15, 2005 and will be
+redeemable, in whole or part, at the option of the Company at any time
+on or after July 15, 2003.                                                    $100,000,000        $100,000,000
+
+Less : Unamortized portion of bond discount                                     (3,402,652)         (3,930,363)
+
+                                                                        ------------------- -------------------
+Notes                                                                          $96,597,348         $96,069,637
+                                                                        =================== ===================
+</TABLE>
+
+The gross bond discount of $4,607,000 at date of issuance is amortized using the
+effective interest method over the life of the Notes (7 years). Amortization
+recorded in connection with this discount was $527,711, $465,160, and $211,477
+in 2000, 1999 and 1998, respectively and is included in interest expense. The
+deferred financing costs amortized in connection with the debt issue was
+$680,140, $680,140, and $322,943 in 2000, 1999 and 1998, respectively and is
+included in interest expense.
+
+
+
+                                 F-11
+<PAGE>
+
+
+Semiannual interest payments are made on the Notes on January 15 and July 15 of
+each year commencing on January 15, 1999. Cash interest payments are made to
+holders of the Notes based on the Accreted Value of the Notes as defined in the
+Note Indenture. The Company paid cash interest of $11,641,080 and $11,445,018 in
+2000 and 1999, respectively, in accordance with the terms of the Note. No cash
+interest payment was paid on the Notes in 1998.
+
+The Notes are fully and unconditionally guaranteed (the "Subsidiary
+Guarantees"), jointly and severally, on a senior basis by each of the
+subsidiaries of Millenium (the "Subsidiary Guarantors"). The Notes are currently
+collateralized by First Priority Ship Mortgages on the Company's vessels. The
+Company's bonds are registered by the United States Securities & Exchange
+Commission pursuant to the United States Securities Act of 1933.
+
+The indebtedness evidenced by the Notes constitutes a general secured senior
+obligation of the Company and is fully and unconditionally guaranteed by each of
+the subsidiaries of the Company and will rank pari passu in right of payment
+with all future senior indebtedness of the Company and its subsidiary
+guarantors. The Indenture, pursuant to where the Notes were issued (the Notes
+Indenture), contains certain covenants that among other things, limit the type
+and amount of additional indebtedness that may be incurred by the Company and
+imposes certain limitations on investments, loans and advances, sales or
+transfers of assets, dividends and other payments, the ability of the Company to
+enter into sale-leaseback transactions, certain transactions with affiliates and
+certain mergers, consolidations and purchases of assets, and amendments to
+security agreements. The Company is currently in compliance with the terms of
+the Notes Indenture at December 31, 2000.
+
+
+5.  RELATED PARTY TRANSACTIONS
+
+Each of the Company's vessels receives management services from its equity
+shareholder MMI pursuant to a Management Agreement among the Company's vessel
+owning subsidiaries and MMI. Under the Management Agreement, MMI acts as the
+fleet's technical manager and performs all commercial management functions,
+including arranging chartering, advising the Company on the purchase and sale of
+vessels and advising on obtaining insurance. As a technical manager, MMI (i)
+provides qualified officers and crews on board vessels, (ii) manages day-to-day
+vessel operations and maintains relationships with charterers, (iii) purchases
+on behalf of the Company stores, spares, supplies and equipment for vessels,
+(iv) performs general vessel maintenance, subcontracts for dry-dock facilities
+for any major repairs and overhauls, (v) ensures regulatory and classification
+society compliance, (vi) performs vessel operational budgeting and evaluations,
+and (vii) provides accounting, treasury and finance functions (including cash
+collections and disbursements on behalf of the Company). As remuneration for its
+services, MMI receives a fixed management fee (payable monthly in advance)
+ranging from $350 to $600 per day per vessel depending on the vessel type. In
+addition, any visit to a vessel by a superintendent of MMI to evaluate and
+supervise any repairs, dry-docking or other activities will entitle MMI to
+expenses incurred and, from visits in excess of five days per annum per vessel,
+its expenses incurred and an amount equal to $550 for each additional day. As
+additional remuneration for its services, MMI receives commission of (i) 1.25%
+on all gross time charter revenue, (ii) 1.75% on all gross freight revenue,
+(iii) 1% on the gross sale or purchase price of a vessel and (iv) 2% of
+insurance premiums for insurance placed, in each case as adjusted to reflect
+fluctuations in market rates and practices.
+
+MMI has sub-contracted certain of its technical and commercial
+management services to Millenium Maritime Services Ltd. and Millenium
+Maritime Services, Inc., both affiliates of MMI.
+
+The Company records the management fee paid to MMI in operating expenses. During
+2000, 1999, and 1998, the Company incurred management fees of $5,262,612,
+$3,822,801, and $965,666, respectively, in connection with the aforementioned
+agreement. As of December 31, 2000, there were no outstandings due to MMI,
+compared to a payable of $550,957 as of December 31, 1999, which was reflected
+in accrued liabilities.
+
+
+6. LOSS ON SALE OF VESSEL
+
+During the year ended December 31, 2000, a total constructive loss was declared
+on the MILLENIUM YAMA which had suffered engine damage. The full insured value
+was recovered from the vessel's Hull & Machinery underwriters. The disposal of
+this vessel resulted in a loss of $152,358. In 1999, the Company disposed of one
+vessel, the MONICA MARISSA, for scrap incurring a loss on sale of $2,088,655.
+
+
+                                 F-12
+<PAGE>
+
+
+7.  CONTINGENCIES
+
+From time to time the Company has been, and expects to continue to be, subject
+to legal proceedings and claims in the ordinary course of its business,
+principally personal injury and property claims. Such claims, even if lacking
+merit, could result in the expenditure of significant financial and managerial
+resources. As of December 31, 2000, the Company was not aware of any legal
+proceedings or claims that it believed would have, individually or in the
+aggregate, a material adverse effect on the Company or on its financial
+condition or results of operation.
+
+         On March 28, 2000, an action was brought against the Company by Wayland
+Investment Fund, LLC ("WIF") in the United States District Court, Southern
+District of New York. In the First Amended Complaint filed on March 30, 2000,
+WIF claimed that it is a beneficial holder of in excess of 25% of the 12% First
+Priority Ship Mortgage Notes. The factual basis alleged to underlie the
+proceeding concerns the calculation of interest due and owing on the 12% First
+Priority Ship Mortgage Notes. WIF makes three claims in the First Amended
+Complaint: the first is for mutual mistake; the second is for breach of
+contract; and the third is for violations of Section 10(b) of the Exchange Act
+and Rule 10b-5. WIF's first claim for relief is that the 12% First Priority Ship
+Mortgage Notes be reformed to provide for interest on the principal amount at
+maturity of the 12% First Priority Ship Mortgage Notes and that damages be paid
+in the amount of $517,263.16. WIF's second claim for relief is damages in the
+amount of $74,417,263.15. WIF's third claim for relief is that damages be paid
+in the amount of $517,263.16. On April 19, 2000, the Company filed a Motion to
+Dismiss WIF's second claim and answered WIF's first and third claims.
+
+On or about July 13, 2000, WIF filed a Second Amended Complaint repeating the
+claims in its First Amended Complaint and adding a fourth claim for common law
+fraud and a fifth claim for negligent misrepresentation. The Second Amended
+Complaint changes the allegation concerning WIF's beneficial ownership; the
+lawsuit now alleges that WIF is a beneficial holder of in excess of 25% of the
+12% First Priority Ship Mortgage Exchange Notes. WIF's first claim for relief is
+that the 12% First Priority Ship Mortgage Exchange Notes be reformed to provide
+for interest on the principal amount at maturity of the 12% First Priority Ship
+Mortgage Exchange Notes and that damages be paid in the amount of $605,801.34.
+WIF's second claim for relief is damages in the amount of $74,505,801.34. WIF's
+third claim for relief is that damages be paid in the amount of $605,801.34.
+WIF's fourth claim for relief is that damages be paid in the amount of
+$605,801.34. WIF's fifth claim for relief is that damages be paid in the amount
+of $605,801.34. On or about July 27, 2000, the Company made a Motion to Dismiss
+WIF's third, fourth, and fifth claims for relief and answered WIF's first claim.
+By agreement of the parties, the Company's Motion to Dismiss the second claim
+for relief in the First Amended Complaint was treated as a motion to dismiss the
+second claim for relief in the Second Amended Complaint.
+
+On or about August 22, 2000, WIF consented to the withdrawal of its fifth claim
+for relief for negligent misrepresentation and agreed not to seek to replead
+such claim. On or about August 31, 2000, the Company agreed to withdraw without
+prejudice that portion of its Motion to Dismiss the third and fourth claims for
+relief in the Second Amended Complaint. By decision dated September 7, 2000, the
+Court granted the Company's Motion to Dismiss the second claim for relief in the
+Second Amended Complaint for breach of contract.
+
+On November 13, 2000, the Company and WIF entered into a settlement agreement
+and a stipulation dismissing all of the claims in the action in their entirety,
+without prejudice. Costs associated with this settlement agreement are reflected
+in General and Administrative expenses.
+
+
+8.       COMMITMENTS
+
+On December 23, 1999, the Company accepted a commitment for a standby line of
+credit in a principal amount up to $2.5 million available for its working
+capital requirements from the Allfirst Bank. The facility, collateralized by the
+Company's vessels and subject to various covenants, provided that interest would
+accrue at the US Prime rate and was subject to a 1% commitment fee on the unused
+portion. This commitment, which was valid until March 23, 2000, was subject to
+consent from Note Holders due to the fact that the Allfirst Bank would be both
+the Working Capital Facility provider as well as the Indenture Trustee and a
+potential of conflict of interest could arise under certain conditions. The
+Allfirst Bank had extended the commitment until June 1, 2000, when it expired
+absent such consents.
+
+
+                                 F-13
+<PAGE>
+
+
+9.       SUBSEQUENT EVENTS
+
+In January 2001, the Company sold two vessels for an aggregate sales price of
+$9,120,000. The Company acquired a vessel in January 2001 for $3,925,000 and
+another vessel in April 2001 for $4,520,000.
+
+
+
+
+
+                                 F-14
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

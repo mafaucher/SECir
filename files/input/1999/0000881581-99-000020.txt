@@ -1,0 +1,1383 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ D1BiOKIDnDahp1KW+QxT4v8JoqMR3+1USgCVikXcC/85eToKoLw4KT3EIt8GWYjQ
+ V2VmSxoxNEeh1P9Ae3Sqcg==
+
+<SEC-DOCUMENT>0000881581-99-000020.txt : 19990301
+<SEC-HEADER>0000881581-99-000020.hdr.sgml : 19990301
+ACCESSION NUMBER:		0000881581-99-000020
+CONFORMED SUBMISSION TYPE:	20-F
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	19980430
+FILED AS OF DATE:		19990226
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			MERANT PLC
+		CENTRAL INDEX KEY:			0000881581
+		STANDARD INDUSTRIAL CLASSIFICATION:	COMPUTER PERIPHERAL EQUIPMENT, NEC [3577]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			Y5
+		FISCAL YEAR END:			0430
+
+	FILING VALUES:
+		FORM TYPE:		20-F
+		SEC ACT:		
+		SEC FILE NUMBER:	000-19696
+		FILM NUMBER:		99552701
+
+	BUSINESS ADDRESS:	
+		STREET 1:		THE LAWN OLD BATH ROAD
+		STREET 2:		NEWBURY
+		CITY:			NEWBURY ENGLAND
+		STATE:			X0
+
+	MAIL ADDRESS:	
+		STREET 1:		MICRO FOCUS GROUP PUBLIC LIMITED CO
+		STREET 2:		701 EAST MIDDLEFIELD ROAD
+		CITY:			MOUNTAIN VIEW
+		STATE:			CA
+		ZIP:			94303
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	MICRO FOCUS GROUP PUBLIC LIMITED COMPANY
+		DATE OF NAME CHANGE:	19950728
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>20-F
+<SEQUENCE>1
+<DESCRIPTION>TRANSITION REPORT ON FORM 20-F
+<TEXT>
+
+
+<PAGE> 1
+
+                       SECURITIES AND EXCHANGE COMMISSION
+                              WASHINGTON, DC 20549
+
+                                    FORM 20-F
+
+(Mark One)
+   
+
+              REGISTRATION STATEMENT PURSUANT TO SECTION 12(b) OR 12(g) OF THE 
+     ------   SECURITIES EXCHANGE ACT OF 1934
+
+                                       OR
+  
+               ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+     ------    EXCHANGE ACT OF 1934
+
+                            For the fiscal year ended........
+
+                                       OR
+  
+        X     TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d)OF THE SECURITIES
+     ------   EXCHANGE ACT OF 1934
+
+
+        For the transition period from February 1, 1998 to April 30, 1998
+
+                         Commission file number: 0-19696
+
+                                   MERANT plc
+             (Exact name of Registrant as specified in its charter)
+
+                                ENGLAND AND WALES
+                 (Jurisdiction of incorporation or organization)
+
+       The Lawn, 22-30 Old Bath Road, Newbury, Berkshire RG14 1QN, England
+                    (Address of principal executive offices)
+
+Securities  registered or to be registered pursuant to Section 12(b) of the Act:
+None.
+
+Securities  registered or to be registered pursuant to Section 12(g) of the Act:
+Ordinary Shares of 2p each.
+
+Securities for which there is a reporting  obligation  pursuant to Section 15(d)
+of the Act: None.
+
+Indicate the number of  outstanding  shares of each of the  issuer's  classes of
+capital or common stock as of the close of the period  covered by the Transition
+Report: 79,682,213 Ordinary Shares of 2p each.
+
+Indicate by check mark whether the Registrant (1) has filed all reports required
+to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during
+the  preceding 12 months (or for such  shorter  period that the  Registrant  was
+required  to file  such  reports),  and  (2) has  been  subject  to such  filing
+requirements for the past 90 days.
+
+         Yes   X         No 
+             -----           -----
+
+Indicate by check mark which financial statement item the Registrant has elected
+to follow.
+
+         Item 17          Item 18   X
+                 -----            -----
+
+
+<PAGE> 2
+
+                                TABLE OF CONTENTS
+
+
+                                                                              
+<TABLE>
+                                                                                                               Page
+<S>                                                                                                              <C>
+General Introduction..............................................................................................1
+
+PART I
+
+Item 3.   Legal Proceedings.......................................................................................3
+Item 9.   Management's Discussion and Analysis of Financial Condition and Results of Operations...................4
+
+PART III
+
+Item 15.  Defaults Upon Senior Securities........................................................................12
+Item 16.  Changes in Securities and Changes in Security
+               for Registered Securities and Use of Proceeds.....................................................12
+
+PART IV
+
+Item 17.  Financial Statements...................................................................................13
+
+Item 18.  Financial Statements...................................................................................13
+
+Signatures.......................................................................................................19
+
+</TABLE>
+
+*Parts  and/or Items of Form 20-F which are not  applicable  to this  Transition
+Report have been omitted.
+
+
+<PAGE> 3
+
+                                                     
+
+                              GENERAL INTRODUCTION
+
+As used herein,  the terms  "MERANT" and the "Group" refer to MERANT plc and its
+subsidiaries,  and the term "Company"  refers to MERANT plc. MERANT is a foreign
+private issuer with its primary share listing on the London Stock Exchange.
+
+Effective  February 16, 1999, the Company changed its corporate name from "Micro
+Focus Group Public Limited Company" to "MERANT plc."
+
+As a foreign private issuer in the United States, the Company is not required to
+file  quarterly  reports  with  the  Securities  and  Exchange  Commission  (the
+"Commission").  However, beginning in June 1997, the Company began furnishing to
+the Commission on a voluntary basis quarterly  reports on Form 6-K which include
+the results for the  applicable  Company  fiscal  quarter in a format similar to
+that of a Form 10-Q. In addition,  foreign  private issuers in the United States
+are not currently  required to file  electronically  with the Commission but may
+choose to do so. As of March 1997, the Company began voluntarily  submitting its
+filings electronically to the Commission.
+
+Effective  November 30, 1998, the Company  elected to change its fiscal year end
+and accounting reference date to April 30 from January 31.
+Consequently, as a foreign private issuer, the Company is filing this transition
+report  covering  the period  between  January 31, 1998 (the closing date of the
+Company's  most recent  fiscal  year) and May 1, 1998 (the  opening  date of the
+Company's new fiscal year).
+
+The Financial  Statements and other  financial  information  in this  Transition
+Report do not comprise "statutory accounts" within the meaning of Section 240 of
+the Companies Act 1985 of Great Britain.  Statutory accounts for the years ended
+January  31,  1998,  1997 and 1996  have  been  delivered  to the  Registrar  of
+Companies  for England and Wales.  The  auditor's  reports on such accounts were
+unqualified.
+
+Prior to the election to change its fiscal year end, the  Company's  fiscal year
+ended on January 31 of each year. The references in this  Transition  Report and
+the financial statements incorporated herein by reference for fiscal years 1998,
+1997 and  1996  are for the  years  ended  January  31,  1998,  1997  and  1996,
+respectively.
+
+Micro Focus and INTERSOLV are registered trademarks,  and MERANT is a trademark,
+of the Group.  Certain other trademarks  belonging to other companies may appear
+in this Transition Report and are the property of their respective owners.
+
+In this Transition Report,  references to "US dollars" or "$" are to US currency
+and references to "GB pounds," "GBP" or "p" are to UK currency.
+
+This Transition Report contains  translations of certain amounts in GB pounds to
+US dollars.  Such  translations  have been made at the noon buying  rates in New
+York City for cable  transfers in foreign  currencies  as announced  for customs
+purposes by the Federal Reserve Bank of New York (the "Noon Buying Rate") on the
+relevant dates.  These  translations  should not be construed as representations
+that the GB pound amounts actually  represent such US dollar amounts or could be
+converted  into US  dollars at the rates  indicated  or at any other  rate.  The
+exchange  rates  used by the  Company  in the  preparation  of its  consolidated
+financial  statements  are based on month end  rates  published  at the close of
+business  in London.  Such  rates may differ  from the Noon  Buying  Rates.  For
+additional  information on exchange rates between GB pounds and US dollars,  see
+"Management's  Discussion  and Analysis of Results of  Operations  and Financial
+Condition  - Exchange  Rate  Fluctuations"  on pages 22 and 50 in the  Company's
+Annual Report to  Shareholders  for the year ended January 31, 1998 contained in
+the Report of Foreign  Issuer on Form 6-K furnished to the Commission on May 28,
+1998 (the "1998  Annual  Report to  Shareholders"),  which  sections of the 1998
+Annual Report to Shareholders are incorporated herein by reference. On April 30,
+1998, the Noon Buying Rate was $1.67 per GBP 1.
+
+<PAGE> 4
+
+The Company  publishes  Annual Reports  containing  annual audited  consolidated
+financial  statements and opinions  thereon by independent  public  accountants.
+Such  financial  statements  are  prepared  on the basis of  generally  accepted
+accounting  principles in the United States ("US GAAP")  expressed in US dollars
+and on the basis of  accounting  principles  generally  accepted  in the  United
+Kingdom ("UK GAAP")  expressed in GB pounds.  There are  differences  between US
+GAAP and UK GAAP in the treatment of goodwill and other intangibles  acquired in
+connection  with the  purchase of  subsidiaries,  with respect to the methods of
+computing earnings per share, which is calculated using different formulas under
+US GAAP and UK GAAP, and with respect to certain  disclosures and  presentation.
+The Company has published  quarterly updates and semi-Annual  Reports containing
+unaudited  financial  information  prepared  on the same  basis  as its  audited
+consolidated  financial  statements.  The  Company  is not  required  to  report
+quarterly  financial  information.  Such Annual Reports,  quarterly  updates and
+semi-Annual  Reports are furnished to The Bank of New York as "Depositary" under
+an Amended  and  Restated  Deposit  Agreement  dated as of March 16, 1998 by and
+among the Company,  The Bank of New York and all owners and holders from time to
+time of American  Depositary  Receipts  ("ADRs")  issued by the Bank of New York
+(the "Deposit  Agreement").  Upon receipt thereof, the Depositary generally will
+mail all such reports to record holders of ADRs evidencing  American  Depositary
+Shares  ("ADSs").  The Company also  furnishes to the  Depositary all notices of
+shareholders'  meetings  and  other  reports  and  communications  that are made
+generally  available to shareholders of the Company.  The Depositary  makes such
+notices,  reports and communications  available for inspection by record holders
+of ADRs  and  mails to all  record  holders  of ADRs  notices  of  shareholders'
+meetings received by the Depositary.
+
+The Company is subject to various U.S. securities laws and regulations  relating
+to  the  disclosure  of  information.  In  particular,  the  Private  Securities
+Litigation Reform Act of 1995, which became effective in the United States as of
+January 1, 1996 (the "Securities Litigation Reform Act"), applies to the Company
+and its  disclosure of  information  and provides that the Company can be exempt
+from  liability  for making  forward-looking  statements  if certain  cautionary
+language is included along with such statements. This Transition Report contains
+certain "forward-looking  statements" (as such term is defined in Section 27A of
+the Securities Act of 1933, as amended (the "Securities  Act") and under Section
+21E of the U.S.  Securities  Exchange  Act of 1934,  as amended  (the  "Exchange
+Act")) that are based on the  beliefs of the  Company's  management,  as well as
+assumptions  made  by and  information  currently  available  to  the  Company's
+management.  Such  forward-looking  statements  are  subject to the safe  harbor
+created by the Securities  Litigation Reform Act. When used in this document and
+in  documents   incorporated  herein  by  reference,   the  words  "anticipate,"
+"believe,"  "estimate,"  "expect,"  "intend"  and similar  expressions,  as they
+relate to the Group,  the Company or its  management,  are  intended to identify
+such  forward-looking  statements.  In addition,  statements  concerning  future
+matters  (such as  future  gross  margins  and  operating  expense  levels,  the
+development of new products,  matters  related to the  integration of INTERSOLV,
+Inc. and other recently acquired  businesses,  proprietary rights,  competition,
+litigation and the Company's Year 2000  readiness),  related costs and risks and
+other statements that are not historical are  forward-looking  statements.  Such
+statements  reflect the  current  views of the  Company or its  management  with
+respect to future  events and are subject to certain  risks,  uncertainties  and
+assumptions.  Should one or more of these risks or uncertainties materialize, or
+should  underlying  assumptions  prove incorrect,  the Company's actual results,
+performance or  achievements  in fiscal 1999 and beyond could differ  materially
+from those  expressed  in, or implied by, any such  forward-looking  statements.
+Factors that could cause or contribute to such material differences include, but
+are not limited to,  those  discussed  below in Part I, Item 9 hereof  under the
+heading "Factors That May Influence Future Operating Results",  as well as those
+discussed   elsewhere  in  this  Transition   Report.   The  inclusion  of  such
+forward-looking  information  should not be regarded as a representation  by the
+Company  or any other  person  that the  future  events,  plans or  expectations
+contemplated  by the  Company  will  be  achieved.  The  Company  undertakes  no
+obligation   to  release   publicly   any  updates  or  revisions  to  any  such
+forward-looking  statements that may reflect events or  circumstances  occurring
+after the date of this Transition Report.
+
+                                       2
+
+<PAGE> 5
+                                     PART I
+
+ITEM 3.  LEGAL PROCEEDINGS
+
+On December 3, 1998, a complaint was filed in the United States  District  Court
+for the Southern  District of New York entitled  Seymour Lazar,  et al. v. Micro
+Focus Group plc, et al., 98 CIV.  8591.  The plaintiff  seeks to have the matter
+certified as a class action of purchasers of the American  Depository  Shares of
+Micro Focus Group plc during the period from June 17, 1998 to November 12, 1998,
+including the former  shareholders  of INTERSOLV who acquired ADSs in connection
+with the  merger  involving  the two  companies.  In  addition  to  naming  as a
+defendant Micro Focus Group plc, the complaint names as defendants Martin Waters
+and Richard Van Hoesen.  The  complaint  alleges that the Company and certain of
+its  officers  and  directors  violated  Sections  11,  12(a)(2)  and  15 of the
+Securities Act of 1933 (as amended),  Sections 10(b) and 20(a) of the Securities
+Exchange Act of 1934 (as amended) and  Securities and Exchange  Commission  Rule
+10b-5 by failing to disclose  allegedly adverse material  nonpublic  information
+concerning  the Company's  business  condition and  prospects.  In January 1999,
+three other  substantially  similar complaints to the Lazar complaint were filed
+in the Southern  District of New York entitled Paul  Bleustein,  et al. v. Micro
+Focus Group plc, et al., No. 99 CIV. 0373;  Michael I. Goldman,  et al. v. Micro
+Focus Group plc, et al., No. 99 CIV.  0539;  and Dawn A. Wylie,  et al. v. Micro
+Focus  Group plc,  et al.,  No. 99 CIV.  0689.  In  addition  to naming the same
+defendants as the Lazar Complaint,  the Bleustein and Wylie complaints also name
+Tower Merger Sub Inc., Paul Adams, J. Michael Gullard,  Harold Hughes and Sidney
+Webb as defendants.
+
+On December 4, 1998, a complaint was filed in the United States  District  Court
+for the Southern District of New York entitled Sol Poller,  TTEE UAD 1/23/91, et
+al. v. Micro Focus Group plc, et al., 98 CIV. 8619. The plaintiff  seeks to have
+the matter certified as a class action of persons who acquired securities of the
+Company in the merger involving INTERSOLV and the Company. In addition to naming
+as  defendants  Micro Focus Group plc and Tower Merger Sub Inc.,  the  complaint
+names as defendants  Martin Waters,  Richard Van Hoesen,  Paul Adams, J. Michael
+Gullard,  Harold  Hughes and J. Sidney  Webb.  The  complaint  alleges  that the
+Company and certain of its officers and directors violated Sections 11, 12(a)(2)
+and 15 of the Securities  Act of 1933 (as amended),  Sections 14(a) and 20(a) of
+the  Securities  Exchange Act of 1934 (as amended) and  Securities  and Exchange
+Commission  Rule  14a-9  by  failing  to  disclose  allegedly  adverse  material
+nonpublic information concerning the Company's business condition and prospects.
+In January 1999, two  substantially  similar  complaints to the Poller complaint
+were filed in the United States District Court for the Southern  District of New
+York entitled Mark Levy, et al. v. Micro Focus Group plc, et al., 99 CIV.  0001,
+and Samuel G. Bonuglie v. Micro Focus Group plc, et al., No. 99 CIV. 0310.
+
+The  Company  anticipates  that  the  seven  actions  described  above  will  be
+consolidated  into a single action  shortly.  The Company is seeking to move the
+actions to the Northern  District of California,  and the United States District
+Court for the Southern  District of New York has not yet decided this issue. The
+Company intends to defend all of its litigation vigorously.  However, due to the
+inherent uncertainties of litigation,  the Company cannot accurately predict the
+ultimate outcome of the litigation.  Any unfavorable outcome of litigation could
+have an  adverse  impact on the  Company's  business,  financial  condition  and
+results of operations.
+
+                                       3
+
+<PAGE> 6
+
+
+ITEM 9.  MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+         OF OPERATIONS
+
+The  following  discussion  should  be read in  conjunction  with the  Company's
+condensed  consolidated  financial statements and notes thereto included in Part
+IV of this  Transition  Report,  and with  the  Company's  audited  consolidated
+financial  statements in U.S.  format for the fiscal year ended January 31, 1998
+included in the  Company's  Annual Report on Form 20-F filed with the SEC on May
+29, 1998.
+
+For discussion purposes,  the quarter ended April 30, 1998 is referred to as the
+"transition  quarter."  The  quarter  ended April 30, 1997 is referred to as the
+"prior year quarter,"  "corresponding  quarter of the prior year" or "comparable
+prior year period".
+
+RESULTS OF OPERATIONS
+
+Net revenue for the  transition  quarter  ending April 30, 1998 increased 50% to
+$48.7  million,  compared  with $32.5  million in the prior year quarter  ending
+April 30, 1997. Net income for the transition  quarter grew 125% to $5.3 million
+compared  with $2.4 million for the prior year quarter and diluted  earnings per
+ordinary  share  were  $0.06 per share  compared  with  $0.03 for the prior year
+quarter.  Diluted  earnings per ADS were $0.32 compared with $0.15 for the prior
+year quarter.  The following summarizes the significant factors reflected in the
+Company's results of operations.
+
+Revenue
+
+Net revenue for the transition  quarter was 50% above the corresponding  quarter
+of the prior  fiscal year and was 6% below the  revenue  reported in the quarter
+ended  January  31,  1998.  The quarter  ended  January 31 is  historically  the
+Company's  strongest  sales quarter and typically is followed  sequentially by a
+quarter with lower revenues.
+
+The  year-over-year   increase  in  transition  quarter  net  revenue  over  the
+comparable prior year period reflected a balanced  contribution from all product
+segments and  territories,  and  substantial  year-over-year  growth in both the
+Company's  application  transformation  product  and  consulting  business.  The
+Company's  application  transformation  business includes licensing of Year 2000
+and Euro currency conversion  products.  For the quarter ended January 31, 1998,
+net revenue  from North  American  customers  grew by 40% and net  revenue  from
+international  customers  grew 62% from the  corresponding  quarter of the prior
+year.
+
+Product  licensing  revenue  for  the  transition  quarter  was  65%  above  the
+comparable  prior year  period,  primarily  reflecting  increased  revenue  from
+application  transformation products. Service revenue for the transition quarter
+increased 211% from the prior year period primarily as a result of growth in the
+Company's  consulting  and training  business and revenue  contributed  from the
+consulting business of Millennium UK Limited ("Millennium"),  which was acquired
+in April 1997. Maintenance revenue grew 3% from the prior year period. This rate
+of increase  was lower than the increase in product  licensing  revenue due to a
+decrease in maintenance renewal rates and a shift in the Company's overall sales
+mix to consulting and application  transformation products licensed on a line of
+code basis, neither of which includes maintenance.
+
+There  can be no  assurance  that the  market  for the  Company's  products  and
+services will grow in future periods at their historical  rates of growth,  that
+certain products or services will not decline,  or that the Company will be able
+to increase or maintain its market share in the future or achieve its historical
+revenue growth rates.
+
+                                       4
+
+<PAGE> 7
+
+
+Gross Profit
+
+For the transition quarter, gross profit as a percentage of net revenue was 80%.
+This margin was two  percentage  points  higher than the 78% gross profit margin
+reported for both the quarter ended April 30, 1997 and for the preceding quarter
+ended January 31, 1998.  The increase in gross profit margin  compared with such
+prior quarters primarily reflected the accelerated growth of high margin product
+sales.
+
+The  Company's  gross  profit  margin can be  affected  by a number of  factors,
+including changes in product or distribution channel mix, the mix of product and
+service  revenue,  and  competitive  pressures on pricing.  Gross margin also is
+dependent on discounts  selectively  provided to customers in competitive  sales
+situations.  In  addition,  gross  margin  may  also be  adversely  affected  by
+expansion of the Company's consulting organization and the ability to deploy its
+capacity to revenue generating projects. As a result of the above factors, gross
+margin percentages may be difficult to predict,  and gross margins may fluctuate
+from current levels in future periods.
+
+Operating Expenses
+
+Research and development (R&D) expenses for the transition quarter were 2% lower
+than the prior  year  quarter  and 9% lower  than the  preceding  quarter  ended
+January 31, 1998, and  represented  17% of net revenue as compared to 26% of net
+revenue  for the prior  year  period  and 18% for the  preceding  quarter  ended
+January 31, 1998. The decrease in  year-over-year  R&D expenses  reflected lower
+software  product  amortization  expense and negligible  growth in  compensation
+expense and overhead.
+
+The decrease in R&D expenses for the  transition  quarter  versus the  preceding
+quarter ended January 31, 1998 was due to lower variable compensation  accruals.
+The Company  believes that ongoing  development  of new products and features is
+required to maintain and enhance its competitive  position.  Accordingly,  while
+the Company intends to continue to control expenses where possible,  the Company
+anticipates  that aggregate R&D expenses will increase over time, and may not be
+directly related to the level of revenue realized in future quarters.
+
+Sales and marketing expenses for the transition quarter were 60% above the prior
+year quarter and 4% above the preceding  quarter  ended  January 31, 1998.  Such
+expenses represented 40%, 37% and 35% of net revenue for the transition quarter,
+the prior year quarter and the preceding quarter, respectively. The increases in
+sales and marketing expenses reflected sales force expansion, higher commission,
+and higher advertising and marketing  expenses,  including those associated with
+the Company's user conference. The Company believes that continued investment in
+sales,  marketing,  customer support and promotional activities are essential to
+maintaining its competitive position. In addition,  the Company is expanding its
+sales and support staffs.  Accordingly,  the Company  anticipates that sales and
+marketing expenses will be higher in future periods.
+
+General and  administrative  (G&A) expenses for the transition  quarter were 96%
+above the prior year quarter and 31% below the  preceding  quarter ended January
+31,  1998.  G&A  expenses  represented  9%,  7% and  12% of net  revenue  in the
+transition  quarter,  the quarter  ended  April 30,  1997 and the quarter  ended
+January 31, 1998, respectively.  The increase in G&A expenses for the transition
+quarter  over the  comparable  prior year  period  reflected  professional  fees
+associated with recent  acquisitions,  staff  additions,  costs  associated with
+executive recruitment and goodwill  amortization  associated with the Millennium
+acquisition.  G&A  expenses  for the  fourth  quarter  of fiscal  1998  included
+proportionately   higher  incentive   compensation  costs  associated  with  the
+Company's  financial  performance.  The Company is investing to  strengthen  its
+infrastructure  and anticipates that G&A expenses will increase in the aggregate
+in future quarters.
+                                       5
+
+<PAGE> 8
+
+Net  interest  income for the  transition  quarter was 11% above the  comparable
+prior  year  period,  and 6% below the  preceding  quarter.  The  year-over-year
+increase  in  interest  income  reflected  higher  average  cash and  short-term
+investment  balances.  The decrease  for the quarter  from the previous  quarter
+resulted  from lower  average  investment  yields  from funds  invested in money
+market instruments.
+
+The Company's tax rate was 34% for the transition quarter as compared to the 33%
+rate recorded for the year ended January 31, 1998. The marginal  increase in the
+current year's tax rate reflected a decrease in the utility of operating  losses
+incurred in prior years. The Company's tax rate is dependent upon the regulatory
+environment  of the  countries in which it  operates,  as well as the balance of
+income  reported in each  statutory  territory.  While the Company  monitors the
+impact of business  fluctuations  on its tax  structure,  influences  beyond the
+Company's control may cause a change in the tax rate.
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+The Company  generated  $12.8 million in cash from  operating  activities in the
+transition  quarter,  primarily from income before depreciation and amortization
+and an $8.8 million  decrease in accounts  receivable since the end of the prior
+fiscal year ended January 31, 1998. These factors were offset in part during the
+transition  quarter by a $4.7 million decrease in accrued employee  compensation
+and a $1.0 million increase in prepaid expenses and other assets.
+
+The  Company  had  $92.8  million  in  cash,  cash  equivalents  and  short-term
+investments  at April 30, 1998.  This  balance was $8.3  million  higher than at
+January 31, 1998,  reflecting cash provided by operating activities and proceeds
+from the issuance of shares upon the exercise of employee stock options,  offset
+in part by cash used for capital and software product expenditures.
+
+The Company has a GBP 5.0 million  ($8.3  million at April 30,  1998)  unsecured
+revolving  multi-currency  LIBOR loan  facility  as a means of hedging  currency
+exposures against the French Franc. This line of credit expires in January 2001.
+The interest  rate on  outstanding  borrowings  under this  facility is equal to
+0.75% above the LIBOR rate for the  currency in which the  borrowings  are made.
+Borrowings  denominated in French Francs under the credit line at April 30, 1998
+were the equivalent of $1.7 million,  and were incurring interest at the rate of
+4.4% per annum.
+
+During the  transition  quarter,  the Company spent $4.1 million for capital and
+leasehold  improvements  largely on upgrades and  expansions of its  information
+systems.
+
+YEAR 2000 CONSIDERATIONS
+
+The Year 2000 problem is the result of the  widespread  practice since the early
+days of  computing of using only two digits to refer to a year (such as "98" for
+"1998") instead of four digits in computer  systems.  When the Year 2000 arrives
+or the computer  system  refers to dates after  December 31, 1999,  such systems
+will  interpret  the two digits "00" as "1900" as opposed to "2000".  Failure to
+address  this  problem  could cause  results  ranging  from  system  failures to
+erroneous  calculations  in  date-dependent  operations  for dates falling after
+December 31, 1999.  The Company has instituted  various  projects to become Year
+2000 ready.  "Year 2000 ready" as used in this report means that the performance
+or  functionality  of the Company's  internal  systems will not be significantly
+affected by the dates prior to, during and after the Year 2000.
+
+State of Readiness
+
+The Company has developed and implemented an enterprise-wide plan to analyze and
+address  potential  Year  2000  issues  affecting  its  internal  systems,   its
+interaction  with third  party  vendors  and  suppliers,  and its  products  and
+services.
+
+                                       6
+<PAGE>  9
+
+The  Company  has   established   a  Year  2000  Project  Team  to  implement  a
+comprehensive  four-phase  Year 2000  readiness  plan  addressing  the Year 2000
+readiness of the Company's  internal  systems.  The Year 2000  readiness plan is
+comprised  of four  phases  (inventory,  analysis,  remediation  and  validation
+phases) with a target  completion date of June 30, 1999. The Year 2000 readiness
+plan covers IT systems (desktop,  laptop, servers,  routers, hubs, switches, and
+remote  access  systems,  operating  systems,  software  and  critical  business
+systems), non-IT embedded systems (telephone, voice messaging, teleconferencing,
+data services and equipment,  fax,  copiers and similar  equipment),  facilities
+(elevators,  security systems, card access systems and similar systems), and the
+Company's  vendors and suppliers.  As part of its efforts,  the Company has also
+sought  confirmation  from its  material  suppliers  on the  current  Year  2000
+readiness of their  systems  and/or their  intended  time schedule for achieving
+Year  readiness.  The  Company's  Year 2000  readiness  plan is  progressing  as
+scheduled,  with the inventory phase having been substantially completed and the
+analysis phase now underway and expected to be substantially  completed by March
+15, 1999.
+
+With respect to its software  products,  each of the Company's  product business
+units has completed a Year 2000 assessment of its currently offered products. In
+preparing  for the Year 2000 date change,  the Company has adopted the Year 2000
+compliance  standard  published by the British  Standards  Institute (BSI) - BSI
+DISC PD2000-1 "A Definition of Year 2000 Conformity  Requirements."  As a result
+of this assessment, the Company believes that the vast majority of its currently
+offered  products  are Year 2000  compliant,  and expects  virtually  all of its
+remaining  currently  offered  products to become compliant during calendar 1999
+through  new  releases.  In any event,  the  Company  expects  that all the then
+current  versions of its offered products will be Year 2000 compliant before the
+end of calendar 1999. Because Year 2000 compliance is generally  integrated into
+its normal product development activities, the Company has not incurred and does
+not expect to incur any  significant  incremental  expenses in  addressing  this
+issue  in its  product  lines.  The  Company  believes  that a small  number  of
+customers who receive  product  support from the Company are  operating  product
+versions  that may not be Year 2000  compliant or products  that the Company has
+replaced or intends to replace with comparable Year 2000 compliant products. The
+Company believes that the vast majority of such customers are migrating and will
+continue to migrate to compliant  versions and  products  through new  releases,
+which the Company is strongly encouraging. In addition, certain former customers
+may be  operating  non-compliant  versions  of  products in respect of which the
+Company's  agreed-upon  product support and warranty  periods have expired.  The
+Company has not  undertaken,  and does not plan to undertake  in the future,  an
+assessment of whether these former  customers  are taking  appropriate  steps to
+address any related Year 2000 issues.
+
+The  Company  does not expect  customers  who  purchase  or migrate to Year 2000
+compliant  versions of its products to experience any Year 2000 failures  caused
+by such products. In addition,  the Company believes that its licenses and other
+agreements  contain  customary  and  appropriate  limitations  on the  Company's
+obligations  with  respect to any Year 2000  failures  that may be caused by its
+current  or  former  products.  However,  there  can be no  assurance  that  the
+Company's  expectations  and  beliefs  as to  these  matters  will  prove  to be
+accurate.  Moreover,  the Company's products are used in IT systems comprised of
+third-party hardware and software, some of which may not be Year 2000 compliant.
+Many of the Company's customers use legacy computer systems that are expected to
+be particularly susceptible to Year 2000 compliance issues. Various commentators
+have  predicted  that a significant  amount of litigation  may arise out of Year
+2000 compliance issues.  While the Company has not been subject to any Year 2000
+product claims or lawsuits to date,  there can be no assurance that customers or
+former  customers will not bring claims or lawsuits  against the Company seeking
+compensation for losses associated with Year 2000-related  failures.  A material
+adverse  outcome in a Year 2000 claim or lawsuit  could have a material  adverse
+effect on the Company's business, financial condition and results of operations.
+
+A small  number of the  products  the  Company  sells are  licensed  from  third
+parties.  Although the current  versions of these  products have  generally been
+warranted  to the  Company as being Year 2000  compliant,  these  products  have
+generally  not been  subjected to the same  extensive  Company  testing as those
+products developed or acquired by the Company.  The Company is therefore working
+with these third party suppliers to obtain assurance of Year 2000 compliance.
+
+                                       7
+<PAGE> 10
+
+The Company has  designated  its website as the  Company's  "Year 2000  Internet
+Website" under the terms of the Year 2000  Information and Readiness  Disclosure
+Act (the "Act") (S.2392).  The information provided on past and present pages on
+this website  regarding the Year 2000  compliance  of Company  products has been
+designated as "Year 2000 Readiness  Disclosures." The pages on this website have
+been and will continue to be the Company's  primary means for  communicating  to
+customers regarding the Year 2000 compliance of its products.
+
+Demand for Year 2000 Remediation Products and Services
+
+The Company  anticipates that demand in the Year 2000 product and service market
+will decline,  perhaps  rapidly,  in anticipation of or following the Year 2000,
+and the demand for the Company's Year 2000 compliance  products and services may
+also decline significantly as a result of new technologies, competition or other
+factors. In the quarter ended October 31, 1998, the Company's Year 2000 business
+was  affected  by  customers  moving  to the later  stages of their  remediation
+processes, for which the Company did not have the appropriate products generally
+available until November 1998. If these factors were to continue,  the Company's
+license revenue and professional  service fees could be materially and adversely
+affected.
+
+Costs and Risks Associated with Year 2000 Issues; Contingency Plans
+
+The Company currently does not anticipate that it will incur material  operating
+expenses or be required to invest heavily in internal systems  improvements as a
+result of Year 2000 readiness issues. In addition,  the Company has not incurred
+and does not currently expect to incur any significant  incremental  expenses in
+addressing  this issue in its  product  and  services.  Upon  completion  of the
+analysis phase of the Company's  Year 2000 readiness  plan, the Company plans to
+undertake an assessment of any material expenses it will be required to incur in
+order to complete its Year 2000 readiness plan.
+
+Although the Company believes that its Year 2000 readiness  efforts are designed
+to appropriately identify and address those Year 2000 issues that are within the
+Company's control,  there can be no assurance that the Company's efforts will be
+fully effective or that Year 2000 issues will not have a material adverse effect
+on the Company's  business,  financial  condition or results of operations.  The
+novelty and complexity of the issues  presented and the Company's  dependence on
+the  preparedness  of third  parties are among the factors  that could cause the
+Company's  efforts to be less than fully effective.  Moreover,  Year 2000 issues
+present many risks that are simply  beyond the  Company's  control,  such as the
+potential  effects of Year 2000  issues on the  economy  in  general  and on the
+Company's business partners and customers in particular.  The Company intends to
+continue to evaluate both existing and newly  identified  Year 2000 risks and to
+develop and implement such further responsive measures as it deems appropriate.
+
+The Company  currently does not have a contingency  plan, but plans to develop a
+contingency  plan upon the  completion  of the  analysis  phase of its Year 2000
+readiness plan. Should the evaluation of both existing and newly identified Year
+2000  risks  indicate  that  there is a  sooner  need  for a  contingency  plan,
+responsive measures will be developed as appropriate.  Any such contingency plan
+will seek to minimize the impact on the Company's business,  financial condition
+and results of operations.
+
+FACTORS THAT MAY INFLUENCE FUTURE OPERATING RESULTS
+
+The Company operates in a rapidly changing environment that involves a number of
+risks,  some of which are  beyond the  Company's  control.  This  section of the
+discussion  highlights  some of these  risks  and the  possible  impact of these
+factors on future results of operations.
+
+                                       8
+<PAGE> 11
+
+The  factors  set  forth  below as well as  statements  made  elsewhere  in this
+quarterly  report contain certain  forward looking  statements that are based on
+the beliefs of the Company's  management,  as well as  assumptions  made by, and
+information  currently  available  to, the Company's  management.  The Company's
+actual results,  performance or achievements in the remainder of fiscal 1999 and
+beyond could differ  materially from those expressed in, or implied by, any such
+forward-looking statements.
+
+Factors that could cause or contribute to such material differences include, but
+are not limited to,  those  discussed in this  section  below,  as well as those
+discussed  elsewhere  in this  Transition  Report.  The  Company  undertakes  no
+obligation   to  release   publicly   any  updates  or  revisions  to  any  such
+forward-looking  statements that may reflect events or  circumstances  occurring
+after  the  date of this  Transition  Report.  For  more  information  regarding
+forward-looking statements, see "General Introduction" above.
+
+Integration of INTERSOLV; Synergies. In September 1998, the Company acquired all
+the share  capital of  INTERSOLV,  Inc.  ("INTERSOLV")  (see Note 5 of "Notes to
+Condensed Consolidated Financial Statements  (Unaudited)).  The Company acquired
+INTERSOLV with the  expectation  that the  acquisition  will result in long-term
+strategic benefits. Realization of these anticipated benefits depends in part on
+whether the operations and  administration of the companies are integrated in an
+efficient and effective manner.  There can be no assurance that this will occur.
+The combined  company's  integration  efforts  have yet to be completed  and are
+still ongoing. The successful  integration of MERANT and INTERSOLV will require,
+among other things, integration of the product offerings of the companies, sales
+and  marketing  and  research  and  development  efforts,  the  cooperation  and
+coordination of the business managers of the two companies,  and the integration
+of globally dispersed operations.  It is possible that this integration will not
+be  accomplished   smoothly  or  successfully,   and  that  efforts  to  achieve
+integration  may  require  more time,  expense  and  management  attention  than
+anticipated.  The diversion of management's attention from day-to-day operations
+and  any  difficulties  encountered  in the  integration  process  could  have a
+material  adverse  effect on the  Company's  business,  financial  condition and
+results of  operations.  If the  integration  of the Company's  and  INTERSOLV's
+operations  is not  successful,  if the  combined  companies  do not achieve the
+operational efficiencies and other business synergies that are anticipated or if
+those  synergies  are not  achieved as quickly as may be  expected by  financial
+analysts or at the level expected by financial analysts, or if the effect of the
+merger on earnings  per share is not in line with the  expectation  of financial
+analysts,  the market  price of the MERANT  Ordinary  Shares or the MERANT  ADSs
+could be significantly and adversely affected.
+
+Fluctuations in Operating Results; Absence of Significant Backlog. The Company's
+future operating results are subject to quarterly and annual fluctuations due to
+a variety of factors,  including demand for the Company's products, the size and
+timing of customer orders and the lengthy sales cycle,  product life cycles, the
+ability of the Company to introduce and market new and enhanced  versions of the
+Company's  products on a timely basis,  the  introduction  and acceptance of new
+products and product  enhancements by the Company or its  competitors,  customer
+order deferrals in anticipation of new or enhanced products or technologies, the
+timing  of  product   introductions  or  enhancements  by  the  Company  or  its
+competitors,  technological changes in the software industry, changes in the mix
+of  distribution  channels  through  which the  Company's  products are offered,
+purchasing patterns of distributors and retailers,  including customer budgeting
+cycles, the quality of products sold, price and other competitive  conditions in
+the industry,  changes in the Company's level of operating expenses,  changes in
+the Company's sales  incentive  plans,  the  cancellation of licenses during the
+warranty period,  non-renewal of maintenance agreements, the effects of extended
+payment terms  (particularly for international  customers),  economic conditions
+generally or in various  geographic  areas, and other factors  discussed in this
+section.
+
+A relatively high percentage of the Company's  operating  expenses is fixed over
+the short term and if anticipated revenue for a fiscal quarter does not occur or
+is delayed,  the  operating  results for that quarter would be  immediately  and
+adversely  affected.  The Company  historically has operated with little product
+backlog, because its products are generally shipped as orders are received. As a
+result,  revenue of the  Company in any  quarter  will  depend on the volume and
+timing  of,  and the  ability  to fill,  orders  received  in that  quarter.  In
+
+                                       9
+<PAGE>  12
+
+addition,  a substantial  portion of the Company's  revenue for most quarters is
+booked and shipped in the last month of the quarter  such that the  magnitude of
+the quarterly  fluctuations  may not become evident until late in or even at the
+end of the particular quarter.
+
+Seasonality  of Operating  Results.  The  Company's  revenue also is affected by
+seasonal fluctuations resulting from lower sales that typically occur during the
+summer months in Europe and other parts of the world.  In addition,  the Company
+has  historically  experienced  lower  revenue for the first quarter of a fiscal
+year than in the fourth quarter of the prior fiscal year. The Company  typically
+has recognized a high proportion of its quarterly  revenue during the last month
+of a fiscal quarter and significant  fluctuations in new order revenue can occur
+due to the timing of customer orders.  Quarterly  results  therefore can vary to
+the extent that sales for a quarter are delayed, particularly since a relatively
+high proportion of the Company's  expenses do not vary with revenue.  Due to all
+of the  foregoing  factors,  it is  possible  that in some future  quarters  the
+Company's  operating  results  will be below the  expectations  of stock  market
+analysts  and  investors  and that the  Company's  share price  would  likely be
+materially adversely affected.
+
+Product  Concentration.  Substantially all of the Company's total net revenue is
+derived from products and related services for mainframe application development
+in the COBOL language and COBOL compilers  running on workstations  and personal
+computers.  The  Company  expects  that a  substantial  portion of its total net
+revenue  will be derived from such  products  and  services in the future.  As a
+result,  the Company's  future  operating  results depend upon continued  market
+acceptance  and use of the COBOL  language.  Any  decline  in the  demand for or
+market  acceptance  or use of the COBOL  language or  mainframes  as a result of
+competition, technological change or other factors could have a material adverse
+effect on the Company's business, financial condition and results of operations.
+
+Year 2000 Business and Compliance Issues.  Information  concerning the Company's
+state of Year 2000 readiness,  the demand for its Year 2000 remediation products
+and services, the costs associated with its Year 2000 issues and its contingency
+plans are incorporated herein by reference to the information  included above in
+this  Transition  Report  under  the  caption  entitled  "Item 9 -  Management's
+Discussion and Analysis of Financial Condition and Results of Operations -- Year
+2000 Considerations".
+
+Rapid  Technological  Change;  Dependence on New  Products.  The Company is in a
+market  that  is  subject  to  rapid  technological  change.  The  Company  must
+continually  adapt to that change by improving its products and  introducing new
+products, technologies and services. The growth and financial performance of the
+Company  will  depend in part on its  ability,  on a timely  and  cost-effective
+basis,  to develop  and  introduce  enhancements  of existing  products  and new
+products  that  accommodate  the latest  technological  advances and  standards,
+customer  requirements and market  conditions.  The Company's ability to develop
+and market enhancements of existing products and new products depends in part on
+its ability to attract and retain qualified employees.  In the past, the Company
+has  experienced  delays  and  increased  expenses  in  developing  certain  new
+products.  Any failure by the Company to  anticipate  or respond  adequately  to
+changes in technology and market conditions, to complete product development and
+introduce  new  products  on a  timely  basis  and  with an  adequate  level  of
+performance  and  functionality,  or to attract and retain  qualified  employees
+could materially  adversely affect the Company's  business,  financial condition
+and results of operations.
+
+Competition.  The markets in which the Company  competes  are  characterized  by
+rapid  technological  change and  aggressive  competition.  The Company  expects
+competition to increase in the future from existing  competitors  and from other
+companies  that may enter the Company's  existing or future markets with similar
+or substitute solutions that may be less costly or provide better performance or
+functionality  than the Company's  products.  Some of the Company's  current and
+prospective  competitors  in  its  product  and  service  markets  have  greater
+financial,  marketing or technical resources than the Company and may be able to
+adapt more quickly to new or emerging technologies,  or devote greater resources
+to the promotion and sale of their  products than can the Company.  There can be
+
+                                       10
+<PAGE> 13
+
+no assurance that other companies will not develop  competitive  products in the
+future.  In addition,  the software  industry is characterized  generally by low
+barriers   to  entry,   as  a  result  of  which  new   competitors   possessing
+technological,  marketing or other competitive advantages may emerge and rapidly
+acquire  market share.  Furthermore,  there can be no assurance that the Company
+will be able to compete  effectively in the future in the professional  services
+market and, particularly, in the Year 2000 professional services market.
+
+Susceptibility to General Economic Conditions. The Company's revenue and results
+of operations are subject to fluctuations in the general economic  conditions in
+the various areas of the world in which it does business.  The risks inherent in
+conducting  international  business  generally include exposure to exchange rate
+fluctuations  (see the section  entitled  "Exchange Rate  Fluctuations"  below),
+longer payment cycles,  greater  difficulties in accounts receivable  collection
+and enforcing agreements,  tariffs and other restrictions on foreign trade, U.S.
+export requirements,  economic and political instability,  withholding and other
+tax consequences,  restrictions on repatriation of earnings,  and the burdens of
+complying with a wide variety of foreign laws. In addition,  the laws of certain
+foreign  countries  in which the  Company's  products  may be  marketed  may not
+protect the Company's intellectual property rights to the same extent, as do the
+laws of the United States and Europe. There can be no assurance that the factors
+described  above  will  not  have an  adverse  effect  on the  Company's  future
+international revenue.
+
+Dependence on Key Personnel.  Several of the senior management  personnel of the
+Company  are  relatively  new to the  Company,  including  the  Company's  Chief
+Executive  Officer and Chief Financial  Officer,  and the Company's success will
+depend  in  part  on  the  successful  assimilation  and  performance  of  these
+individuals.  Competition  for qualified  personnel in the software  industry is
+intense,  and there can be no assurance that the Company will be able to attract
+and retain a sufficient number of qualified personnel to conduct its business in
+the future.  The  Company's  success  depends to a  significant  degree upon the
+continued contributions of its key management,  marketing,  product development,
+professional  services and  operational  personnel,  including  key personnel of
+acquired companies. The Company will not have employment agreements with most of
+its key  personnel,  nor does it maintain  key person life  insurance  on any of
+these persons.
+
+Management  of  Growth.   Both  of  the  Company  and  INTERSOLV  have  recently
+experienced  a period of rapid growth in net  revenue.  This growth has placed a
+significant strain on the financial, management, operational and other resources
+of the combined companies,  and if it continues is expected to continue to place
+a significant  strain on the Company's  financial,  management,  operational and
+other  resources.  There  can be no  assurance  that  the  Company's  management
+personnel,  systems,  procedures  and  controls  will be adequate to support the
+Company's existing and future operations.
+
+Volatility  of Stock Price.  The market price of the  Company's  securities  has
+experienced significant price volatility, particularly since the announcement of
+the  Company's  proposed  acquisition  of  INTERSOLV  in  June  1998,  and  such
+volatility  may occur in the  future.  Factors  such as  actual  or  anticipated
+fluctuations in the Company's operating results,  changes in financial estimates
+by securities analysts, announcements of technological innovations, new products
+or new contracts by the Company or its competitors, developments with respect to
+patents, copyrights or proprietary rights, conditions and trends in the software
+and other technology industries,  adoption of new accounting standards affecting
+the software  industry,  general market  conditions and other factors may have a
+significant impact on the market price of the Company's securities. Furthermore,
+the stock  market  has  experienced  extreme  volatility  that has  particularly
+affected  the  market  prices  of  equity  securities  of many  high  technology
+companies. These market fluctuations, as well as general economic, political and
+market  conditions  may  adversely  affect  the  market  price of the  Company's
+securities.
+
+Recent and Future Acquisitions.  The challenges of integrating the organizations
+and  operations  of the Company and  INTERSOLV  have been  compounded by ongoing
+efforts  associated  with  the  integration  of  recent   acquisitions  by  both
+companies, including the acquisitions by the Company of Millennium UK Limited in
+
+                                       11
+<PAGE>  14
+
+April 1997, XDB Systems,  Inc. in January 1998, Micro Focus Italia S.r.L. in May
+1998  and  Advanced  Software  Engineering  Pty.  Ltd.  in  August  1998 and the
+acquisition  by INTERSOLV of SQL  Software,  Ltd. in March 1998.  The Company is
+still  in  the  process  of  integrating   the  operations   acquired  in  these
+transactions  with its  own.  There  can be no  assurance  that the  anticipated
+benefits  of recently  concluded  business  combinations  will be  realized.  In
+addition,  these acquisitions have required  significant  additional  management
+resources and attention.  The Company  expects to continue  growing its business
+through acquisitions. If the Company is unsuccessful in integrating and managing
+the  recently  acquired  businesses  or other  businesses  it may acquire in the
+future, the Company's  business,  financial  condition and results of operations
+could be adversely affected in future periods.
+
+Enforceability  of U.S.  Judgments.  The  Company  is a public  limited  company
+organized  under  the laws of  England  and  Wales.  Judgments  of U.S.  courts,
+including  judgments  against the  Company,  predicated  on the civil  liability
+provisions  of the  federal  securities  laws of the United  States,  may not be
+enforceable in English courts.
+
+Exchange Rate Fluctuations
+
+Revenue,  costs and expenses  arising in currencies  other than U.S. dollars are
+translated  using average exchange rates for the applicable  period.  Assets and
+liabilities  denominated  in currencies  other than the  reporting  currency are
+translated at exchange  rates in effect at the balance sheet date.  The majority
+of the  Company's  net  revenue  arises  in U.S.  dollars,  while  its costs are
+incurred   approximately   equally  in  U.S.   dollars  and  other   currencies,
+predominately   GB  pounds.   Consequently,   fluctuations  in  exchange  rates,
+particularly  between the U.S.  dollar and the GB pound,  may have a significant
+impact on the Company's operating results,  notably when expressed in GB pounds.
+During the transition quarter,  fluctuations  between the U.S. dollar and the GB
+pound were not significant, and net exchange rate gains or losses on operational
+transactions were immaterial.
+
+                                    PART III
+
+ITEM 15. DEFAULTS UPON SENIOR SECURITIES
+
+         None.
+
+ITEM 16. CHANGES IN SECURITIES AND CHANGES IN SECURITY FOR REGISTERED SECURITIES
+         AND USE OF PROCEEDS
+
+Effective as of the close of business on March 13, 1998, the Company undertook a
+subdivision  (or stock split) of its  Ordinary  Shares on a 5-for-1  basis.  The
+Company's  ADSs have been  adjusted  such that each ADS  represents  5  Ordinary
+Shares.  All share and per share references  included in this Transition  Report
+have been adjusted to reflect the impact of the  above-mentioned  stock split of
+the Ordinary Shares.
+
+                                       12
+<PAGE> 15
+
+
+                                     PART IV
+
+ITEM 17. FINANCIAL STATEMENTS
+
+         See Item 18.
+
+ITEM 18. FINANCIAL STATEMENTS
+
+                   Condensed Consolidated Statements of Income
+                (in thousands, except per share and per ADS data)
+                                   (unaudited)
+
+<TABLE>
+                                                                             Three months      Three months
+                                                                                 ended             ended
+                                                                            April 30, 1998    April 30, 1997
+- ------------------------------------------------------------------------------------------------------------
+<S>                                                                                <C>                <C>    
+Net revenue
+     Product revenue                                                              $29,542           $17,892
+     Maintenance revenue                                                           13,015            12,683
+     Service revenue                                                                6,093             1,958
+- ------------------------------------------------------------------------------------------------------------
+Total net revenue                                                                  48,650            32,533
+- ------------------------------------------------------------------------------------------------------------
+Cost of revenue
+     Cost of product revenue                                                        2,116             2,177
+     Cost of maintenance revenue                                                    3,438             2,823
+     Cost of service revenue                                                        4,243             2,310
+- ------------------------------------------------------------------------------------------------------------
+Total cost of revenue                                                               9,797             7,310
+- ------------------------------------------------------------------------------------------------------------
+Gross profit                                                                       38,853            25,223
+- ------------------------------------------------------------------------------------------------------------
+Operating expenses
+     Research and development                                                       8,378             8,527
+     Sales and marketing                                                           19,217            11,987
+     General and administrative                                                     4,267             2,178
+- ------------------------------------------------------------------------------------------------------------
+Total operating expenses                                                           31,862            22,692
+- ------------------------------------------------------------------------------------------------------------
+Income from operations                                                              6,991             2,531
+Interest income, net                                                                1,096               983
+- ------------------------------------------------------------------------------------------------------------
+Income before income taxes                                                          8,087             3,514
+Income taxes                                                                      (2,750)           (1,139)
+Net income                                                                         $5,337            $2,375
+- ------------------------------------------------------------------------------------------------------------
+Net income per share: basic                                                         $0.07             $0.03
+Net income per ADS: basic                                                           $0.34             $0.15
+- ------------------------------------------------------------------------------------------------------------
+Weighted average number of shares outstanding: basic                               79,483            77,767
+Shares converted to ADS equivalent                                                 15,897            15,553
+- ------------------------------------------------------------------------------------------------------------
+Net income per share: diluted                                                       $0.06             $0.03
+Net income per ADS: diluted                                                         $0.32             $0.15
+- ------------------------------------------------------------------------------------------------------------
+Weighted average number of shares outstanding: diluted                             84,191            80,755
+Shares converted to ADS equivalent                                                 16,838            16,151
+- ------------------------------------------------------------------------------------------------------------
+
+Note:  Shares and  per-share  data for all periods  presented  above reflect the 5-for-1 stock split of the Company's 
+ordinary shares,  which was effective  as  of the  close of business  on March 13,  1998.  The  Company's  American 
+Depositary Shares ("ADSs") did not split.  Instead the conversion  rights of such ADSs were adjusted  such that each 
+ADS now  represents  five  ordinary  shares.  Per share earnings also are shown on an ADS equivalent basis.
+
+The accompanying notes are an integral part of these condensed consolidated financial statements
+
+</TABLE>
+                                       13
+<PAGE> 16
+
+
+                      Condensed Consolidated Balance Sheets
+                                 (in thousands)
+
+<TABLE>
+                                                                                   April 30, 1998    January 31, 1998
+                                                                                     (Unaudited) 
+- ----------------------------------------------------------------------------------------------------------------------
+<S>                                                                                         <C>             <C>    
+Assets
+Current assets:
+     Cash and cash equivalents                                                            $52,377          $48,174
+     Short-term investments                                                                40,448           36,316
+     Accounts receivable, net                                                              39,074           47,798
+     Inventories                                                                              421              519
+     Prepaid expenses and other assets                                                      3,787            2,833
+- -------------------------------------------------------------------------------------------------------------------
+Total current assets                                                                      136,107          135,640
+- -------------------------------------------------------------------------------------------------------------------
+Fixed assets:
+     Property, plant and equipment, net                                                    40,224           39,083
+     Goodwill, net                                                                          4,883            5,346
+     Software product assets, net                                                          19,824           20,328
+- -------------------------------------------------------------------------------------------------------------------
+Total assets                                                                             $201,038         $200,397
+- -------------------------------------------------------------------------------------------------------------------
+Liabilities and shareholders' equity
+Current liabilities:
+     Bank loans                                                                            $1,663           $1,652
+     Accounts payable                                                                       6,346            6,957
+     Accrued employee compensation                                                          7,568           12,383
+     Income taxes payable                                                                  12,926           10,459
+     Deferred revenue                                                                      29,208           32,848
+     Other current liabilities                                                             11,643           12,085
+- -------------------------------------------------------------------------------------------------------------------
+Total current liabilities                                                                  69,354           76,384
+- -------------------------------------------------------------------------------------------------------------------
+Long-term debt and other liabilities                                                           18               20
+Deferred income taxes                                                                       9,463            9,159
+- -------------------------------------------------------------------------------------------------------------------
+Total liabilities                                                                          78,835           85,563
+- -------------------------------------------------------------------------------------------------------------------
+Shareholders' equity:
+     Ordinary shares: 2 pence (GB) par value,
+     112,500,000 shares authorized, 79,682,000
+     outstanding (79,417,000 at January 31, 1998)                                           2,547            2,546
+     Additional paid-in capital                                                            34,731           33,362
+     Unrealized (loss) gain on available-for-sale securities, net of tax                     (28)               44
+     Treasury stock                                                                       (7,769)          (7,769)
+     Retained earnings                                                                     94,356           89,019
+     Currency translation adjustment                                                      (1,634)          (2,368)
+- -------------------------------------------------------------------------------------------------------------------
+Total shareholders' equity                                                                122,203          114,834
+- -------------------------------------------------------------------------------------------------------------------
+Total liabilities and shareholders' equity                                               $201,038         $200,397
+- -------------------------------------------------------------------------------------------------------------------
+
+The accompanying notes are an integral part of these condensed consolidated financial statements
+
+</TABLE>
+
+                                       14
+<PAGE> 17
+
+
+                 Condensed Consolidated Statements of Cash Flow
+                                 (in thousands)
+                                   (unaudited)
+
+<TABLE>
+
+                                                                               Three months      Three months
+                                                                                   ended             ended
+                                                                               April 30, 1998    April 30, 1997
+- ----------------------------------------------------------------------------------------------------------------
+<S>                                                                                <C>                <C>    
+Operating activities
+     Net income                                                                    $5,337            $2,375
+     Adjustments to reconcile net income to cash provided by operations
+        Depreciation of fixed assets                                                2,896             1,968
+        Amortization of software product assets                                     2,782             3,121
+        Amortization of goodwill                                                      464                 0
+        Loss on sale of fixed assets                                                  (4)               (3)
+     Changes in operating assets and liabilities:
+        (Increase) decrease in accounts receivable                                  8,818           (1,710)
+        Decrease in inventories                                                        92               104
+        (Increase) in prepaid expenses and other assets                           (1,037)             (822)
+        Increase (decrease) in accounts payable                                     (559)               144
+        Increase in product royalties payable                                           6               453
+        Increase (decrease) in accrued employee compensation                      (4,678)               315
+        Increase in accrued payroll taxes                                             461               204
+        Increase in income taxes payable                                            2,471             1,099
+        Increase (decrease) in deferred revenue                                   (3,782)             2,246
+        (Decrease) in other current liabilities                                     (452)           (2,671)
+- ------------------------------------------------------------------------------------------------------------
+Net cash provided by operating activities                                          12,815             6,823
+- ------------------------------------------------------------------------------------------------------------
+Investing activities
+     Purchases of property, plant & equipment, net of capital lease obligations   (4,085)           (1,223)
+     incurred
+     Software product asset purchases                                             (1,999)           (2,168)
+     Acquisition of subsidiary, net of cash balances acquired                           0           (3,208)
+     Available-for-sale securities                                                (4,132)          (36,629)
+     Disposals of property, plant and equipment                                        13               566
+- ------------------------------------------------------------------------------------------------------------
+Net cash (used) by investing activities                                          (10,203)          (42,662)
+- ------------------------------------------------------------------------------------------------------------
+Financing activities
+     Issuance of ordinary shares, net of expenses                                   1,408             (281)
+     Borrowings                                                                      (17)               263
+     Repayment of capital leases                                                      (1)              (10)
+- ------------------------------------------------------------------------------------------------------------
+Net cash provided by financing activities                                           1,390                 8
+- ------------------------------------------------------------------------------------------------------------
+Effect of exchange rate changes on cash                                               201              (44)
+- ------------------------------------------------------------------------------------------------------------
+Increase (decrease) in cash                                                         4,203          (35,875)
+Cash at beginning of period                                                        48,174            73,119
+- ------------------------------------------------------------------------------------------------------------
+Cash at end of period                                                             $52,377           $37,244
+- ------------------------------------------------------------------------------------------------------------
+
+The  accompanying notes are an integral  part  of  these  condensed consolidated financial statements
+
+</TABLE>
+                                       15
+<PAGE> 18
+
+        Notes to Condensed Consolidated Financial Statements (Unaudited)
+
+1.  Basis of Presentation
+
+MERANT  plc  (the  "Company")  is  incorporated  in  England  and  Wales.  Where
+applicable,   the  term   "Company"   also  includes  the  direct  and  indirect
+subsidiaries  of MERANT plc. The  condensed  consolidated  financial  statements
+shown herein are stated in U.S.  dollars and are prepared  under U.S.  generally
+accepted accounting principles for interim financial information.
+
+The financial information at April 30, 1998 and for the quarters ended April 30,
+1998 and 1997 is unaudited but includes all  adjustments  the Company  considers
+necessary for a fair presentation of its financial position at such date and the
+operating results and cash flows for such periods. The year-end balance sheet at
+January 31, 1998 was derived from  audited  financial  statements,  but does not
+include  all  disclosures   required  by  U.S.  generally  accepted   accounting
+principles.  Results  for the  transition  period  ended  April 30, 1998 are not
+necessarily  indicative  of results  that may be  expected  for the fiscal  year
+ending  April 30,  1999 or any  future  interim  or  full-year  period.  Certain
+information and footnote  disclosures  normally included in financial statements
+prepared in accordance with U.S. generally accepted  accounting  principles have
+been condensed or omitted pursuant to SEC regulations.  Management believes that
+the  disclosures  are  adequate  to make the  information  presented  herein not
+misleading.  These condensed consolidated financial statements should be read in
+conjunction with the audited consolidated financial statements and notes thereto
+for the year ended January 31, 1998  included in the Company's  Annual Report on
+Form 20-F which was filed with the Commission on May 29, 1998.
+
+The financial information contained in this quarterly report does not constitute
+statutory  accounts as defined in section 240 of the UK Companies Act 1985.  The
+figures  for the fiscal  year ended  January  31,  1998 are based on the audited
+financial  statements  which have been filed with the UK Registrar of Companies,
+and the auditors'  reports on both the U.S. and UK financial  statements for the
+year ended January 31, 1998 were unqualified.
+
+2.  Cash and Cash Equivalents - Short-Term Investments
+
+Cash  and cash  equivalents  include  cash  placed  on  short-term  deposit  and
+short-term money market instruments with original  maturities of less than three
+months.
+
+The Company  invests its excess cash in  accordance  with an  investment  policy
+approved by the Board of Directors and  implemented  as of February  1997.  This
+policy authorizes  investment in U.S.  government  securities,  municipal bonds,
+certificates  of deposit  with highly  rated  financial  institutions  and other
+specified money market instruments of similar liquidity and credit quality.
+
+In accordance  with  Financial  Accounting  Standards  Board  Statement No. 115,
+"Accounting for Certain Investments in Debt and Equity  Securities,"  management
+of the Company  determines the appropriate  classification of debt securities at
+the time of purchase and  re-evaluates  such  designation  at each balance sheet
+date.  Debt  securities  that the Company has the intent and the ability to hold
+until maturity are classified as held-to-maturity, and all other debt securities
+are classified as available-for-sale.
+
+The Company  has  determined  that all of its  investment  securities  are to be
+classified as  available-for-sale.  Such  securities are stated at amounts which
+approximate fair value, based on quoted market prices, with the unrealized gains
+and  losses  reported  as  a  separate   component  of   shareholders'   equity.
+Available-for-sale securities with original maturities of less than three months
+are classified as cash equivalents.
+
+                                       16
+<PAGE> 19
+
+3.  Earnings Per Share
+
+The  Company's  ordinary  shares have been listed on the London  Stock  Exchange
+since 1983,  and are  currently  listed  under the symbol MRN.  Since 1992,  the
+Company's  ordinary  shares also have been listed on the Nasdaq  Stock Market in
+the U.S. in the form of American  Depositary  Shares  ("ADSs"),  as evidenced by
+American  Depositary  Receipts.  The  Company's  current  NASDAQ symbol is MRNT.
+Effective as of the close of business on March 13, 1998, the Company undertook a
+subdivision  (or stock split) of its  ordinary  shares on a 5-for-1  basis.  The
+conversion  ratio of the  Company's  ADSs has been  adjusted  such that each ADS
+represents 5 ordinary  shares.  All share and per-share  references  included in
+this  report have been  restated  to reflect  the impact of the  above-mentioned
+stock split.
+
+4.  Acquisitions
+
+On April 30, 1997,  the Company  acquired all the share capital of Millennium UK
+Limited  ("Millennium")  for total  consideration of approximately $6.5 million,
+which  consisted  of a payment  of $3.25  million  in cash and the  issuance  of
+745,710  ordinary  shares of the  Company  with a value of  approximately  $3.25
+million on the date the acquisition was completed. The transaction was accounted
+for  as a  purchase.  Millennium  provided  consulting  and  project  management
+services and had expertise in the  estimating,  planning and  management of Year
+2000  compliance  projects  for  large  systems.  Effective  January  31,  1998,
+Millennium's  consulting services were integrated with the professional  service
+operations of the Company.
+
+On January 20, 1998, the Company  acquired all the share capital of XDB Systems,
+Inc. ("XDB") for total  consideration of approximately $18.6 million on the date
+of the acquisition, which consisted of the issuance of 2,084,825 ordinary shares
+of the Company  (including up to 192,850 ordinary shares to be issued to holders
+of XDB options upon exercise of such options). The transaction was accounted for
+as a pooling of interests.  XDB, a privately held corporation based in Columbia,
+Maryland,   is  a  provider  of  DB2  database   development,   maintenance  and
+connectivity solutions.
+
+5.  Subsequent Events
+
+On May 15,  1998,  the  Company  acquired  all the share  capital of its Italian
+distributor,  Micro Focus Italia,  s.r.l.,  for total cash consideration of $4.3
+million.  On August 13, 1998, the Company  acquired all the share capital of its
+Australian  distributor,  Advanced Software Engineering Pty Ltd., for total cash
+consideration  of $2.4 million.  These  transactions are intended to beaccounted
+for as purchases.
+
+On September 24, 1998, the Company completed the acquisition of INTERSOLV,  Inc.
+("INTERSOLV").  The  acquisition is intended to be accounted for as a pooling of
+interests under U.S. GAAP.  Under the terms of the agreement,  each common share
+of INTERSOLV was exchanged for 0.55 MERANT ADSs. In addition,  each  outstanding
+option or right to purchase or acquire shares of INTERSOLV  stock was assumed by
+the Company and became an option or right to  purchase or acquire  MERANT  ADSs,
+with  appropriate  adjustments  to the price and  number of shares  based on the
+exchange ratio of 0.55 ADSs per INTERSOLV  share. The merger was structured as a
+tax-free  reorganization  under U.S. tax law. The Company  issued  approximately
+12.6 million new MERANT ADSs (representing approximately 63.1 million new MERANT
+ordinary shares) in exchange for INTERSOLV's  common stock and share equivalents
+outstanding,  which  at the time of the  completion  of the  merger  represented
+approximately 46% of MERANT's share capital on a fully-diluted  basis.  Prior to
+the merger, INTERSOLV was a public company listed on the Nasdaq National Market.
+INTERSOLV  was based in  Rockville,  Maryland  and was a  provider  of  software
+solutions that facilitate the  development,  delivery and deployment of business
+information systems. INTERSOLV's products and services were focused primarily in
+the areas of  automated  software  quality,  data  connectivity  and  enterprise
+application renewal.
+
+                                       17
+<PAGE> 20
+
+The following selected historical financial  information of MERANT and Intersolv
+has  been  derived  from  their  respective  historical  consolidated  financial
+statements,  and should be read in conjunction with such consolidated  financial
+statements and the notes thereto. For pro forma purposes, MERANT's statements of
+operations  for the three fiscal years ended January 31, 1998 have been combined
+with the  statements of operations of Intersolv for the three fiscal years ended
+April 30, 1998 and give effect to the merger as a pooling of interests. MERANT's
+balance sheet at April 30, 1998 has been combined with Intersolv's balance sheet
+at April 30, 1998.
+
+The unaudited pro forma information presented below is for illustrative purposes
+only and is not necessarily indicative of the operating results or the financial
+position that would have occurred if the merger had been  consummated  as of the
+beginning of the periods  presented nor is it  necessarily  indicative of future
+operating results or financial position.
+
+                   Summary Historical and Unaudited Pro Forma
+                    Combined Condensed Financial Information'
+                                 (in thousands)
+<TABLE>
+                                         As of or for the Year Ended
+                                            January 31 / April 30,
+                                ------------------------------------------------
+                                    1996              1997              1998
+                                ------------      ------------     -------------
+
+  Income Statement Data
+  ---------------------   
+     <S>                             <C>               <C>                <C>    
+  Net revenue                      $280,097          $283,640          $363,789
+  Gross profit                      205,299           208,473           265,285
+  Net Income (loss)                (14,867)          (35,856)            20,148
+
+  Balance Sheet Data
+  -------------------
+  Working Capital                   $69,968           $62,421           $94,230
+  Total assets                      272,523           257,887           333,263
+  Long-term debt                      2,519             1,314               612
+  Shareholder's equity              157,109           123,493           172,073
+
+</TABLE>
+
+Effective  November  30,  1998,  the  Company  changed  its fiscal year end from
+January 31 to April 30.
+
+Effective  February 16, 1999, the Company changed its corporate name from "Micro
+Focus Group Public Limited Company" to "MERANT plc".
+
+                                       18
+<PAGE> 21
+
+
+
+                                   SIGNATURES
+
+Pursuant to the  requirements  of Section 12 of the  Securities  Exchange Act of
+1934, the Registrant  certifies that it meets all of the requirements for filing
+on Form  20-F and has duly  caused  this  Transition  Report to be signed on its
+behalf by the undersigned, thereunto duly authorized.
+
+
+Date: February 26, 1999                              MERANT plc
+
+                                          By: /s/  Kenneth A. Sexton
+                                              --------------------------------
+                                              Kenneth A. Sexton
+                                              Senior Vice President, Finance and
+                                              Administration, Chief Financial 
+                                              Officer and Secretary
+
+
+
+                                       19
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

@@ -27,13 +27,14 @@ class Doc:
 
 # Files to parse 
 FILING_LIST = "filingslist.csv"                 # Spreadsheet with header data
-UNPARSED    = "unparsed.txt"                    # List of files to parse
+INCLUDE     = "include.txt"                     # List of files to include for parsing
+EXCLUDE     = "exclude.txt"                     # List of files to exclude for parsing
+UNPARSED    = "unparsed.txt"                    # Log of unparseable files
 
-DIR_MEDIA = os.path.join(os.path.abspath(os.path.curdir), 'Media')
-
-DIR_FORM = os.path.join(DIR_MEDIA, 'doc')  # Directory for original forms
-DIR_TEMP = os.path.join(DIR_MEDIA, 'temp') # Temporary directory for partial parsing
-DIR_FORM = os.path.join(DIR_MEDIA, 'text') # Directory for parsed text
+DIR_MEDIA   = os.path.join(os.path.abspath(os.path.curdir), 'files')
+DIR_INPUT   = os.path.join(DIR_MEDIA, 'input')  # Directory for original forms
+DIR_TEMP    = os.path.join(DIR_MEDIA, 'temp')   # Temporary directory for partial parsing
+DIR_OUTPUT  = os.path.join(DIR_MEDIA, 'output') # Directory for parsed text
 
 # PATTERNS
 
@@ -171,7 +172,7 @@ def findOnce(pattern, string):
 # @return Doc object.
 def parseHeader(docName):
 	# Extract Header content
-	with open(os.path.join(DIR_FORM, docName+'.txt'), 'r') as rfile:
+	with open(os.path.join(DIR_INPUT, docName+'.txt'), 'r') as rfile:
 		xml = rfile.read()
 	header = findOnce(HEAD_PATTERN, xml)
 	# Parse Doc attributes
@@ -214,7 +215,7 @@ def parseItem(itemPattern, pass2Pattern, form, docName=""):
 # @return content for this form or None
 def parseText(docName):
 	# Extract Header content
-	with open(os.path.join(DIR_FORM, docName+'.txt'), 'r') as rfile:
+	with open(os.path.join(DIR_INPUT, docName+'.txt'), 'r') as rfile:
 		xml = rfile.read()
 	# Get the TEXT content
 	content = findOnce(TEXT_PATTERN, xml)
@@ -253,6 +254,7 @@ def paragFilter(content):
 	return content.rstrip()[-1] in string.punctuation
 
 def parseParagraphs(docNames):
+	makeDir(DIR_OUTPUT)
 	listlen = len(docNames)
 	done = 0
 	lastint = 0
@@ -262,7 +264,7 @@ def parseParagraphs(docNames):
 		print form.srcname, "->", form.docname
 		content = parseText(docName)
 		tempFile = os.path.join(DIR_TEMP, form.docname)
-		textFile = os.path.join(DIR_TEXT, form.docname)
+		textFile = os.path.join(DIR_OUTPUT, form.docname)
 		if content is not None:
 			# Add form to formlist
 			with open(FILING_LIST, 'ab') as formlist:
@@ -281,36 +283,45 @@ def parseParagraphs(docNames):
 			print "COMPLETED:", str(done), '%'
 
 ##
-# Get the list of documents in UNPARSED
-#
-# @return docNames List of document names in the form:
-#       "1997/0000950151-97-000162"
-def getUnparsed():
-	docNames = []
-	for line in open(UNPARSED, 'r'):
-		docNames.append(os.path.splitext(line.strip())[0])
-	return sorted(docNames)
-
-##
-# Get the list of document names in DIR_FORM
+# Get the list of document names in INCLUDE
 # 
 # @return docNames List of document names in the form:
 #       "1997/0000950151-97-000162"
-def getFormList():
+def getDocList(listFile):
 	docNames = []
-	for r, dirs, f in os.walk(DIR_FORM):
+	for line in open(listFile, 'r'):
+		docNames.append(os.path.splitext(line.strip())[0])
+	return docNames
+
+##
+# Get the list of all documents in DIR_INPUT
+# 
+# @return docNames List of document names in the form:
+#       "1997/0000950151-97-000162"
+def getAllList():
+	docNames = []
+	for r, dirs, f in os.walk(DIR_INPUT):
 		for dir in dirs:
-			for root, d, files in os.walk(os.path.join(DIR_FORM, dir)):
+			for root, d, files in os.walk(os.path.join(DIR_INPUT, dir)):
 				for name in files:
 					docNames.append(os.join(dir, os.path.splitext(name)[0]))
+	return docNames
+
+##
+# Get the list of documents in INCLUDE - EXCLUDE
+#
+# @return docNames List of document names in the form:
+#       "1997/0000950151-97-000162"
+def getFormList():
+	docNames = getDocList(INCLUDE) if os.path.exists(INCLUDE) else getAllList()
+	exclude = getDocList(EXCLUDE) if os.path.exists(EXCLUDE) else []
+	docNames = list(set(docNames) - set(exclude))
 	return sorted(docNames)
 
 # MAIN METHOD
 
 def main(argv=None):
-	docNames = getUnparsed() if os.path.exists(UNPARSED) else getFormList()
-	for doc in docNames:
-		print doc
+	docNames = getFormList()
 	parseParagraphs(docNames)
 
 if __name__ == '__main__':

@@ -1,0 +1,322 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ QE5YeHvPl2LjgqjHvWSjmL5ybghHQLQCmxY37m3l44pQwRzTGxWjGIMNUL7tNeto
+ wQQNy+LTtUiIa2knTpLQCg==
+
+<SEC-DOCUMENT>0000791115-01-500007.txt : 20010402
+<SEC-HEADER>0000791115-01-500007.hdr.sgml : 20010402
+ACCESSION NUMBER:		0000791115-01-500007
+CONFORMED SUBMISSION TYPE:	20-F
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20001231
+FILED AS OF DATE:		20010330
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SEARCHHOUND COM INC
+		CENTRAL INDEX KEY:			0000791115
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-MISCELLANEOUS RETAIL [5900]
+		IRS NUMBER:				911942841
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		20-F
+		SEC ACT:		
+		SEC FILE NUMBER:	000-19471
+		FILM NUMBER:		1587115
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1700 WYANDOTTE STREET
+		CITY:			KANSAS CITY
+		STATE:			MO
+		ZIP:			64108
+		BUSINESS PHONE:		8169603777
+
+	MAIL ADDRESS:	
+		STREET 1:		1700 WYANDOTTE STREET
+		CITY:			KANSAS CITY
+		STATE:			MO
+		ZIP:			64108
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	PAN INTERNATIONAL GAMING INC
+		DATE OF NAME CHANGE:	19990903
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	PAN ENVIRONMENTAL CORP
+		DATE OF NAME CHANGE:	19940805
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	PAN ENVIRONMENTAL SERVICES INC
+		DATE OF NAME CHANGE:	19930914
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>20-F
+<SEQUENCE>1
+<FILENAME>latefiling.txt
+<DESCRIPTION>NOTIFICATION OF LATE FILING
+<TEXT>
+
+
+
+
+
+
+SEARCHHOUND COM INC
+
+
+
+Filing Type:
+NT 10-K
+Description:
+Notification of Late Filing
+Filing Date:
+March 29, 2001
+Period End:
+Dec 31, 2000
+
+
+Primary Exchange:
+Over the Counter Bulletin Board
+Ticker:
+SRHN
+
+
+
+
+
+Table of Contents
+
+
+
+
+
+
+NT10-K
+
+PART I	1
+PART II	1
+PART III 2
+PART IV 2
+
+
+
+EXHIBITS
+
+EX-A    4
+
+
+
+
+
+
+         1
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+                                WASHINGTON, D.C.
+
+                                   FORM 12b-25
+
+NOTIFICATION OF LATE FILING
+
+[ ] Form 10-K and Form 10-KSB [X] Form 20-F [ ] Form 11-K
+		[ ] Form 10-Q and Form 10-QSB [ ] Form N-SAR
+
+       		For Period Ended: December 31, 2000
+
+                         Commission File Number: 0-19512
+
+SEARCHHOUND.COM, INC.
+             (Exact name of registrant as specified in its charter)
+
+Nevada                                                   91-1942841
+- ------                                                   ----------
+(State or other jurisdiction of                          (IRS Employer
+incorporation or organization)                           Identification No.)
+
+
+
+PART I - REGISTRANT INFORMATION
+
+                            1700 Wyandotte Street
+                            Kansas City, MO 64108
+                    (Address of principal executive offices)
+                                   (Zip Code)
+
+
+
+Registrant's telephone number, including area code:(816) 960-3777
+
+PART II - RULES 12b-25 (b) AND (c)
+
+If the subject report could not be filed without unreasonable effort or
+expense and the registrant seeks relief pursuant to Rule 12b-25(b), the
+following should be completed. (Check box if appropriate)
+
+(a) The reasons described in reasonable detail in Part III of this
+form could not be eliminated without unreasonable effort or
+expense;
+[X]
+(b) The subject annual report, semi-annual report, transition
+report on form 10-K, Form 20-F, 11-K or Form N-SAR, or portion
+thereof will be filed in or before the fifteenth calendar day
+following the prescribed due date; or the subject quarterly report
+or transition report on Form 10-Q; or portion thereof will be filed
+on or before the fifth calendar day following the prescribed due
+date; and
+
+(c) The accountant's statement or other exhibit required by rule
+12b-25(c) has been attached if applicable.
+
+
+
+
+2
+
+	PART III - NARRATIVE
+
+State below in reasonable detail the reason why Form 10-K and Form 10-KSB,
+20-F, 11-K, 10-Q and Form 10-QSB, N-SAR, or the transition report or
+portion thereof could not be filed within the prescribed period.
+
+The Registrant had an expectation that the current accountant of record
+would be completing the company's annual audit. Not until February 2001
+did the company learn that Mr. William Butcher CPA would not be able to
+complete the audit of the Registrant's December 31, 2000 financial
+statements. The Registrant has filed a Form 8-K with respect to this
+change in certifying accountants to complete the audit.  The Registrant
+began immediately the process of contacting and interviewing prospective
+accountants who could be engaged as certifying accountants to complete the
+audit. Several of the prospective accountants, while interested in working
+with the Registrant felt that there was not adequate time due to other
+audit commitments and tax work already under way within their firms.  The
+Registrant secured an engagement with Clevenger and Haywood, CPA on March
+16, 2001 with respect to conducting an audit on the Registrant's December
+31, 2000 financial statements. While Clevenger and Haywood have committed
+considerable resources and the audit is progressing it is unreasonable to
+expect them to conclude the audit and issue their opinion required to file
+the Registrant's Form 10-KSB by the initial deadline of April 2, 2001.
+
+The accountants and members of management are working diligently to
+complete all aspects of the audit in a thorough and timely manner.
+
+We are optimistic that we will be able to complete the process by the end
+of the extension period but also recognize that this is a tremendous
+effort to undertake in a very limited amount of time.
+
+PART IV - OTHER INFORMATION
+
+(1)	Name and telephone number of the person to contact in regard
+to this notification
+
+	Dave Mullikin		816-960-3777		March 29, 2001
+	------------------------------------------------------------
+	   (Name)		(Telephone)		   (Date)
+(2)	Have all other periodic reports required under section 13 or
+15 (d) of the Securities Exchange Act of 1934 or section 30
+of the Investment Company Act of 1940 during the proceeding
+12 months or for such shorter period that the registrant was
+required to file such report (s) been filed? If the answer
+is no, identify report (s).
+[X] Yes   [ ] No
+(3)	Is it anticipated that any significant change in results of
+operations from the corresponding period for the last fiscal
+year will be reflected by the earnings statements to be
+included in the subject report or portion thereof?
+[ ] Yes   [X] No
+
+
+EXHIBITS  (a) Letter from Clevenger & Haywood CPA's
+
+
+
+
+
+3
+
+
+SIGNATURES
+
+
+Pursuant to the requirements of the Securities Exchange Act of 1934,
+this Form 12b-25 Report for the year ended December 31, 2000, has
+been signed below by the following persons on behalf of the Registrant
+and in the capacity and on the date indicated.
+
+
+March 29, 2000
+
+
+SEARCHHOUND.COM, INC.
+
+
+
+
+
+
+Date	March 29, 2001			 By /s/ Dave Mullikin
+      ----------------------                --------------------------
+					    President and CEO
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4
+
+
+
+EXHIBIT A
+
+
+
+SearchHound.com, Inc.
+1700 Wyandotte Street
+Kansas City, Mo.  64108
+
+Dear Sirs:
+
+I have read the Registrant's Form 12b-25 - Notification of Late Filing and
+agree with the comments contained therein as they relate to
+Clevenger & Haywood CPA. The late engagement of our firm as certifying
+accountants, will not allow us to complete the audit and issue our opinion
+on the December 31, 2000 financial statements prior to the initial
+Form 10-KSB filing deadline of April 2, 2001 without unreasonable effort and
+expense. We will make every effort to complete our audit and issue our opinion
+on the financial statements to allow the Registrant to file its Form 10KSB
+within the extension period.
+
+
+
+
+Date   March 29, 2001			By  /S/Clevenger & Haywood CPA, P.C.
+      --------------------             	    --------------------------------
+    					     Clevenger & Haywood CPA, P.C.
+
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----
