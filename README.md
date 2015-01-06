@@ -18,7 +18,7 @@ about each filing will be extracted from the header in **"filingslist.csv"**:
 - The original file name
 - The new file name (CIK+"-"+filing\_date+".txt")
 
-The parser will read a text document named include.txt, if this document is not
+The parser will read a text document named **"include.txt"**, if this document is not
 present it will include all files in "./files/input/" by
 default. It will then read another text document named **"exclude.txt"**, if this
 document is not present it will exclude no files by default. Files which could
